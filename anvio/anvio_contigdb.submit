@@ -1,0 +1,20 @@
+########################################################################
+### Krys Kibler 2024-07-22
+### Condor submit file for running contigdb creation with anvio
+### Purpose: running gen-cogs on anvio
+########################################################################
+
+executable = /home/glbrc.org/kjkibler/cyanoSTRONG/krys/analysis/anvio/anvio_contigdb.sh
+
+
+request_cpus = 8
+request_memory = 64GB
+
+
+
+output = /home/glbrc.org/kjkibler/cyanoSTRONG/krys/analysis/condor/outs/$(Cluster)_anvio.out
+error = /home/glbrc.org/kjkibler/cyanoSTRONG/krys/analysis/condor/errs/$(Cluster)_anvio.err
+log = /home/glbrc.org/kjkibler/cyanoSTRONG/krys/analysis/condor/logs/$(Cluster)_anvio.log
+
+
+queue 

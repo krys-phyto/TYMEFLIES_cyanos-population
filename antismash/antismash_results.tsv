@@ -1,0 +1,483 @@
+Contig  Region	Type	From	To	Most-similar-known-cluster	Similarity
+APHAN_134.Contig_3  Region_3.1	T1PKS	"7,815"	"50,058"	bartoloside 2/bartoloside 3/bartoloside 4;Other	18%
+APHAN_134.Contig_5  Region_5.1	"T1PKS,hglE-KS,NRPS"	"22,017"	"108,367"	heterocyst glycolipids;Other	85%
+APHAN_134.Contig_11 Region_11.1	hglE-KS	"52,582"	"78,750"	desmamide A/desmamide B/desmamide C;NRP+Polyketide	18%
+APHAN_134.Contig_16 Region_16.1	lanthipeptide-class-v	"7,679"	"49,937"	hassallidin C;NRP+Saccharide:Hybrid/tailoring saccharide	6%
+APHAN_134.Contig_22 Region_22.1	NRPS	"20,963"	"61,933"	varlaxin 1046A/varlaxin 1022A;NRP	9%
+APHAN_134.Contig_27 Region_27.1	lanthipeptide-class-v	1	"29,047"		
+APHAN_134.Contig_31 Region_31.1	terpene	"24,266"	"42,152"		
+APHAN_134.Contig_44 Region_44.1	NRPS	"5,402"	"33,059"	desmamide A/desmamide B/desmamide C;NRP+Polyketide	27%
+APHAN_134.Contig_67 Region_67.1	terpene	1	"17,660"		
+APHAN_134.Contig_73 Region_73.1	NRPS	1	"18,535"	aeruginoside 126B/aeruginoside 126A;NRP:Glycopeptide+Polyketide:Other polyketide+Saccharide:Hybrid/tailoring saccharide	29%
+APHAN_134.Contig_77 Region_77.1	terpene	1	"17,419"		
+CYANO_106.Contig_2  Region_141.1	terpene	"17,114"	"38,046"		
+CYANO_106.Contig_6  Region_145.1	lanthipeptide-class-v	"20,716"	"61,836"		
+CYANO_106.Contig_13 Region_152.1	lanthipeptide-class-v	1	"28,162"		
+CYANO_106.Contig_14 Region_153.1	hglE-KS	1	"30,344"	heterocyst glycolipids;Other	42%
+CYANO_106.Contig_26 Region_165.1	hglE-KS	1	"34,515"	heterocyst glycolipids;Other	71%
+CYANO_106.Contig_53 Region_192.1	NRPS	1	"20,440"	hassallidin C;NRP+Saccharide:Hybrid/tailoring saccharide	37%
+CYANO_106.Contig_62 Region_201.1	arylpolyene	1	"18,458"	TP-1161;RiPP:Thiopeptide	8%
+CYANO_106.Contig_66 Region_205.1	NRPS	1	"17,083"	hassallidin C;NRP+Saccharide:Hybrid/tailoring saccharide	12%
+CYANO_106.Contig_72 Region_211.1	NRPS	1	"14,988"		
+CYANO_106.Contig_76 Region_215.1	NRPS	1	"14,271"	hassallidin C;NRP+Saccharide:Hybrid/tailoring saccharide	15%
+CYANO_106.Contig_83 Region_222.1	terpene	1	"13,056"		
+CYANO_106.Contig_133  Region_272.1	terpene	1	"6,342"		
+CYANO_45.Contig_3 Region_326.1	terpene	"163,361"	"184,179"		
+CYANO_45.Contig_5 Region_328.1	terpene	"44,928"	"65,827"		
+CYANO_45.Contig_12  Region_335.1	cyanobactin	"22,382"	"53,748"	prenylagaramide B/prenylagaramide C;RiPP:Lanthipeptide	82%
+CYANO_45.Contig_13  Region_336.1	"NRPS,betalactone"	"26,973"	"97,254"	anabaenopeptin NZ857/nostamide A;NRP	77%
+CYANO_45.Contig_18  Region_341.1	"NRPS,NRPS-like"	1	"40,303"	aeruginoside 126B/aeruginoside 126A;NRP:Glycopeptide+Polyketide:Other polyketide+Saccharide:Hybrid/tailoring saccharide	70%
+CYANO_45.Contig_33  Region_356.1	terpene	"15,468"	"37,459"		
+CYANO_51_1.Contig_10  Region_410.1	lanthipeptide-class-v	"17,859"	"60,159"		
+CYANO_51_1.Contig_26  Region_426.1	"T1PKS,NRPS-like,NRPS"	1	"51,278"	puwainaphycin F/minutissamide A;NRP	66%
+CYANO_51_1.Contig_35  Region_435.1	"T1PKS,NRPS"	1	"47,610"	vatiamide A/vatiamide B/vatiamide C/vatiamide D/vatiamide E/vatiamide F;NRP+Polyketide	10%
+CYANO_51_1.Contig_39  Region_439.1	NRPS	"1,858"	"45,058"	anachelin;NRP+Polyketide	25%
+CYANO_51_1.Contig_41  Region_441.1	cyanobactin	"33,986"	"44,692"		
+CYANO_51_1.Contig_54  Region_454.1	RRE-containing	"25,205"	"40,484"		
+CYANO_51_1.Contig_69  Region_469.1	terpene	1	"12,537"		
+CYANO_51_1.Contig_71  Region_471.1	NRPS-like	"2,538"	"34,472"		
+CYANO_51_1.Contig_203 Region_603.1	"spliceotide,RRE-containing"	1	"9,799"	PcpA;RiPP	50%
+CYANO_51_1.Contig_264 Region_664.1	NRPS	1	"4,912"		
+CYANO_79.Contig_14  Region_711.1	terpene	1	"11,134"		
+CYANO_79.Contig_66  Region_763.1	terpene	1	"7,398"		
+CYANO_79.Contig_130 Region_827.1	terpene	1	"5,627"		
+CYANO_79.Contig_357 Region_1054.1	terpene	1	"3,531"		
+CYANO_84.Contig_3 Region_1334.1	terpene	1	"19,858"		
+CYANO_84.Contig_5 Region_1336.1	"T1PKS,hglE-KS"	1	"31,168"	heterocyst glycolipids;Other	85%
+CYANO_84.Contig_20  Region_1351.1	lanthipeptide-class-v	1	"31,393"	nucleocidin;Other	8%
+CYANO_84.Contig_21  Region_1352.1	hglE-KS	1	"20,951"	fischerindole L;Alkaloid	6%
+CYANO_84.Contig_24  Region_1355.1	hglE-KS	1	"30,137"	heterocyst glycolipids;Other	57%
+CYANO_84.Contig_33  Region_1364.1	thioamitides	"13,787"	"25,512"		
+CYANO_84.Contig_36  Region_1367.1	NRPS-like	1	"25,102"	malyngamide C acetate;NRP+Polyketide	6%
+CYANO_84.Contig_72  Region_1403.1	cyanobactin	"7,076"	"18,345"	anacyclamide A10;RiPP:Cyanobactin	28%
+CYANO_84.Contig_106 Region_1437.1	terpene	1	"13,515"		
+CYANO_84.Contig_126 Region_1457.1	RiPP-like	"6,145"	"12,166"		
+CYANO_84.Contig_132 Region_1463.1	terpene	1	"11,769"		
+CYANO_84.Contig_133 Region_1464.1	lanthipeptide-class-v	1	"11,688"		
+CYANO_84.Contig_357 Region_1688.1	NRPS-like	1	"3,363"		
+CYANO_84.Contig_396 Region_1727.1	T1PKS	1	"2,694"	1-heptadecene;Polyketide:Modular type I polyketide	100%
+CYBIM_101_1.Contig_14 Region_1760.1	T3PKS	1	"18,399"		
+CYBIM_101_1.Contig_33 Region_1779.1	"RRE-containing,lassopeptide"	1	"14,317"		
+CYBIM_101_1.Contig_49 Region_1795.1	lanthipeptide-class-ii	1	"12,080"		
+CYBIM_101_1.Contig_80 Region_1826.1	terpene	1	"9,417"		
+CYBIM_101_1.Contig_335  Region_2081.1	terpene	1	"3,086"		
+CYBIM_101.Contig_12 Region_2141.1	"RRE-containing,lassopeptide"	"1,567"	"24,143"		
+CYBIM_101.Contig_26 Region_2155.1	terpene	"22,986"	"35,643"		
+CYBIM_101.Contig_43 Region_2172.1	terpene	"4,782"	"21,899"		
+CYBIM_104.Contig_16 Region_2306.1	terpene	"63,365"	"81,118"		
+CYBIM_104.Contig_21 Region_2311.1	terpene	"36,626"	"57,546"		
+CYBIM_104.Contig_48 Region_2338.1	T3PKS	823	"22,845"	hierridin B/hierridin C;Polyketide	42%
+CYBIM_114.Contig_7  Region_2356.1	"RRE-containing,lassopeptide"	"13,302"	"28,392"		
+CYBIM_114.Contig_60 Region_2409.1	terpene	1	"11,214"		
+CYBIM_114.Contig_91 Region_2440.1	RiPP-like	1	"8,909"		
+CYBIM_114.Contig_149  Region_2498.1	terpene	1	"6,012"		
+CYBIM_114.Contig_305  Region_2654.1	T3PKS	1	"15,084"	hierridin B/hierridin C;Polyketide	28%
+CYBIM_119_1.Contig_50 Region_2712.1	terpene	1	"15,064"		
+CYBIM_119_1.Contig_148  Region_2810.1	terpene	1	"4,215"		
+CYBIM_119.Contig_8  Region_2844.1	terpene	"31,507"	"52,817"	capsular polysaccharide;Saccharide	11%
+CYBIM_119.Contig_17 Region_2853.1	terpene	"8,813"	"29,625"		
+CYBIM_119.Contig_22 Region_2858.1	T1PKS	1	"30,216"		
+CYBIM_119.Contig_40 Region_2876.1	NRPS	1	"26,913"		
+CYBIM_119.Contig_49 Region_2885.1	T3PKS	1	"14,933"	hierridin B/hierridin C;Polyketide	42%
+CYBIM_130_1.Contig_15 Region_2908.1	T3PKS	"27,143"	"48,647"	hierridin B/hierridin C;Polyketide	28%
+CYBIM_130_1.Contig_19 Region_2912.1	terpene	"26,829"	"39,926"		
+CYBIM_130.Contig_40 Region_3049.1	terpene	478	"11,535"		
+CYBIM_130.Contig_83 Region_3092.1	T1PKS	1	"8,162"	sporolide A/sporolide B;NRP+Polyketide:Enediyne type I polyketide	6%
+CYBIM_130.Contig_202  Region_3211.1	NRPS	1	"5,145"		
+CYBIM_130.Contig_218  Region_3227.1	NRPS	1	"4,899"		
+CYBIM_130.Contig_242  Region_3251.1	terpene	1	"4,605"		
+CYBIM_130.Contig_322  Region_3331.1	T3PKS	1	"3,476"	hierridin B/hierridin C;Polyketide	42%
+CYBIM_134_1.Contig_3  Region_3449.1	T3PKS	1	"28,476"	hierridin B/hierridin C;Polyketide	42%
+CYBIM_134_1.Contig_73 Region_3519.1	terpene	1	"10,482"		
+CYBIM_134_1.Contig_122  Region_3568.1	terpene	1	"7,184"		
+CYBIM_136_1.Contig_2  Region_3792.1	terpene	"25,155"	"46,441"		
+CYBIM_136_1.Contig_3  Region_3793.1	NRPS-like	1	"24,323"		
+CYBIM_136_1.Contig_7  Region_3797.1	terpene	"28,070"	"49,014"		
+CYBIM_157.Contig_1  Region_3865.1	T3PKS	"120,165"	"161,268"	hierridin B/hierridin C;Polyketide	42%
+CYBIM_157.Contig_3  Region_3867.1	terpene	"147,714"	"169,027"		
+CYBIM_157.Contig_12 Region_3876.1	terpene	"59,766"	"80,686"		
+CYBIM_15.Contig_48  Region_3943.1	RiPP-like	"5,048"	"15,051"		
+CYBIM_15.Contig_62  Region_3957.1	terpene	174	"13,321"		
+CYBIM_15.Contig_96  Region_3991.1	terpene	1	"9,842"		
+CYBIM_160.Contig_1  Region_4184.1	T3PKS	"256,160"	"297,260"	hierridin B/hierridin C;Polyketide	42%
+CYBIM_160.Contig_2  Region_4185.1	terpene	"140,738"	"161,661"		
+CYBIM_160.Contig_22 Region_4205.1	terpene	"1,609"	"22,880"		
+CYBIM_173.Contig_14 Region_4234.1	terpene	1	"15,421"		
+CYBIM_173.Contig_44 Region_4264.1	terpene	1	"10,103"		
+CYBIM_190.Contig_26 Region_4588.1	terpene	374	"20,448"		
+CYBIM_190.Contig_52 Region_4614.1	lanthipeptide-class-v	1	"15,314"		
+CYBIM_190.Contig_118  Region_4680.1	T3PKS	1	"8,457"	hierridin B/hierridin C;Polyketide	28%
+CYBIM_190.Contig_163  Region_4725.1	terpene	1	"6,761"		
+CYBIM_190.Contig_223  Region_4785.1	lanthipeptide-class-ii	1	"4,528"		
+CYBIM_190.Contig_316  Region_4878.1	"T1PKS,NRPS-like"	1	"16,048"	nostoclide N1/nostoclide N2;Other	16%
+CYBIM_200.Contig_2  Region_4883.1	T3PKS	"9,041"	"50,120"	hierridin B/hierridin C;Polyketide	42%
+CYBIM_200.Contig_2  Region_4883.2	terpene	"76,183"	"97,124"		
+CYBIM_200.Contig_7  Region_4888.1	terpene	"61,881"	"83,311"		
+CYBIM_200.Contig_9  Region_4890.1	"T1PKS,NRPS"	1	"76,194"	nannocystin a;NRP+Polyketide	21%
+CYBIM_200.Contig_10 Region_4891.1	NRPS	"47,764"	"76,673"	bartoloside 2/bartoloside 3/bartoloside 4;Other	18%
+CYBIM_200.Contig_32 Region_4913.1	NRPS	1	"30,022"	rhizomide A/rhizomide B/rhizomide C;NRP	100%
+CYBIM_200.Contig_37 Region_4918.1	lanthipeptide-class-ii	"9,485"	"26,886"	prochlorosins;RiPP:Lanthipeptide	23%
+CYBIM_200.Contig_50 Region_4931.1	"NRPS-like,NRPS"	1	"20,976"	xenoamicin A/xenoamicin B;NRP:Cyclic depsipeptide	20%
+CYBIM_200.Contig_133  Region_5014.1	"T1PKS,NRPS-like"	1	"48,279"	crocacin;NRP+Polyketide	28%
+CYBIM_22.Contig_34  Region_5048.1	T3PKS	577	"21,114"	hierridin B/hierridin C;Polyketide	42%
+CYBIM_22.Contig_38  Region_5052.1	terpene	"5,279"	"19,704"		
+CYBIM_22.Contig_77  Region_5091.1	terpene	"1,093"	"12,386"		
+CYBIM_22.Contig_83  Region_5097.1	T3PKS	1	"11,488"		
+CYBIM_231.Contig_26 Region_5362.1	NRPS	1	"19,260"	rhizomide A/rhizomide B/rhizomide C;NRP	100%
+CYBIM_231.Contig_68 Region_5404.1	terpene	1	"12,259"		
+CYBIM_231.Contig_144  Region_5480.1	RiPP-like	919	"7,504"		
+CYBIM_231.Contig_239  Region_5575.1	NRPS	1	"4,749"	anabaenopeptin NZ857/nostamide A;NRP	22%
+CYBIM_231.Contig_269  Region_5605.1	NRPS	1	"4,254"	rhizomide A/rhizomide B/rhizomide C;NRP	100%
+CYBIM_231.Contig_287  Region_5623.1	NRPS	1	"3,918"	bovienimide A;NRP:Lipopeptide	100%
+CYBIM_231.Contig_303  Region_5639.1	NRPS	1	"3,580"		
+CYBIM_231.Contig_361  Region_5697.1	terpene	1	"2,837"		
+CYBIM_231.Contig_404  Region_5740.1	NRPS	1	"2,535"	rhizomide A/rhizomide B/rhizomide C;NRP	100%
+CYBIM_28.Contig_18  Region_5771.1	terpene	"8,134"	"19,309"		
+CYBIM_28.Contig_49  Region_5802.1	NRPS-like	1	"12,064"		
+CYBIM_28.Contig_73  Region_5826.1	NRPS	1	"9,440"		
+CYBIM_28.Contig_125 Region_5878.1	terpene	1	"6,602"		
+CYBIM_28.Contig_203 Region_5956.1	T3PKS	1	"4,044"	hierridin B/hierridin C;Polyketide	42%
+CYBIM_31.Contig_4 Region_6055.1	T3PKS	"63,389"	"89,666"	hierridin B/hierridin C;Polyketide	42%
+CYBIM_31.Contig_5 Region_6056.1	terpene	"25,540"	"46,481"		
+CYBIM_31.Contig_6 Region_6057.1	lanthipeptide-class-ii	"2,711"	"26,043"		
+CYBIM_31.Contig_8 Region_6059.1	RiPP-like	"22,149"	"33,126"		
+CYBIM_31.Contig_15  Region_6066.1	T1PKS	"15,151"	"56,464"		
+CYBIM_31.Contig_18  Region_6069.1	terpene	"2,624"	"23,958"		
+CYBIM_39.Contig_4 Region_6173.1	T3PKS	1	"29,253"	hierridin B/hierridin C;Polyketide	42%
+CYBIM_39.Contig_9 Region_6178.1	"RRE-containing,lassopeptide"	"16,086"	"38,743"		
+CYBIM_39.Contig_39  Region_6208.1	terpene	"15,321"	"30,965"		
+CYBIM_39.Contig_40  Region_6209.1	terpene	1	"18,056"		
+CYBIM_51.Contig_10  Region_6242.1	NRPS-like	1	"21,525"	WLIP;NRP	28%
+CYBIM_51.Contig_78  Region_6310.1	NRPS	1	"13,014"		
+CYBIM_51.Contig_113 Region_6345.1	NRPS	1	"8,018"	rhizomide A/rhizomide B/rhizomide C;NRP	100%
+CYBIM_52.Contig_8 Region_6434.1	terpene	1	"12,384"		
+CYBIM_52.Contig_27  Region_6453.1	terpene	"14,137"	"29,422"		
+CYBIM_52.Contig_92  Region_6518.1	T3PKS	1	"5,222"	hierridin B/hierridin C;Polyketide	42%
+CYBIM_60_1.Contig_5 Region_6532.1	NRPS	"1,530"	"53,995"		
+CYBIM_60_1.Contig_6 Region_6533.1	"RRE-containing,lassopeptide"	"2,008"	"24,566"		
+CYBIM_60_1.Contig_6 Region_6533.2	lanthipeptide-class-ii	"93,532"	"107,183"		
+CYBIM_60_1.Contig_29  Region_6556.1	terpene	1	"19,522"		
+CYBIM_60_1.Contig_45  Region_6572.1	T3PKS	1	"26,816"	hierridin B/hierridin C;Polyketide	42%
+CYBIM_60_1.Contig_51  Region_6578.1	terpene	1	"17,422"		
+CYBIM_60_1.Contig_69  Region_6596.1	RRE-containing	1	"13,721"		
+CYBIM_63.Contig_2 Region_6647.1	T3PKS	1	"39,270"	hierridin B/hierridin C;Polyketide	42%
+CYBIM_63.Contig_2 Region_6647.2	terpene	"153,688"	"170,180"		
+CYBIM_63.Contig_7 Region_6652.1	lanthipeptide-class-iv	1	"15,732"		
+CYBIM_63.Contig_11  Region_6656.1	terpene	"56,646"	"77,647"		
+CYBIM_63.Contig_27  Region_6672.1	RiPP-like	"11,871"	"22,800"		
+CYBIM_67.Contig_10  Region_6765.1	terpene	"11,039"	"32,040"		
+CYBIM_67.Contig_56  Region_6811.1	T3PKS	1	"14,796"	hierridin B/hierridin C;Polyketide	42%
+CYBIM_73_1.Contig_9 Region_6973.1	T3PKS	"45,361"	"68,449"	hierridin B/hierridin C;Polyketide	42%
+CYBIM_73_1.Contig_14  Region_6978.1	terpene	"40,595"	"56,212"		
+CYBIM_73_1.Contig_37  Region_7001.1	terpene	1	"18,711"		
+CYBIM_73_1.Contig_43  Region_7007.1	"RRE-containing,lassopeptide"	"4,888"	"25,940"		
+CYBIM_73.Contig_3 Region_7075.1	terpene	"19,217"	"40,518"		
+CYBIM_73.Contig_4 Region_7076.1	"lassopeptide,RRE-containing"	"8,751"	"31,000"		
+CYBIM_73.Contig_5 Region_7077.1	"NRPS,NRPS-like"	"4,482"	"54,433"		
+CYBIM_73.Contig_15  Region_7087.1	terpene	"63,884"	"84,843"		
+CYBIM_76.Contig_2 Region_7108.1	RiPP-like	"186,921"	"197,850"		
+CYBIM_76.Contig_9 Region_7115.1	terpene	"20,682"	"41,917"		
+CYBIM_76.Contig_20  Region_7126.1	terpene	"35,614"	"56,549"		
+CYBIM_77.Contig_1 Region_7141.1	terpene	"55,084"	"76,379"		
+CYBIM_77.Contig_6 Region_7146.1	RRE-containing	"89,932"	"110,357"		
+CYBIM_77.Contig_8 Region_7148.1	NRPS	"8,253"	"54,048"		
+CYBIM_77.Contig_8 Region_7148.2	terpene	"73,625"	"94,518"		
+CYBIM_80.Contig_102 Region_7308.1	terpene	1	"6,850"		
+CYBIM_89.Contig_5 Region_7411.1	terpene	"124,336"	"137,219"		
+CYBIM_89.Contig_16  Region_7422.1	RRE-containing	"21,498"	"41,962"		
+CYBIM_89.Contig_19  Region_7425.1	T3PKS	"11,514"	"50,867"	hierridin B/hierridin C;Polyketide	42%
+CYBIM_89.Contig_21  Region_7427.1	terpene	"21,701"	"42,633"		
+CYBIM_90.Contig_4 Region_7466.1	T3PKS	"75,597"	"95,781"		
+CYBIM_90.Contig_19  Region_7481.1	terpene	"8,939"	"29,838"		
+CYBIM_90.Contig_32  Region_7494.1	terpene	1	"18,070"		
+CYBIM_93.Contig_1 Region_7612.1	terpene	"204,473"	"225,474"		
+CYBIM_93.Contig_7 Region_7618.1	"terpene,T3PKS"	"8,012"	"61,398"	hierridin B/hierridin C;Polyketide	42%
+CYBIM_94.Contig_6 Region_7676.1	terpene	"3,773"	"25,074"		
+CYBIM_94.Contig_24  Region_7694.1	lanthipeptide-class-v	1	"28,087"		
+CYBIM_94.Contig_44  Region_7714.1	PBDE	1	"16,912"		
+CYBIM_94.Contig_76  Region_7746.1	terpene	1	"11,025"		
+CYBIM_94.Contig_189 Region_7859.1	NRPS	1	"2,804"		
+CYBIM_96.Contig_6 Region_7879.1	T1PKS	1	"25,784"	neocarzinostatin;Polyketide:Iterative type I polyketide+Polyketide:Enediyne type I polyketide	4%
+CYBIM_96.Contig_19  Region_7892.1	terpene	"4,428"	"15,308"		
+CYBIM_96.Contig_86  Region_7959.1	T3PKS	1	"8,420"	hierridin B/hierridin C;Polyketide	42%
+CYBIM_96.Contig_150 Region_8023.1	terpene	1	"5,950"		
+CYBIM_96.Contig_405 Region_8278.1	RiPP-like	1	"3,679"		
+DOLIS_105.Contig_1  Region_8283.1	"NRPS,betalactone"	1	"66,962"	anabaenopeptin NZ857/nostamide A;NRP	100%
+DOLIS_105.Contig_2  Region_8284.1	NRPS-like	"15,180"	"51,324"	melithiazol A;NRP+Polyketide:Modular type I polyketide	10%
+DOLIS_105.Contig_3  Region_8285.1	hglE-KS	1	"27,858"	heterocyst glycolipids;Other	57%
+DOLIS_105.Contig_8  Region_8290.1	lanthipeptide-class-v	1	"36,634"		
+DOLIS_105.Contig_19 Region_8301.1	"thiopeptide,LAP"	1	"29,658"		
+DOLIS_105.Contig_36 Region_8318.1	"T1PKS,hglE-KS"	1	"25,377"	heterocyst glycolipids;Other	85%
+DOLIS_105.Contig_113  Region_8395.1	terpene	"1,638"	"14,778"		
+DOLIS_105.Contig_122  Region_8404.1	"NRPS-like,T1PKS"	1	"13,906"	malyngamide C acetate;NRP+Polyketide	20%
+DOLIS_105.Contig_136  Region_8418.1	NRPS	1	"13,297"		
+DOLIS_105.Contig_140  Region_8422.1	terpene	1	"13,158"		
+DOLIS_105.Contig_142  Region_8424.1	terpene	1	"12,853"		
+DOLIS_105.Contig_169  Region_8451.1	cyanobactin	1	"11,508"	anacyclamide A10;RiPP:Cyanobactin	50%
+DOLIS_105.Contig_217  Region_8499.1	cyanobactin	1	"9,527"	anacyclamide A10;RiPP:Cyanobactin	35%
+DOLIS_187.Contig_2  Region_8759.1	cyanobactin	"7,682"	"34,551"	anacyclamide A10;RiPP:Cyanobactin	57%
+DOLIS_187.Contig_7  Region_8764.1	"hglE-KS,T1PKS"	"14,612"	"66,735"	heterocyst glycolipids;Other	85%
+DOLIS_187.Contig_9  Region_8766.1	hglE-KS	"38,967"	"85,689"	heterocyst glycolipids;Other	57%
+DOLIS_187.Contig_17 Region_8774.1	terpene	"34,411"	"55,343"		
+DOLIS_187.Contig_22 Region_8779.1	lanthipeptide-class-v	1	"31,457"		
+DOLIS_187.Contig_43 Region_8800.1	RRE-containing	"25,430"	"37,175"		
+DOLIS_187.Contig_47 Region_8804.1	terpene	"11,456"	"33,369"		
+DOLIS_187.Contig_49 Region_8806.1	lanthipeptide-class-v	1	"30,809"		
+DOLIS_187.Contig_71 Region_8828.1	NRPS	1	"23,272"	varlaxin 1046A/varlaxin 1022A;NRP	9%
+DOLIS_187.Contig_76 Region_8833.1	NRPS	1	"20,710"	scytocyclamide A/scytocyclamide B/scytocyclamide B3/scytocyclamide C/scytocyclamide A2/scytocyclamide B2;NRP+Polyketide	38%
+DOLIS_187.Contig_84 Region_8841.1	LAP	1	"12,333"		
+DOLIS_187.Contig_104  Region_8861.1	terpene	1	"14,306"		
+DOLIS_187.Contig_120  Region_8877.1	"RRE-containing,spliceotide"	1	"8,278"		
+DOLIS_36.Contig_2 Region_8912.1	terpene	1	"14,717"	geosmin;Terpene	100%
+DOLIS_36.Contig_4 Region_8914.1	NRPS	1	"10,775"		
+DOLIS_36.Contig_23  Region_8933.1	NRPS	1	"7,457"	scytocyclamide A/scytocyclamide B/scytocyclamide B3/scytocyclamide C/scytocyclamide A2/scytocyclamide B2;NRP+Polyketide	46%
+DOLIS_36.Contig_51  Region_8961.1	hglE-KS	1	"5,853"		
+DOLIS_36.Contig_74  Region_8984.1	hglE-KS	1	"5,192"		
+DOLIS_36.Contig_100 Region_9010.1	cyanobactin	1	"4,796"	anacyclamide A10;RiPP:Cyanobactin	42%
+DOLIS_36.Contig_106 Region_9016.1	LAP	1	"4,740"		
+DOLIS_36.Contig_151 Region_9061.1	"RRE-containing,spliceotide"	1	"4,140"		
+DOLIS_36.Contig_190 Region_9100.1	NRPS	1	"3,876"		
+DOLIS_36.Contig_201 Region_9111.1	lanthipeptide-class-v	1	"3,791"		
+DOLIS_36.Contig_286 Region_9196.1	terpene	1	"3,349"		
+DOLIS_36.Contig_305 Region_9215.1	hglE-KS	1	"3,244"		
+DOLIS_36.Contig_473 Region_9383.1	NRPS	1	"2,644"		
+DOLIS_36.Contig_539 Region_9449.1	NRPS-like	1	"3,813"	cyanochelin A;NRP+Polyketide	18%
+DOLIS_36.Contig_551 Region_9461.1	NRPS	1	"2,841"		
+DOLIS_36.Contig_560 Region_9470.1	NRPS	1	"7,316"	cyanopeptolin;NRP	42%
+DOLIS_53.Contig_3 Region_9487.1	NRPS-like	1	"13,877"		
+DOLIS_53.Contig_8 Region_9492.1	hglE-KS	1	"11,053"	heterocyst glycolipids;Other	42%
+DOLIS_53.Contig_15  Region_9499.1	cyanobactin	1	"9,391"	anacyclamide A10;RiPP:Cyanobactin	35%
+DOLIS_53.Contig_74  Region_9558.1	NRPS	1	"6,430"	anabaenopeptin NZ857/nostamide A;NRP	22%
+DOLIS_53.Contig_104 Region_9588.1	NRPS	1	"5,947"	anabaenopeptin;NRP	28%
+DOLIS_53.Contig_112 Region_9596.1	NRPS	1	"5,827"	nostocyclopeptide A2;NRP	28%
+DOLIS_53.Contig_144 Region_9628.1	hglE-KS	1	"5,272"	desmamide A/desmamide B/desmamide C;NRP+Polyketide	18%
+DOLIS_53.Contig_187 Region_9671.1	RiPP-like	1	"4,820"		
+DOLIS_53.Contig_250 Region_9734.1	NRPS	1	"4,238"		
+DOLIS_53.Contig_284 Region_9768.1	NRPS	1	"4,030"		
+DOLIS_53.Contig_393 Region_9877.1	terpene	1	"3,352"		
+DOLIS_53.Contig_403 Region_9887.1	lanthipeptide-class-v	1	"3,312"		
+DOLIS_53.Contig_416 Region_9900.1	NRPS	1	"3,244"	anachelin;NRP+Polyketide	10%
+DOLIS_53.Contig_498 Region_9982.1	terpene	1	"2,914"		
+DOLIS_53.Contig_602 Region_10086.1	cyanobactin	1	"2,549"	anacyclamide A10;RiPP:Cyanobactin	35%
+MCYST_100.Contig_32 Region_10137.1	NRPS	1	"10,026"	cyanopeptolin;NRP	57%
+MCYST_100.Contig_34 Region_10139.1	T1PKS	1	"9,620"		
+MCYST_100.Contig_43 Region_10148.1	RiPP-like	1	"9,136"		
+MCYST_100.Contig_107  Region_10212.1	T3PKS	1	"6,786"		
+MCYST_100.Contig_169  Region_10274.1	"NRPS,betalactone"	1	"5,815"	anabaenopeptin NZ857/nostamide A;NRP	44%
+MCYST_100.Contig_194  Region_10299.1	lanthipeptide-class-v	1	"5,455"		
+MCYST_100.Contig_199  Region_10304.1	terpene	1	"5,381"		
+MCYST_100.Contig_271  Region_10376.1	LAP	1	"4,479"		
+MCYST_100.Contig_352  Region_10457.1	terpene	1	"3,678"		
+MCYST_100.Contig_437  Region_10542.1	NRPS	1	"3,117"	heinamide A1/heinamide A2/heinamide A3/heinamide B1/heinamide B2/heinamide B3/heinamide B4/heinamide B5;NRP+Polyketide	36%
+MCYST_100.Contig_470  Region_10575.1	NRPS-like	1	"2,958"	scytocyclamide A/scytocyclamide B/scytocyclamide B3/scytocyclamide C/scytocyclamide A2/scytocyclamide B2;NRP+Polyketide	38%
+MCYST_100.Contig_571  Region_10676.1	cyanobactin	1	"5,246"	piricyclamide 7005E1/piricyclamide 7005E2/piricyclamide 7005E3/piricyclamide 7005E4;RiPP	58%
+MCYST_100.Contig_576  Region_10681.1	NRPS	1	"3,327"	bovienimide A;NRP:Lipopeptide	100%
+MCYST_100.Contig_577  Region_10682.1	NRPS-like	1	"3,314"	cyanopeptolin;NRP	71%
+MCYST_157.Contig_29 Region_10730.1	lassopeptide	1	"10,031"		
+MCYST_157.Contig_31 Region_10732.1	LAP	1	"9,967"		
+MCYST_157.Contig_77 Region_10778.1	cyanobactin	1	"7,549"		
+MCYST_157.Contig_100  Region_10801.1	terpene	1	"7,028"		
+MCYST_157.Contig_118  Region_10819.1	NRPS	1	"6,656"	anabaenopeptin 908/anabaenopeptin 915;NRP	60%
+MCYST_157.Contig_136  Region_10837.1	microviridin	1	"6,321"	microviridin B;RiPP:Microviridin	100%
+MCYST_157.Contig_178  Region_10879.1	NRPS	1	"5,526"		
+MCYST_157.Contig_270  Region_10971.1	terpene	1	"4,680"		
+MCYST_157.Contig_292  Region_10993.1	cyanobactin	1	"4,539"	prenylagaramide B/prenylagaramide C;RiPP:Lanthipeptide	30%
+MCYST_157.Contig_328  Region_11029.1	cyanobactin	1	"4,292"	anacyclamide A10;RiPP:Cyanobactin	28%
+MCYST_157.Contig_369  Region_11070.1	RRE-containing	1	"4,023"		
+MCYST_157.Contig_494  Region_11195.1	NRPS-like	1	"3,376"	scytocyclamide A/scytocyclamide B/scytocyclamide B3/scytocyclamide C/scytocyclamide A2/scytocyclamide B2;NRP+Polyketide	38%
+MCYST_157.Contig_514  Region_11215.1	NRPS	1	"3,257"	rhizomide A/rhizomide B/rhizomide C;NRP	100%
+MCYST_157.Contig_522  Region_11223.1	T1PKS	1	"3,217"		
+MCYST_157.Contig_563  Region_11264.1	betalactone	1	"3,094"	anabaenopeptin NZ857/nostamide A;NRP	66%
+MCYST_157.Contig_569  Region_11270.1	T1PKS	1	"3,076"	1-heptadecene;Polyketide:Modular type I polyketide	100%
+MCYST_162_1.Contig_24 Region_11459.1	terpene	1	"10,231"		
+MCYST_162_1.Contig_42 Region_11477.1	lassopeptide	1	"8,913"		
+MCYST_162_1.Contig_53 Region_11488.1	betalactone	1	"8,385"		
+MCYST_162_1.Contig_70 Region_11505.1	"NRPS-like,NRPS"	1	"7,314"	aeruginosin 98-A/aeruginosin 98-B/aeruginosin 98-C;NRP	21%
+MCYST_162_1.Contig_90 Region_11525.1	T1PKS	1	"6,812"	nostoclide N1/nostoclide N2;Other	22%
+MCYST_162_1.Contig_91 Region_11526.1	T1PKS	1	"6,791"	hapalosin;NRP:Cyclic depsipeptide+Polyketide:Modular type I polyketide	40%
+MCYST_162_1.Contig_120  Region_11555.1	lassopeptide	1	"6,070"		
+MCYST_162_1.Contig_149  Region_11584.1	RiPP-like	1	"5,769"		
+MCYST_162_1.Contig_165  Region_11600.1	LAP	1	"5,458"		
+MCYST_162_1.Contig_185  Region_11620.1	"NRPS-like,NRPS"	1	"5,086"	microcystin LR;NRP+Polyketide:Modular type I polyketide	17%
+MCYST_162_1.Contig_231  Region_11666.1	terpene	1	"4,696"		
+MCYST_162_1.Contig_274  Region_11709.1	arylpolyene	1	"4,266"		
+MCYST_162_1.Contig_317  Region_11752.1	cyanobactin	1	"3,852"		
+MCYST_162_1.Contig_361  Region_11796.1	T1PKS	1	"3,606"		
+MCYST_162_1.Contig_426  Region_11861.1	NRPS	1	"3,287"	microcystin LR;NRP+Polyketide:Modular type I polyketide	11%
+MCYST_162_1.Contig_441  Region_11876.1	NRPS	1	"3,228"	aeruginosin 98-A/aeruginosin 98-B/aeruginosin 98-C;NRP	14%
+MCYST_162_1.Contig_538  Region_11973.1	NRPS	1	"2,843"		
+MCYST_162_1.Contig_601  Region_12036.1	NRPS	1	"2,636"	aeruginosin 98-A/aeruginosin 98-B/aeruginosin 98-C;NRP	14%
+MCYST_162_1.Contig_620  Region_12055.1	NRPS	1	"2,547"		
+MCYST_162_1.Contig_623  Region_12058.1	cyanobactin	1	"2,543"		
+MCYST_162_1.Contig_669  Region_12104.1	NRPS	1	"4,742"	cyanopeptolin;NRP	57%
+MCYST_162_1.Contig_670  Region_12105.1	NRPS	1	"3,139"		
+MCYST_162_1.Contig_673  Region_12108.1	cyanobactin	1	"2,912"	piricyclamide 7005E1/piricyclamide 7005E2/piricyclamide 7005E3/piricyclamide 7005E4;RiPP	33%
+MCYST_162_2.Contig_4  Region_12114.1	LAP	269	"17,969"		
+MCYST_162_2.Contig_5  Region_12115.1	NRPS	1	"17,548"	anabaenopeptin 908/anabaenopeptin 915;NRP	80%
+MCYST_162_2.Contig_26 Region_12136.1	NRPS	1	"10,282"	anabaenopeptin 908/anabaenopeptin 915;NRP	100%
+MCYST_162_2.Contig_37 Region_12147.1	NRPS	1	"9,316"		
+MCYST_162_2.Contig_58 Region_12168.1	T1PKS	1	"7,886"	microginin;NRP+Polyketide	28%
+MCYST_162_2.Contig_82 Region_12192.1	T1PKS	1	"7,142"		
+MCYST_162_2.Contig_101  Region_12211.1	terpene	1	"6,352"		
+MCYST_162_2.Contig_178  Region_12288.1	T1PKS	1	"4,874"		
+MCYST_162_2.Contig_196  Region_12306.1	NRPS-like	1	"4,699"	microginin;NRP+Polyketide	57%
+MCYST_162_2.Contig_200  Region_12310.1	NRPS	1	"4,664"	cyanopeptolin;NRP	57%
+MCYST_162_2.Contig_220  Region_12330.1	RRE-containing	1	"4,432"		
+MCYST_162_2.Contig_275  Region_12385.1	"NRPS-like,T1PKS"	1	"3,995"	minutissamide A/minutissamide C/minutissamide D;NRP	30%
+MCYST_162_2.Contig_288  Region_12398.1	cyanobactin	1	"3,942"		
+MCYST_162_2.Contig_318  Region_12428.1	NRPS-like	1	"3,729"	anachelin;NRP+Polyketide	10%
+MCYST_162_2.Contig_325  Region_12435.1	cyanobactin	1	"3,704"	prenylagaramide B/prenylagaramide C;RiPP:Lanthipeptide	17%
+MCYST_162_2.Contig_581  Region_12691.1	terpene	1	"2,709"		
+MCYST_162.Contig_12 Region_12790.1	LAP	1	"11,366"		
+MCYST_162.Contig_14 Region_12792.1	T1PKS	1	"11,132"	"1-nonadecene/(14Z)-1,14-nonadecadiene;Polyketide:Modular type I polyketide"	100%
+MCYST_162.Contig_49 Region_12827.1	RiPP-like	1	"7,164"		
+MCYST_162.Contig_70 Region_12848.1	microviridin	1	"6,631"	microviridin B;RiPP:Microviridin	100%
+MCYST_162.Contig_136  Region_12914.1	terpene	1	"5,283"		
+MCYST_162.Contig_158  Region_12936.1	terpene	1	"4,913"		
+MCYST_162.Contig_164  Region_12942.1	T1PKS	1	"4,812"		
+MCYST_162.Contig_236  Region_13014.1	lanthipeptide-class-v	1	"4,013"		
+MCYST_162.Contig_260  Region_13038.1	NRPS	1	"3,692"	nostophycin;NRP+Polyketide	18%
+MCYST_162.Contig_381  Region_13159.1	cyanobactin	1	"2,872"		
+MCYST_24.Contig_23  Region_13245.1	NRPS	1	"7,834"	cyanopeptolin;NRP	42%
+MCYST_24.Contig_59  Region_13281.1	NRPS	1	"6,046"	micropeptin K139;NRP	37%
+MCYST_24.Contig_151 Region_13373.1	terpene	1	"4,632"		
+MCYST_24.Contig_186 Region_13408.1	terpene	1	"4,327"		
+MCYST_24.Contig_328 Region_13550.1	microviridin	1	"3,393"	microviridin 1777;RiPP	66%
+MCYST_24.Contig_372 Region_13594.1	lanthipeptide-class-v	1	"3,123"		
+MCYST_24.Contig_456 Region_13678.1	NRPS-like	1	"2,742"	aeruginosin 98-A/aeruginosin 98-B/aeruginosin 98-C;NRP	21%
+MCYST_24.Contig_464 Region_13686.1	cyanobactin	1	"2,704"		
+MCYST_2.Contig_1  Region_13752.1	"NRPS,T1PKS,NRPS-like"	1	"80,472"	microcystin LR;NRP+Polyketide:Modular type I polyketide	76%
+MCYST_2.Contig_3  Region_13754.1	"NRPS,microviridin,resorcinol"	1	"68,171"	cyanopeptolin;NRP	100%
+MCYST_2.Contig_7  Region_13758.1	lanthipeptide-class-v	"32,749"	"62,435"		
+MCYST_2.Contig_8  Region_13759.1	terpene	1	"17,652"		
+MCYST_2.Contig_35 Region_13786.1	terpene	1	"18,753"		
+MCYST_2.Contig_41 Region_13792.1	NRPS	1	"31,635"	nostocyclopeptide A2;NRP	42%
+MCYST_2.Contig_44 Region_13795.1	terpene	"10,008"	"30,817"		
+MCYST_2.Contig_46 Region_13797.1	T1PKS	"5,090"	"29,908"	microginin;NRP+Polyketide	57%
+MCYST_2.Contig_58 Region_13809.1	NRPS	1	"25,817"	aeruginosin 98-A/aeruginosin 98-B/aeruginosin 98-C;NRP	71%
+MCYST_2.Contig_59 Region_13810.1	"NRPS-like,T1PKS"	1	"25,644"	nostoclide N1/nostoclide N2;Other	22%
+MCYST_2.Contig_71 Region_13822.1	NRPS	1	"22,726"	aeruginosin 98-A/aeruginosin 98-B/aeruginosin 98-C;NRP	28%
+MCYST_2.Contig_78 Region_13829.1	"T1PKS,NRPS-like"	1	"21,790"	"1-nonadecene/(14Z)-1,14-nonadecadiene;Polyketide:Modular type I polyketide"	100%
+MCYST_2.Contig_94 Region_13845.1	"T3PKS,T1PKS"	1	"19,294"	merocyclophane C/merocyclophane D;Polyketide	44%
+MCYST_2.Contig_171  Region_13922.1	microviridin	1	"9,560"	microviridin B;RiPP:Microviridin	100%
+MCYST_2.Contig_186  Region_13937.1	microviridin	1	"8,158"	micropeptin K139;NRP	25%
+MCYST_31.Contig_2 Region_14003.1	microviridin	"37,766"	"57,918"	microviridin B;RiPP:Microviridin	100%
+MCYST_31.Contig_8 Region_14009.1	NRPS	1	"44,939"	micropeptin K139;NRP	37%
+MCYST_31.Contig_9 Region_14010.1	"NRPS-like,T1PKS,T3PKS"	"3,531"	"49,674"	merocyclophane C/merocyclophane D;Polyketide	55%
+MCYST_31.Contig_18  Region_14019.1	"T1PKS,NRPS,hglE-KS"	"5,632"	"40,103"	phenalamide;NRP+Polyketide	40%
+MCYST_31.Contig_30  Region_14031.1	NRPS	1	"29,226"	aeruginosin 98-A/aeruginosin 98-B/aeruginosin 98-C;NRP	50%
+MCYST_31.Contig_35  Region_14036.1	"hglE-KS,RRE-containing"	1	"27,262"		
+MCYST_31.Contig_39  Region_14040.1	"T1PKS,terpene"	1	"25,799"	calicheamicin;Polyketide	4%
+MCYST_31.Contig_60  Region_14061.1	LAP	"5,151"	"19,637"		
+MCYST_31.Contig_99  Region_14100.1	NRPS	1	"12,513"		
+MCYST_31.Contig_106 Region_14107.1	terpene	1	"11,421"		
+MCYST_31.Contig_109 Region_14110.1	"NRPS-like,NRPS"	1	"11,352"	aeruginosin 98-A/aeruginosin 98-B/aeruginosin 98-C;NRP	42%
+MCYST_31.Contig_121 Region_14122.1	NRPS	1	"10,329"	anabaenopeptin;NRP	42%
+MCYST_31.Contig_123 Region_14124.1	cyanobactin	1	"10,176"	piricyclamide 7005E1/piricyclamide 7005E2/piricyclamide 7005E3/piricyclamide 7005E4;RiPP	58%
+MCYST_31.Contig_145 Region_14146.1	NRPS-like	1	"8,768"	microcystin LR;NRP+Polyketide:Modular type I polyketide	35%
+MCYST_31.Contig_155 Region_14156.1	NRPS	1	"7,923"	cyanopeptolin;NRP	57%
+MCYST_31.Contig_199 Region_14200.1	cyanobactin	1	"6,326"	piricyclamide 7005E1/piricyclamide 7005E2/piricyclamide 7005E3/piricyclamide 7005E4;RiPP	33%
+MCYST_31.Contig_216 Region_14217.1	terpene	1	"5,887"		
+MCYST_31.Contig_218 Region_14219.1	NRPS	1	"5,859"	scytocyclamide A/scytocyclamide B/scytocyclamide B3/scytocyclamide C/scytocyclamide A2/scytocyclamide B2;NRP+Polyketide	53%
+MCYST_31.Contig_327 Region_14328.1	"NRPS,NRPS-like"	1	"3,809"	microcystin LR;NRP+Polyketide:Modular type I polyketide	11%
+MCYST_31.Contig_360 Region_14361.1	NRPS-like	1	"3,486"	anabaenopeptin NZ857/nostamide A;NRP	44%
+MCYST_31.Contig_404 Region_14405.1	NRPS	1	"3,021"	kolossin;NRP	100%
+MCYST_56.Contig_3 Region_14486.1	"microviridin,NRPS"	1	"62,616"	cyanopeptolin;NRP	100%
+MCYST_56.Contig_5 Region_14488.1	"hglE-KS,RRE-containing"	"10,141"	"56,288"		
+MCYST_56.Contig_9 Region_14492.1	"T1PKS,NRPS-like"	1	"47,334"	cyanochelin A;NRP+Polyketide	18%
+MCYST_56.Contig_18  Region_14501.1	resorcinol	196	"37,307"	bartoloside 2/bartoloside 3/bartoloside 4;Other	45%
+MCYST_56.Contig_37  Region_14520.1	"T1PKS,NRPS"	1	"29,344"	microginin;NRP+Polyketide	100%
+MCYST_56.Contig_43  Region_14526.1	terpene	1	"15,142"		
+MCYST_56.Contig_47  Region_14530.1	LAP	1	"23,129"		
+MCYST_56.Contig_66  Region_14549.1	cyanobactin	1	"21,349"	prenylagaramide B/prenylagaramide C;RiPP:Lanthipeptide	65%
+MCYST_56.Contig_73  Region_14556.1	"betalactone,NRPS"	1	"20,061"	anabaenopeptin;NRP	85%
+MCYST_56.Contig_80  Region_14563.1	RRE-containing	"4,683"	"19,115"		
+MCYST_56.Contig_95  Region_14578.1	terpene	"1,380"	"17,319"		
+MCYST_56.Contig_211 Region_14694.1	terpene	1	"8,641"		
+MCYST_56.Contig_228 Region_14711.1	RRE-containing	1	"7,634"		
+MCYST_56.Contig_368 Region_14851.1	cyanobactin	1	"3,022"		
+MCYST_62.Contig_5 Region_14888.1	"T1PKS,T3PKS,NRPS-like"	1	"47,548"	merocyclophane C/merocyclophane D;Polyketide	55%
+MCYST_62.Contig_9 Region_14892.1	T1PKS	1	"32,135"	bartoloside 2/bartoloside 3/bartoloside 4;Other	27%
+MCYST_62.Contig_13  Region_14896.1	terpene	"19,040"	"39,972"		
+MCYST_62.Contig_19  Region_14902.1	"T1PKS,NRPS"	1	"37,417"	microginin;NRP+Polyketide	100%
+MCYST_62.Contig_59  Region_14942.1	NRPS-like	1	"22,015"		
+MCYST_62.Contig_81  Region_14964.1	terpene	1	"18,035"		
+MCYST_62.Contig_120 Region_15003.1	NRPS	1	"13,036"	micropeptin K139;NRP	37%
+MCYST_62.Contig_140 Region_15023.1	NRPS	1	"11,366"	cyanopeptolin;NRP	42%
+MCYST_62.Contig_142 Region_15025.1	terpene	1	"11,068"		
+MCYST_62.Contig_168 Region_15051.1	terpene	1	"9,727"		
+MCYST_62.Contig_245 Region_15128.1	NRPS	1	"5,515"	cyanopeptolin;NRP	42%
+MCYST_62.Contig_271 Region_15154.1	NRPS	1	"4,108"	cyanopeptolin;NRP	57%
+MCYST_79.Contig_1 Region_15181.1	"NRPS,T1PKS,NRPS-like"	1	"58,152"	microcystin LR;NRP+Polyketide:Modular type I polyketide	64%
+MCYST_79.Contig_2 Region_15182.1	"NRPS,microviridin"	1	"56,097"	micropeptin K139;NRP	100%
+MCYST_79.Contig_6 Region_15186.1	"NRPS-like,NRPS"	1	"29,926"	aeruginosin 98-A/aeruginosin 98-B/aeruginosin 98-C;NRP	85%
+MCYST_79.Contig_9 Region_15189.1	"cyanobactin,microviridin"	1	"28,041"	microcyclamide;RiPP:Cyanobactin	77%
+MCYST_79.Contig_49  Region_15229.1	LAP	1	"13,827"		
+MCYST_79.Contig_74  Region_15254.1	terpene	1	"11,547"		
+MCYST_79.Contig_254 Region_15434.1	cyanobactin	1	"6,469"	piricyclamide 7005E1/piricyclamide 7005E2/piricyclamide 7005E3/piricyclamide 7005E4;RiPP	25%
+MCYST_79.Contig_276 Region_15456.1	cyanobactin	1	"6,046"	piricyclamide 7005E1/piricyclamide 7005E2/piricyclamide 7005E3/piricyclamide 7005E4;RiPP	66%
+MCYST_79.Contig_412 Region_15592.1	terpene	1	"4,138"		
+MCYST_79.Contig_475 Region_15655.1	terpene	1	"3,448"		
+NODOS_103.Contig_15 Region_15818.1	terpene	1	"14,398"		
+NODOS_103.Contig_51 Region_15854.1	terpene	1	"14,891"		
+NODOS_103.Contig_444  Region_16247.1	arylpolyene	1	"4,165"		
+NODOS_103.Contig_620  Region_16423.1	T1PKS	1	"2,709"		
+NODOS_103.Contig_657  Region_16460.1	"T1PKS,NRPS"	1	"19,461"	anachelin;NRP+Polyketide	20%
+NODOS_105.Contig_13 Region_16476.1	terpene	1	"18,147"		
+NODOS_105.Contig_37 Region_16500.1	"NRPS-like,T1PKS"	1	"16,423"	1-heptadecene;Polyketide:Modular type I polyketide	100%
+NODOS_105.Contig_149  Region_16612.1	arylpolyene	1	"6,950"		
+NODOS_105.Contig_203  Region_16666.1	terpene	1	"5,334"		
+NODOS_105.Contig_250  Region_16713.1	cyanobactin	1	"4,212"		
+NODOS_105.Contig_361  Region_16824.1	cyanobactin	1	"2,833"		
+NODOS_42.Contig_5 Region_16872.1	terpene	1	"15,002"		
+NODOS_42.Contig_107 Region_16974.1	arylpolyene	1	"6,221"		
+NODOS_42.Contig_126 Region_16993.1	"T1PKS,NRPS-like"	1	"5,701"	1-heptadecene;Polyketide:Modular type I polyketide	100%
+PSEUDA_13.Contig_3  Region_17196.1	terpene	"43,632"	"64,519"		
+PSEUDA_13.Contig_4  Region_17197.1	NRPS	"35,422"	"62,125"		
+PSEUDA_13.Contig_87 Region_17280.1	NRPS	1	"19,857"		
+PSEUDA_13.Contig_115  Region_17308.1	NRPS	1	"15,465"		
+PSEUDA_13.Contig_130  Region_17323.1	T3PKS	1	"14,547"		
+PSEUDA_157.Contig_11  Region_17509.1	terpene	1	"20,437"		
+PSEUDA_157.Contig_18  Region_17516.1	NRPS	1	"27,192"		
+PSEUDA_157.Contig_362 Region_17860.1	"NRPS-like,NRPS"	1	"4,882"	malyngamide C acetate;NRP+Polyketide	6%
+PSEUDA_281.Contig_150 Region_18083.1	terpene	1	"9,958"		
+PSEUDA_281.Contig_173 Region_18106.1	T3PKS	1	"7,303"		
+PSEUDA_31.Contig_3  Region_18175.1	"NRPS,T1PKS"	"27,693"	"85,177"		
+PSEUDA_31.Contig_13 Region_18185.1	cyanobactin	"4,957"	"30,452"	prenylagaramide B/prenylagaramide C;RiPP:Lanthipeptide	26%
+PSEUDA_31.Contig_25 Region_18197.1	T3PKS	1	"28,813"		
+PSEUDA_31.Contig_147  Region_18319.1	NRPS	1	"14,083"		
+PSEUDA_31.Contig_213  Region_18385.1	terpene	1	"7,886"		
+PSEUDA_31.Contig_262  Region_18434.1	NRPS	1	"4,165"		
+PSEUDA_70.Contig_18 Region_18477.1	lanthipeptide-class-ii	"7,231"	"30,437"		
+PSEUDA_70.Contig_40 Region_18499.1	terpene	"5,507"	"26,284"	vatiamide A/vatiamide B/vatiamide C/vatiamide D/vatiamide E/vatiamide F;NRP+Polyketide	10%
+PSEUDA_70.Contig_67 Region_18526.1	NRPS	1	"22,379"		
+PSEUDA_70.Contig_183  Region_18642.1	T3PKS	1	"10,322"		
+PSEUDA_70.Contig_355  Region_18814.1	NRPS	1	"4,821"		
+VAMPV_156.Contig_7  Region_18822.1	RiPP-like	"65,616"	"76,512"		
+VAMPV_156.Contig_13 Region_18828.1	terpene	"47,818"	"68,759"		
+VAMPV_156.Contig_19 Region_18834.1	RiPP-like	"52,385"	"63,488"		
+VAMPV_156.Contig_25 Region_18840.1	RiPP-like	"73,142"	"84,017"		
+VAMPV_156.Contig_29 Region_18844.1	"hglE-KS,T1PKS"	"48,510"	"88,218"		
+VAMPV_156.Contig_30 Region_18845.1	terpene	"19,870"	"41,090"		
+VAMPV_156.Contig_32 Region_18847.1	NRPS-like	"15,036"	"57,867"		
+VAMPV_156.Contig_56 Region_18871.1	NRPS-like	1	"41,737"		
+VAMPV_156.Contig_65 Region_18880.1	T3PKS	"10,344"	"35,971"		
+VAMPV_261.Contig_118  Region_19110.1	RiPP-like	"2,963"	"11,724"		
+VAMPV_261.Contig_291  Region_19283.1	phosphonate	1	"7,633"	polysaccharide B;Saccharide	6%
+VAMPV_261.Contig_523  Region_19515.1	RiPP-like	1	"4,782"		
+VAMPV_261.Contig_610  Region_19602.1	RRE-containing	1	"3,963"		
+VULCA_120.Contig_267  Region_20090.1	terpene	1	"8,139"		
+VULCA_209.Contig_23 Region_20151.1	terpene	1	"9,337"		
+VULCA_209.Contig_38 Region_20166.1	terpene	1	"7,389"		
+VULCA_20.Contig_20  Region_20430.1	terpene	1	"13,355"		
+VULCA_28.Contig_3 Region_20883.1	terpene	"13,829"	"35,106"		
+VULCA_28.Contig_22  Region_20902.1	terpene	"9,665"	"27,140"		
+VULCA_43.Contig_29  Region_21021.1	terpene	1	"10,575"		
+VULCA_43.Contig_128 Region_21120.1	terpene	1	"5,306"		
+VULCA_51.Contig_32  Region_21346.1	terpene	1	"10,324"		
+VULCA_51.Contig_91  Region_21405.1	terpene	1	"6,247"		
+VULCA_54.Contig_20  Region_21684.1	terpene	"2,591"	"13,013"		
+VULCA_54.Contig_66  Region_21730.1	terpene	1	"7,188"		
+VULCA_54.Contig_140 Region_21804.1	terpene	1	"5,036"		
+VULCA_96.Contig_11  Region_21938.1	terpene	"5,935"	"27,116"		
+VULCA_96.Contig_21  Region_21948.1	terpene	"9,765"	"24,376"		

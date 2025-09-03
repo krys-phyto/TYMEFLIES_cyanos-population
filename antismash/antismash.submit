@@ -1,0 +1,20 @@
+########################################################################
+### Krys Kibler 2024-07-08
+### Condor submit file for running antismash
+### Purpose: bcg
+########################################################################
+
+executable = /home/glbrc.org/kjkibler/cyanoSTRONG/krys/analysis/antismash/antismash_condor.sh
+
+
+request_cpus = 8
+request_memory = 32GB
+
+
+
+output = /home/glbrc.org/kjkibler/cyanoSTRONG/krys/analysis/condor/outs/$(Cluster)_antismash.out
+error = /home/glbrc.org/kjkibler/cyanoSTRONG/krys/analysis/condor/errs/$(Cluster)_antismash.err
+log = /home/glbrc.org/kjkibler/cyanoSTRONG/krys/analysis/condor/logs/$(Cluster)_antismash.log
+
+
+queue

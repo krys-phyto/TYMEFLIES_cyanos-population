@@ -1,0 +1,20 @@
+########################################################################
+### Krys Kibler 2025-07-24
+### Condor submit file for running filter_reads.sh
+### Purpose: filtering reads from metags to be like instrain
+########################################################################
+
+executable = /home/glbrc.org/kjkibler/cyanoSTRONG/krys/analysis/mcorr/filter_reads.sh
+
+
+request_cpus = 16
+request_memory = 200GB
+arguments = $(mOTU) $(sampleID) $(maps)
+
+
+output = /home/glbrc.org/kjkibler/cyanoSTRONG/krys/analysis/condor/outs/$(Cluster)_pre-mcorr.out
+error = /home/glbrc.org/kjkibler/cyanoSTRONG/krys/analysis/condor/errs/$(Cluster)_pre-mcorr.err
+log = /home/glbrc.org/kjkibler/cyanoSTRONG/krys/analysis/condor/logs/$(Cluster)_pre-mcorr.log
+
+
+queue mOTU,sampleID,maps from /home/glbrc.org/kjkibler/cyanoSTRONG/krys/analysis/mcorr/linkage.maps

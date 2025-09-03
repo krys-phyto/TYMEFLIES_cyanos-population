@@ -1,0 +1,20 @@
+########################################################################
+### Krys Kibler 2024-09-16
+### Condor submit file for running locus finder on mags
+### Purpose: running anvi-export-locus
+########################################################################
+
+executable = /home/glbrc.org/kjkibler/cyanoSTRONG/krys/analysis/anvio/cpcAB/anvio_locus_condor.sh
+
+
+request_cpus = 8
+request_memory = 32GB
+arguments = $(genome) $(cpcA) $(cpcB)
+
+
+output = /home/glbrc.org/kjkibler/cyanoSTRONG/krys/analysis/condor/outs/$(Cluster)_anvio.out
+error = /home/glbrc.org/kjkibler/cyanoSTRONG/krys/analysis/condor/errs/$(Cluster)_anvio.err
+log = /home/glbrc.org/kjkibler/cyanoSTRONG/krys/analysis/condor/logs/$(Cluster)_anvio.log
+
+
+queue genome,cpcA,cpcB from /home/glbrc.org/kjkibler/cyanoSTRONG/krys/analysis/anvio/cpcAB/anvio_pcab-search.tsv

@@ -1,0 +1,2663 @@
+Input / Output
+===============================================
+Contigs DB ...................................: /mnt/bigdata/linuxhome/kjkibler/cyanoSTRONG/krys/analysis/anvio/mags/APHAN-134_0seq.tmp.db
+Output directory .............................: locus_output
+Rev-comp the locus sequence if necessary .....: True
+
+Initialization bleep bloops
+===============================================
+Mode .........................................: Function search
+Search term 1 of 2 ...........................: Phycocyanin alpha chain
+Function calls being used ....................: COG20_PATHWAY, COG20_CATEGORY, COG20_FUNCTION
+Search term 2 of 2 ...........................: Phycocyanin/phycoerythrin beta chain
+Function calls being used ....................: COG20_PATHWAY, COG20_CATEGORY, COG20_FUNCTION
+Matching genes ...............................: 4 genes matched your search
+
+
+Exporting locus 1 of 1
+===============================================
+
+
+Config Error: You are in flank-mode, and anvi'o found 4 total gene caller id's from the
+              search-terms provided. Anvi'o cannot handle this because flank-mode needs a pair
+              of gene caller id's to cut out a locus (i.e., only a pair of flanking genes)!
+              Here are the gene caller ids anvi'o found from the search-terms Phycocyanin
+              alpha chain: {3881, 2820, 695} and Phycocyanin/phycoerythrin beta chain: {2821}.
+              Please use `anvi-export-functions` on your CONTIGS.db, locate these gene caller
+              id's, then confirm the correct flanking gene caller ids. Anvi'o recommends you
+              use the --gene caller ids flag to specify the specific pair gene caller ids you
+              need to cut out the locus so there are no more mix ups. On the other hand, if
+              you are trying to extract multiple loci from a genome using the same flanking
+              genes, anvi'o cannot currently handle this in --flank-mode. If this
+              functionality is necessary for your analysis, please make an issue on github and
+              we will address it.
+
+
+
+Input / Output
+===============================================
+Contigs DB ...................................: /mnt/bigdata/linuxhome/kjkibler/cyanoSTRONG/krys/analysis/anvio/mags/CYANO-106_0seq.tmp.db
+Output directory .............................: locus_output
+Rev-comp the locus sequence if necessary .....: True
+
+Initialization bleep bloops
+===============================================
+Mode .........................................: Function search
+Search term 1 of 2 ...........................: Phycocyanin alpha chain
+Function calls being used ....................: COG20_FUNCTION, COG20_CATEGORY, COG20_PATHWAY
+Search term 2 of 2 ...........................: Phycocyanin/phycoerythrin beta chain
+Function calls being used ....................: COG20_FUNCTION, COG20_CATEGORY, COG20_PATHWAY
+Matching genes ...............................: 4 genes matched your search
+
+
+Exporting locus 1 of 1
+===============================================
+
+
+Config Error: You are in flank-mode, and anvi'o found 4 total gene caller id's from the
+              search-terms provided. Anvi'o cannot handle this because flank-mode needs a pair
+              of gene caller id's to cut out a locus (i.e., only a pair of flanking genes)!
+              Here are the gene caller ids anvi'o found from the search-terms Phycocyanin
+              alpha chain: {441, 709, 2431} and Phycocyanin/phycoerythrin beta chain: {440}.
+              Please use `anvi-export-functions` on your CONTIGS.db, locate these gene caller
+              id's, then confirm the correct flanking gene caller ids. Anvi'o recommends you
+              use the --gene caller ids flag to specify the specific pair gene caller ids you
+              need to cut out the locus so there are no more mix ups. On the other hand, if
+              you are trying to extract multiple loci from a genome using the same flanking
+              genes, anvi'o cannot currently handle this in --flank-mode. If this
+              functionality is necessary for your analysis, please make an issue on github and
+              we will address it.
+
+
+
+Input / Output
+===============================================
+Contigs DB ...................................: /mnt/bigdata/linuxhome/kjkibler/cyanoSTRONG/krys/analysis/anvio/mags/CYANO-45_0seq.tmp.db
+Output directory .............................: locus_output
+Rev-comp the locus sequence if necessary .....: True
+
+Initialization bleep bloops
+===============================================
+Mode .........................................: Function search
+Search term 1 of 2 ...........................: Phycocyanin alpha chain
+Function calls being used ....................: COG20_CATEGORY, COG20_PATHWAY, COG20_FUNCTION
+Search term 2 of 2 ...........................: Phycocyanin/phycoerythrin beta chain
+Function calls being used ....................: COG20_CATEGORY, COG20_PATHWAY, COG20_FUNCTION
+Matching genes ...............................: 5 genes matched your search
+
+
+Exporting locus 1 of 1
+===============================================
+
+
+Config Error: You are in flank-mode, and anvi'o found 5 total gene caller id's from the
+              search-terms provided. Anvi'o cannot handle this because flank-mode needs a pair
+              of gene caller id's to cut out a locus (i.e., only a pair of flanking genes)!
+              Here are the gene caller ids anvi'o found from the search-terms Phycocyanin
+              alpha chain: {192, 3147, 3741, 4166} and Phycocyanin/phycoerythrin beta chain:
+              {193}. Please use `anvi-export-functions` on your CONTIGS.db, locate these gene
+              caller id's, then confirm the correct flanking gene caller ids. Anvi'o
+              recommends you use the --gene caller ids flag to specify the specific pair gene
+              caller ids you need to cut out the locus so there are no more mix ups. On the
+              other hand, if you are trying to extract multiple loci from a genome using the
+              same flanking genes, anvi'o cannot currently handle this in --flank-mode. If
+              this functionality is necessary for your analysis, please make an issue on
+              github and we will address it.
+
+
+
+Input / Output
+===============================================
+Contigs DB ...................................: /mnt/bigdata/linuxhome/kjkibler/cyanoSTRONG/krys/analysis/anvio/mags/CYANO-51-1_0seq.tmp.db
+Output directory .............................: locus_output
+Rev-comp the locus sequence if necessary .....: True
+
+Initialization bleep bloops
+===============================================
+Mode .........................................: Function search
+Search term 1 of 2 ...........................: Phycocyanin alpha chain
+Function calls being used ....................: COG20_CATEGORY, COG20_FUNCTION, COG20_PATHWAY
+Search term 2 of 2 ...........................: Phycocyanin/phycoerythrin beta chain
+Function calls being used ....................: COG20_CATEGORY, COG20_FUNCTION, COG20_PATHWAY
+Matching genes ...............................: 7 genes matched your search
+
+
+Exporting locus 1 of 1
+===============================================
+
+
+Config Error: You are in flank-mode, and anvi'o found 7 total gene caller id's from the
+              search-terms provided. Anvi'o cannot handle this because flank-mode needs a pair
+              of gene caller id's to cut out a locus (i.e., only a pair of flanking genes)!
+              Here are the gene caller ids anvi'o found from the search-terms Phycocyanin
+              alpha chain: {868, 2788, 4975, 4980, 1407} and Phycocyanin/phycoerythrin beta
+              chain: {4976, 4981}. Please use `anvi-export-functions` on your CONTIGS.db,
+              locate these gene caller id's, then confirm the correct flanking gene caller
+              ids. Anvi'o recommends you use the --gene caller ids flag to specify the
+              specific pair gene caller ids you need to cut out the locus so there are no more
+              mix ups. On the other hand, if you are trying to extract multiple loci from a
+              genome using the same flanking genes, anvi'o cannot currently handle this in
+              --flank-mode. If this functionality is necessary for your analysis, please make
+              an issue on github and we will address it.
+
+
+
+Input / Output
+===============================================
+Contigs DB ...................................: /mnt/bigdata/linuxhome/kjkibler/cyanoSTRONG/krys/analysis/anvio/mags/CYANO-79_0seq.tmp.db
+Output directory .............................: locus_output
+Rev-comp the locus sequence if necessary .....: True
+
+Initialization bleep bloops
+===============================================
+Mode .........................................: Function search
+Search term 1 of 2 ...........................: Phycocyanin alpha chain
+Function calls being used ....................: COG20_FUNCTION, COG20_PATHWAY, COG20_CATEGORY
+Search term 2 of 2 ...........................: Phycocyanin/phycoerythrin beta chain
+Function calls being used ....................: COG20_FUNCTION, COG20_PATHWAY, COG20_CATEGORY
+Matching genes ...............................: 3 genes matched your search
+
+
+Exporting locus 1 of 1
+===============================================
+
+
+Config Error: You are in flank-mode, and anvi'o found 3 total gene caller id's from the
+              search-terms provided. Anvi'o cannot handle this because flank-mode needs a pair
+              of gene caller id's to cut out a locus (i.e., only a pair of flanking genes)!
+              Here are the gene caller ids anvi'o found from the search-terms Phycocyanin
+              alpha chain: {697, 1383} and Phycocyanin/phycoerythrin beta chain: {1382}.
+              Please use `anvi-export-functions` on your CONTIGS.db, locate these gene caller
+              id's, then confirm the correct flanking gene caller ids. Anvi'o recommends you
+              use the --gene caller ids flag to specify the specific pair gene caller ids you
+              need to cut out the locus so there are no more mix ups. On the other hand, if
+              you are trying to extract multiple loci from a genome using the same flanking
+              genes, anvi'o cannot currently handle this in --flank-mode. If this
+              functionality is necessary for your analysis, please make an issue on github and
+              we will address it.
+
+
+
+Input / Output
+===============================================
+Contigs DB ...................................: /mnt/bigdata/linuxhome/kjkibler/cyanoSTRONG/krys/analysis/anvio/mags/CYANO-84_0seq.tmp.db
+Output directory .............................: locus_output
+Rev-comp the locus sequence if necessary .....: True
+
+Initialization bleep bloops
+===============================================
+Mode .........................................: Function search
+Search term 1 of 2 ...........................: Phycocyanin alpha chain
+Function calls being used ....................: COG20_CATEGORY, COG20_PATHWAY, COG20_FUNCTION
+Search term 2 of 2 ...........................: Phycocyanin/phycoerythrin beta chain
+Function calls being used ....................: COG20_CATEGORY, COG20_PATHWAY, COG20_FUNCTION
+Matching genes ...............................: 4 genes matched your search
+
+
+Exporting locus 1 of 1
+===============================================
+
+
+Config Error: You are in flank-mode, and anvi'o found 4 total gene caller id's from the
+              search-terms provided. Anvi'o cannot handle this because flank-mode needs a pair
+              of gene caller id's to cut out a locus (i.e., only a pair of flanking genes)!
+              Here are the gene caller ids anvi'o found from the search-terms Phycocyanin
+              alpha chain: {3301, 1725, 447} and Phycocyanin/phycoerythrin beta chain: {448}.
+              Please use `anvi-export-functions` on your CONTIGS.db, locate these gene caller
+              id's, then confirm the correct flanking gene caller ids. Anvi'o recommends you
+              use the --gene caller ids flag to specify the specific pair gene caller ids you
+              need to cut out the locus so there are no more mix ups. On the other hand, if
+              you are trying to extract multiple loci from a genome using the same flanking
+              genes, anvi'o cannot currently handle this in --flank-mode. If this
+              functionality is necessary for your analysis, please make an issue on github and
+              we will address it.
+
+
+
+Input / Output
+===============================================
+Contigs DB ...................................: /mnt/bigdata/linuxhome/kjkibler/cyanoSTRONG/krys/analysis/anvio/mags/CYBIM-101_0seq.tmp.db
+Output directory .............................: locus_output
+Rev-comp the locus sequence if necessary .....: True
+
+Initialization bleep bloops
+===============================================
+Mode .........................................: Function search
+Search term 1 of 2 ...........................: Phycocyanin alpha chain
+Function calls being used ....................: COG20_FUNCTION, COG20_PATHWAY, COG20_CATEGORY
+Search term 2 of 2 ...........................: Phycocyanin/phycoerythrin beta chain
+Function calls being used ....................: COG20_FUNCTION, COG20_PATHWAY, COG20_CATEGORY
+Matching genes ...............................: 7 genes matched your search
+
+
+Exporting locus 1 of 1
+===============================================
+
+
+Config Error: You are in flank-mode, and anvi'o found 7 total gene caller id's from the
+              search-terms provided. Anvi'o cannot handle this because flank-mode needs a pair
+              of gene caller id's to cut out a locus (i.e., only a pair of flanking genes)!
+              Here are the gene caller ids anvi'o found from the search-terms Phycocyanin
+              alpha chain: {130, 966, 2538, 113, 116} and Phycocyanin/phycoerythrin beta
+              chain: {112, 131}. Please use `anvi-export-functions` on your CONTIGS.db, locate
+              these gene caller id's, then confirm the correct flanking gene caller ids.
+              Anvi'o recommends you use the --gene caller ids flag to specify the specific
+              pair gene caller ids you need to cut out the locus so there are no more mix ups.
+              On the other hand, if you are trying to extract multiple loci from a genome
+              using the same flanking genes, anvi'o cannot currently handle this in --flank-
+              mode. If this functionality is necessary for your analysis, please make an issue
+              on github and we will address it.
+
+
+
+Input / Output
+===============================================
+Contigs DB ...................................: /mnt/bigdata/linuxhome/kjkibler/cyanoSTRONG/krys/analysis/anvio/mags/CYBIM-101-1_0seq.tmp.db
+Output directory .............................: locus_output
+Rev-comp the locus sequence if necessary .....: True
+
+Initialization bleep bloops
+===============================================
+Mode .........................................: Function search
+Search term 1 of 2 ...........................: Phycocyanin alpha chain
+Function calls being used ....................: COG20_FUNCTION, COG20_CATEGORY, COG20_PATHWAY
+Search term 2 of 2 ...........................: Phycocyanin/phycoerythrin beta chain
+Function calls being used ....................: COG20_FUNCTION, COG20_CATEGORY, COG20_PATHWAY
+
+WARNING
+===============================================
+There aren't any gene calls that match to the criteria you provided to anvi'o
+export locus magic. Is this yet another case of you did everything right yet
+anvi'o failed you? If that's the case, let us know :( This class will quietly
+kill this process without reporting any error since a lack of hit may be the
+expected outcome of some weird processes somewhere.
+
+
+Input / Output
+===============================================
+Contigs DB ...................................: /mnt/bigdata/linuxhome/kjkibler/cyanoSTRONG/krys/analysis/anvio/mags/CYBIM-104_0seq.tmp.db
+Output directory .............................: locus_output
+Rev-comp the locus sequence if necessary .....: True
+
+Initialization bleep bloops
+===============================================
+Mode .........................................: Function search
+Search term 1 of 2 ...........................: Phycocyanin alpha chain
+Function calls being used ....................: COG20_FUNCTION, COG20_PATHWAY, COG20_CATEGORY
+Search term 2 of 2 ...........................: Phycocyanin/phycoerythrin beta chain
+Function calls being used ....................: COG20_FUNCTION, COG20_PATHWAY, COG20_CATEGORY
+Matching genes ...............................: 7 genes matched your search
+
+
+Exporting locus 1 of 1
+===============================================
+
+
+Config Error: You are in flank-mode, and anvi'o found 7 total gene caller id's from the
+              search-terms provided. Anvi'o cannot handle this because flank-mode needs a pair
+              of gene caller id's to cut out a locus (i.e., only a pair of flanking genes)!
+              Here are the gene caller ids anvi'o found from the search-terms Phycocyanin
+              alpha chain: {2532, 2536, 3375, 2520, 604} and Phycocyanin/phycoerythrin beta
+              chain: {2537, 2519}. Please use `anvi-export-functions` on your CONTIGS.db,
+              locate these gene caller id's, then confirm the correct flanking gene caller
+              ids. Anvi'o recommends you use the --gene caller ids flag to specify the
+              specific pair gene caller ids you need to cut out the locus so there are no more
+              mix ups. On the other hand, if you are trying to extract multiple loci from a
+              genome using the same flanking genes, anvi'o cannot currently handle this in
+              --flank-mode. If this functionality is necessary for your analysis, please make
+              an issue on github and we will address it.
+
+
+
+Input / Output
+===============================================
+Contigs DB ...................................: /mnt/bigdata/linuxhome/kjkibler/cyanoSTRONG/krys/analysis/anvio/mags/CYBIM-114_0seq.tmp.db
+Output directory .............................: locus_output
+Rev-comp the locus sequence if necessary .....: True
+
+Initialization bleep bloops
+===============================================
+Mode .........................................: Function search
+Search term 1 of 2 ...........................: Phycocyanin alpha chain
+Function calls being used ....................: COG20_FUNCTION, COG20_CATEGORY, COG20_PATHWAY
+Search term 2 of 2 ...........................: Phycocyanin/phycoerythrin beta chain
+Function calls being used ....................: COG20_FUNCTION, COG20_CATEGORY, COG20_PATHWAY
+Matching genes ...............................: 1 genes matched your search
+
+
+Exporting locus 1 of 1
+===============================================
+
+
+Config Error: You are in flank-mode, and anvi'o only found 1 gene caller id(s). Anvi'o cannot
+              handle this because flank-mode needs a pair of gene caller id's to cut out a
+              locus (i.e., only a pair of flanking genes)! This most likely occured because 1
+              of your search-terms was not found the functions of the CONTIGS.db. Please try
+              again with another search-term :)
+
+
+
+Input / Output
+===============================================
+Contigs DB ...................................: /mnt/bigdata/linuxhome/kjkibler/cyanoSTRONG/krys/analysis/anvio/mags/CYBIM-119_0seq.tmp.db
+Output directory .............................: locus_output
+Rev-comp the locus sequence if necessary .....: True
+
+Initialization bleep bloops
+===============================================
+Mode .........................................: Function search
+Search term 1 of 2 ...........................: Phycocyanin alpha chain
+Function calls being used ....................: COG20_FUNCTION, COG20_PATHWAY, COG20_CATEGORY
+Search term 2 of 2 ...........................: Phycocyanin/phycoerythrin beta chain
+Function calls being used ....................: COG20_FUNCTION, COG20_PATHWAY, COG20_CATEGORY
+Matching genes ...............................: 4 genes matched your search
+
+
+Exporting locus 1 of 1
+===============================================
+
+
+Config Error: You are in flank-mode, and anvi'o found 4 total gene caller id's from the
+              search-terms provided. Anvi'o cannot handle this because flank-mode needs a pair
+              of gene caller id's to cut out a locus (i.e., only a pair of flanking genes)!
+              Here are the gene caller ids anvi'o found from the search-terms Phycocyanin
+              alpha chain: {944, 700, 2885} and Phycocyanin/phycoerythrin beta chain: {1902}.
+              Please use `anvi-export-functions` on your CONTIGS.db, locate these gene caller
+              id's, then confirm the correct flanking gene caller ids. Anvi'o recommends you
+              use the --gene caller ids flag to specify the specific pair gene caller ids you
+              need to cut out the locus so there are no more mix ups. On the other hand, if
+              you are trying to extract multiple loci from a genome using the same flanking
+              genes, anvi'o cannot currently handle this in --flank-mode. If this
+              functionality is necessary for your analysis, please make an issue on github and
+              we will address it.
+
+
+
+Input / Output
+===============================================
+Contigs DB ...................................: /mnt/bigdata/linuxhome/kjkibler/cyanoSTRONG/krys/analysis/anvio/mags/CYBIM-119-1_0seq.tmp.db
+Output directory .............................: locus_output
+Rev-comp the locus sequence if necessary .....: True
+
+Initialization bleep bloops
+===============================================
+Mode .........................................: Function search
+Search term 1 of 2 ...........................: Phycocyanin alpha chain
+Function calls being used ....................: COG20_PATHWAY, COG20_FUNCTION, COG20_CATEGORY
+Search term 2 of 2 ...........................: Phycocyanin/phycoerythrin beta chain
+Function calls being used ....................: COG20_PATHWAY, COG20_FUNCTION, COG20_CATEGORY
+Matching genes ...............................: 3 genes matched your search
+
+
+Exporting locus 1 of 1
+===============================================
+
+
+Config Error: You are in flank-mode, and anvi'o found 3 total gene caller id's from the
+              search-terms provided. Anvi'o cannot handle this because flank-mode needs a pair
+              of gene caller id's to cut out a locus (i.e., only a pair of flanking genes)!
+              Here are the gene caller ids anvi'o found from the search-terms Phycocyanin
+              alpha chain: {174} and Phycocyanin/phycoerythrin beta chain: {2041, 2313}.
+              Please use `anvi-export-functions` on your CONTIGS.db, locate these gene caller
+              id's, then confirm the correct flanking gene caller ids. Anvi'o recommends you
+              use the --gene caller ids flag to specify the specific pair gene caller ids you
+              need to cut out the locus so there are no more mix ups. On the other hand, if
+              you are trying to extract multiple loci from a genome using the same flanking
+              genes, anvi'o cannot currently handle this in --flank-mode. If this
+              functionality is necessary for your analysis, please make an issue on github and
+              we will address it.
+
+
+
+Input / Output
+===============================================
+Contigs DB ...................................: /mnt/bigdata/linuxhome/kjkibler/cyanoSTRONG/krys/analysis/anvio/mags/CYBIM-130_0seq.tmp.db
+Output directory .............................: locus_output
+Rev-comp the locus sequence if necessary .....: True
+
+Initialization bleep bloops
+===============================================
+Mode .........................................: Function search
+Search term 1 of 2 ...........................: Phycocyanin alpha chain
+Function calls being used ....................: COG20_FUNCTION, COG20_CATEGORY, COG20_PATHWAY
+Search term 2 of 2 ...........................: Phycocyanin/phycoerythrin beta chain
+Function calls being used ....................: COG20_FUNCTION, COG20_CATEGORY, COG20_PATHWAY
+Matching genes ...............................: 1 genes matched your search
+
+
+Exporting locus 1 of 1
+===============================================
+
+
+Config Error: You are in flank-mode, and anvi'o only found 1 gene caller id(s). Anvi'o cannot
+              handle this because flank-mode needs a pair of gene caller id's to cut out a
+              locus (i.e., only a pair of flanking genes)! This most likely occured because 1
+              of your search-terms was not found the functions of the CONTIGS.db. Please try
+              again with another search-term :)
+
+
+
+Input / Output
+===============================================
+Contigs DB ...................................: /mnt/bigdata/linuxhome/kjkibler/cyanoSTRONG/krys/analysis/anvio/mags/CYBIM-130-1_0seq.tmp.db
+Output directory .............................: locus_output
+Rev-comp the locus sequence if necessary .....: True
+
+Initialization bleep bloops
+===============================================
+Mode .........................................: Function search
+Search term 1 of 2 ...........................: Phycocyanin alpha chain
+Function calls being used ....................: COG20_CATEGORY, COG20_PATHWAY, COG20_FUNCTION
+Search term 2 of 2 ...........................: Phycocyanin/phycoerythrin beta chain
+Function calls being used ....................: COG20_CATEGORY, COG20_PATHWAY, COG20_FUNCTION
+Matching genes ...............................: 10 genes matched your search
+
+
+Exporting locus 1 of 1
+===============================================
+
+
+Config Error: You are in flank-mode, and anvi'o found 10 total gene caller id's from the
+              search-terms provided. Anvi'o cannot handle this because flank-mode needs a pair
+              of gene caller id's to cut out a locus (i.e., only a pair of flanking genes)!
+              Here are the gene caller ids anvi'o found from the search-terms Phycocyanin
+              alpha chain: {619, 1388, 1515, 686, 1375} and Phycocyanin/phycoerythrin beta
+              chain: {1376, 1514, 1387, 88, 895}. Please use `anvi-export-functions` on your
+              CONTIGS.db, locate these gene caller id's, then confirm the correct flanking
+              gene caller ids. Anvi'o recommends you use the --gene caller ids flag to specify
+              the specific pair gene caller ids you need to cut out the locus so there are no
+              more mix ups. On the other hand, if you are trying to extract multiple loci from
+              a genome using the same flanking genes, anvi'o cannot currently handle this in
+              --flank-mode. If this functionality is necessary for your analysis, please make
+              an issue on github and we will address it.
+
+
+
+Input / Output
+===============================================
+Contigs DB ...................................: /mnt/bigdata/linuxhome/kjkibler/cyanoSTRONG/krys/analysis/anvio/mags/CYBIM-134-1_0seq.tmp.db
+Output directory .............................: locus_output
+Rev-comp the locus sequence if necessary .....: True
+
+Initialization bleep bloops
+===============================================
+Mode .........................................: Function search
+Search term 1 of 2 ...........................: Phycocyanin alpha chain
+Function calls being used ....................: COG20_FUNCTION, COG20_CATEGORY, COG20_PATHWAY
+Search term 2 of 2 ...........................: Phycocyanin/phycoerythrin beta chain
+Function calls being used ....................: COG20_FUNCTION, COG20_CATEGORY, COG20_PATHWAY
+Matching genes ...............................: 2 genes matched your search
+
+
+Exporting locus 1 of 1
+===============================================
+Contig name ..................................: CYBIM_134_1.Contig_32
+Contig length ................................: 18,389
+Num genes in contig ..........................: 23
+Target gene call .............................: 800
+Target gene direction ........................: Reverse
+First and last gene of the locus (raw) .......: 800 and 1075
+
+* A premature locus is found .. the current configuration says 'whatevs'. Anvi'o
+will continue.
+
+First and last gene of the locus (final) .....: 800 and 818
+Locus gene call start/stops excess (nts) .....: 2,769
+Reverse complementing everything .............: True
+Output FASTA file ............................: locus_output/cpcA_to_cpcB-CYBIM-134-1_0seq.tmp.db.fa
+
+WARNING
+====================================================
+You are about to generate a blank profile. This is what we do when we have
+nothing but a contigs database to play with. Because anvi'o is lazy, it will not
+check the rest of the parameters you may have declred. Most of them will not
+matter.
+
+
+
+Config Error: The sample name ('cpcA_to_cpcB-CYBIM-134-1_0seq.tmp.db') contains characters
+              anvi'o does not like. Please limit the characters that make up the project name
+              to ASCII letters, digits, and the underscore character ('_').
+
+
+
+Input / Output
+===============================================
+Contigs DB ...................................: /mnt/bigdata/linuxhome/kjkibler/cyanoSTRONG/krys/analysis/anvio/mags/CYBIM-136-1_0seq.tmp.db
+Output directory .............................: locus_output
+Rev-comp the locus sequence if necessary .....: True
+
+Initialization bleep bloops
+===============================================
+Mode .........................................: Function search
+Search term 1 of 2 ...........................: Phycocyanin alpha chain
+Function calls being used ....................: COG20_FUNCTION, COG20_PATHWAY, COG20_CATEGORY
+Search term 2 of 2 ...........................: Phycocyanin/phycoerythrin beta chain
+Function calls being used ....................: COG20_FUNCTION, COG20_PATHWAY, COG20_CATEGORY
+Matching genes ...............................: 5 genes matched your search
+
+
+Exporting locus 1 of 1
+===============================================
+
+
+Config Error: You are in flank-mode, and anvi'o found 5 total gene caller id's from the
+              search-terms provided. Anvi'o cannot handle this because flank-mode needs a pair
+              of gene caller id's to cut out a locus (i.e., only a pair of flanking genes)!
+              Here are the gene caller ids anvi'o found from the search-terms Phycocyanin
+              alpha chain: {1044, 100, 597} and Phycocyanin/phycoerythrin beta chain: {2708,
+              2868}. Please use `anvi-export-functions` on your CONTIGS.db, locate these gene
+              caller id's, then confirm the correct flanking gene caller ids. Anvi'o
+              recommends you use the --gene caller ids flag to specify the specific pair gene
+              caller ids you need to cut out the locus so there are no more mix ups. On the
+              other hand, if you are trying to extract multiple loci from a genome using the
+              same flanking genes, anvi'o cannot currently handle this in --flank-mode. If
+              this functionality is necessary for your analysis, please make an issue on
+              github and we will address it.
+
+
+
+Input / Output
+===============================================
+Contigs DB ...................................: /mnt/bigdata/linuxhome/kjkibler/cyanoSTRONG/krys/analysis/anvio/mags/CYBIM-15_0seq.tmp.db
+Output directory .............................: locus_output
+Rev-comp the locus sequence if necessary .....: True
+
+Initialization bleep bloops
+===============================================
+Mode .........................................: Function search
+Search term 1 of 2 ...........................: Phycocyanin alpha chain
+Function calls being used ....................: COG20_PATHWAY, COG20_CATEGORY, COG20_FUNCTION
+Search term 2 of 2 ...........................: Phycocyanin/phycoerythrin beta chain
+Function calls being used ....................: COG20_PATHWAY, COG20_CATEGORY, COG20_FUNCTION
+Matching genes ...............................: 5 genes matched your search
+
+
+Exporting locus 1 of 1
+===============================================
+
+
+Config Error: You are in flank-mode, and anvi'o found 5 total gene caller id's from the
+              search-terms provided. Anvi'o cannot handle this because flank-mode needs a pair
+              of gene caller id's to cut out a locus (i.e., only a pair of flanking genes)!
+              Here are the gene caller ids anvi'o found from the search-terms Phycocyanin
+              alpha chain: {1424, 578} and Phycocyanin/phycoerythrin beta chain: {576, 579,
+              1495}. Please use `anvi-export-functions` on your CONTIGS.db, locate these gene
+              caller id's, then confirm the correct flanking gene caller ids. Anvi'o
+              recommends you use the --gene caller ids flag to specify the specific pair gene
+              caller ids you need to cut out the locus so there are no more mix ups. On the
+              other hand, if you are trying to extract multiple loci from a genome using the
+              same flanking genes, anvi'o cannot currently handle this in --flank-mode. If
+              this functionality is necessary for your analysis, please make an issue on
+              github and we will address it.
+
+
+
+Input / Output
+===============================================
+Contigs DB ...................................: /mnt/bigdata/linuxhome/kjkibler/cyanoSTRONG/krys/analysis/anvio/mags/CYBIM-157_0seq.tmp.db
+Output directory .............................: locus_output
+Rev-comp the locus sequence if necessary .....: True
+
+Initialization bleep bloops
+===============================================
+Mode .........................................: Function search
+Search term 1 of 2 ...........................: Phycocyanin alpha chain
+Function calls being used ....................: COG20_PATHWAY, COG20_FUNCTION, COG20_CATEGORY
+Search term 2 of 2 ...........................: Phycocyanin/phycoerythrin beta chain
+Function calls being used ....................: COG20_PATHWAY, COG20_FUNCTION, COG20_CATEGORY
+Matching genes ...............................: 7 genes matched your search
+
+
+Exporting locus 1 of 1
+===============================================
+
+
+Config Error: You are in flank-mode, and anvi'o found 7 total gene caller id's from the
+              search-terms provided. Anvi'o cannot handle this because flank-mode needs a pair
+              of gene caller id's to cut out a locus (i.e., only a pair of flanking genes)!
+              Here are the gene caller ids anvi'o found from the search-terms Phycocyanin
+              alpha chain: {2662, 1736, 2674, 2676, 475} and Phycocyanin/phycoerythrin beta
+              chain: {2677, 2661}. Please use `anvi-export-functions` on your CONTIGS.db,
+              locate these gene caller id's, then confirm the correct flanking gene caller
+              ids. Anvi'o recommends you use the --gene caller ids flag to specify the
+              specific pair gene caller ids you need to cut out the locus so there are no more
+              mix ups. On the other hand, if you are trying to extract multiple loci from a
+              genome using the same flanking genes, anvi'o cannot currently handle this in
+              --flank-mode. If this functionality is necessary for your analysis, please make
+              an issue on github and we will address it.
+
+
+
+Input / Output
+===============================================
+Contigs DB ...................................: /mnt/bigdata/linuxhome/kjkibler/cyanoSTRONG/krys/analysis/anvio/mags/CYBIM-160_0seq.tmp.db
+Output directory .............................: locus_output
+Rev-comp the locus sequence if necessary .....: True
+
+Initialization bleep bloops
+===============================================
+Mode .........................................: Function search
+Search term 1 of 2 ...........................: Phycocyanin alpha chain
+Function calls being used ....................: COG20_CATEGORY, COG20_FUNCTION, COG20_PATHWAY
+Search term 2 of 2 ...........................: Phycocyanin/phycoerythrin beta chain
+Function calls being used ....................: COG20_CATEGORY, COG20_FUNCTION, COG20_PATHWAY
+Matching genes ...............................: 6 genes matched your search
+
+
+Exporting locus 1 of 1
+===============================================
+
+
+Config Error: You are in flank-mode, and anvi'o found 6 total gene caller id's from the
+              search-terms provided. Anvi'o cannot handle this because flank-mode needs a pair
+              of gene caller id's to cut out a locus (i.e., only a pair of flanking genes)!
+              Here are the gene caller ids anvi'o found from the search-terms Phycocyanin
+              alpha chain: {1073, 139, 1070, 1303} and Phycocyanin/phycoerythrin beta chain:
+              {1072, 1069}. Please use `anvi-export-functions` on your CONTIGS.db, locate
+              these gene caller id's, then confirm the correct flanking gene caller ids.
+              Anvi'o recommends you use the --gene caller ids flag to specify the specific
+              pair gene caller ids you need to cut out the locus so there are no more mix ups.
+              On the other hand, if you are trying to extract multiple loci from a genome
+              using the same flanking genes, anvi'o cannot currently handle this in --flank-
+              mode. If this functionality is necessary for your analysis, please make an issue
+              on github and we will address it.
+
+
+
+Input / Output
+===============================================
+Contigs DB ...................................: /mnt/bigdata/linuxhome/kjkibler/cyanoSTRONG/krys/analysis/anvio/mags/CYBIM-173_0seq.tmp.db
+Output directory .............................: locus_output
+Rev-comp the locus sequence if necessary .....: True
+
+Initialization bleep bloops
+===============================================
+Mode .........................................: Function search
+Search term 1 of 2 ...........................: Phycocyanin alpha chain
+Function calls being used ....................: COG20_CATEGORY, COG20_FUNCTION, COG20_PATHWAY
+Search term 2 of 2 ...........................: Phycocyanin/phycoerythrin beta chain
+Function calls being used ....................: COG20_CATEGORY, COG20_FUNCTION, COG20_PATHWAY
+Matching genes ...............................: 4 genes matched your search
+
+
+Exporting locus 1 of 1
+===============================================
+
+
+Config Error: You are in flank-mode, and anvi'o found 4 total gene caller id's from the
+              search-terms provided. Anvi'o cannot handle this because flank-mode needs a pair
+              of gene caller id's to cut out a locus (i.e., only a pair of flanking genes)!
+              Here are the gene caller ids anvi'o found from the search-terms Phycocyanin
+              alpha chain: {664, 293, 1925} and Phycocyanin/phycoerythrin beta chain: {292}.
+              Please use `anvi-export-functions` on your CONTIGS.db, locate these gene caller
+              id's, then confirm the correct flanking gene caller ids. Anvi'o recommends you
+              use the --gene caller ids flag to specify the specific pair gene caller ids you
+              need to cut out the locus so there are no more mix ups. On the other hand, if
+              you are trying to extract multiple loci from a genome using the same flanking
+              genes, anvi'o cannot currently handle this in --flank-mode. If this
+              functionality is necessary for your analysis, please make an issue on github and
+              we will address it.
+
+
+
+Input / Output
+===============================================
+Contigs DB ...................................: /mnt/bigdata/linuxhome/kjkibler/cyanoSTRONG/krys/analysis/anvio/mags/CYBIM-190_0seq.tmp.db
+Output directory .............................: locus_output
+Rev-comp the locus sequence if necessary .....: True
+
+Initialization bleep bloops
+===============================================
+Mode .........................................: Function search
+Search term 1 of 2 ...........................: Phycocyanin alpha chain
+Function calls being used ....................: COG20_PATHWAY, COG20_CATEGORY, COG20_FUNCTION
+Search term 2 of 2 ...........................: Phycocyanin/phycoerythrin beta chain
+Function calls being used ....................: COG20_PATHWAY, COG20_CATEGORY, COG20_FUNCTION
+Matching genes ...............................: 7 genes matched your search
+
+
+Exporting locus 1 of 1
+===============================================
+
+
+Config Error: You are in flank-mode, and anvi'o found 7 total gene caller id's from the
+              search-terms provided. Anvi'o cannot handle this because flank-mode needs a pair
+              of gene caller id's to cut out a locus (i.e., only a pair of flanking genes)!
+              Here are the gene caller ids anvi'o found from the search-terms Phycocyanin
+              alpha chain: {1725, 714, 44, 58, 61} and Phycocyanin/phycoerythrin beta chain:
+              {43, 62}. Please use `anvi-export-functions` on your CONTIGS.db, locate these
+              gene caller id's, then confirm the correct flanking gene caller ids. Anvi'o
+              recommends you use the --gene caller ids flag to specify the specific pair gene
+              caller ids you need to cut out the locus so there are no more mix ups. On the
+              other hand, if you are trying to extract multiple loci from a genome using the
+              same flanking genes, anvi'o cannot currently handle this in --flank-mode. If
+              this functionality is necessary for your analysis, please make an issue on
+              github and we will address it.
+
+
+
+Input / Output
+===============================================
+Contigs DB ...................................: /mnt/bigdata/linuxhome/kjkibler/cyanoSTRONG/krys/analysis/anvio/mags/CYBIM-200_0seq.tmp.db
+Output directory .............................: locus_output
+Rev-comp the locus sequence if necessary .....: True
+
+Initialization bleep bloops
+===============================================
+Mode .........................................: Function search
+Search term 1 of 2 ...........................: Phycocyanin alpha chain
+Function calls being used ....................: COG20_FUNCTION, COG20_PATHWAY, COG20_CATEGORY
+Search term 2 of 2 ...........................: Phycocyanin/phycoerythrin beta chain
+Function calls being used ....................: COG20_FUNCTION, COG20_PATHWAY, COG20_CATEGORY
+Matching genes ...............................: 8 genes matched your search
+
+
+Exporting locus 1 of 1
+===============================================
+
+
+Config Error: You are in flank-mode, and anvi'o found 8 total gene caller id's from the
+              search-terms provided. Anvi'o cannot handle this because flank-mode needs a pair
+              of gene caller id's to cut out a locus (i.e., only a pair of flanking genes)!
+              Here are the gene caller ids anvi'o found from the search-terms Phycocyanin
+              alpha chain: {169, 618, 1068, 143, 157} and Phycocyanin/phycoerythrin beta
+              chain: {144, 201, 156}. Please use `anvi-export-functions` on your CONTIGS.db,
+              locate these gene caller id's, then confirm the correct flanking gene caller
+              ids. Anvi'o recommends you use the --gene caller ids flag to specify the
+              specific pair gene caller ids you need to cut out the locus so there are no more
+              mix ups. On the other hand, if you are trying to extract multiple loci from a
+              genome using the same flanking genes, anvi'o cannot currently handle this in
+              --flank-mode. If this functionality is necessary for your analysis, please make
+              an issue on github and we will address it.
+
+
+
+Input / Output
+===============================================
+Contigs DB ...................................: /mnt/bigdata/linuxhome/kjkibler/cyanoSTRONG/krys/analysis/anvio/mags/CYBIM-22_0seq.tmp.db
+Output directory .............................: locus_output
+Rev-comp the locus sequence if necessary .....: True
+
+Initialization bleep bloops
+===============================================
+Mode .........................................: Function search
+Search term 1 of 2 ...........................: Phycocyanin alpha chain
+Function calls being used ....................: COG20_CATEGORY, COG20_PATHWAY, COG20_FUNCTION
+Search term 2 of 2 ...........................: Phycocyanin/phycoerythrin beta chain
+Function calls being used ....................: COG20_CATEGORY, COG20_PATHWAY, COG20_FUNCTION
+Matching genes ...............................: 6 genes matched your search
+
+
+Exporting locus 1 of 1
+===============================================
+
+
+Config Error: You are in flank-mode, and anvi'o found 6 total gene caller id's from the
+              search-terms provided. Anvi'o cannot handle this because flank-mode needs a pair
+              of gene caller id's to cut out a locus (i.e., only a pair of flanking genes)!
+              Here are the gene caller ids anvi'o found from the search-terms Phycocyanin
+              alpha chain: {376, 362, 364, 2140} and Phycocyanin/phycoerythrin beta chain:
+              {361, 377}. Please use `anvi-export-functions` on your CONTIGS.db, locate these
+              gene caller id's, then confirm the correct flanking gene caller ids. Anvi'o
+              recommends you use the --gene caller ids flag to specify the specific pair gene
+              caller ids you need to cut out the locus so there are no more mix ups. On the
+              other hand, if you are trying to extract multiple loci from a genome using the
+              same flanking genes, anvi'o cannot currently handle this in --flank-mode. If
+              this functionality is necessary for your analysis, please make an issue on
+              github and we will address it.
+
+
+
+Input / Output
+===============================================
+Contigs DB ...................................: /mnt/bigdata/linuxhome/kjkibler/cyanoSTRONG/krys/analysis/anvio/mags/CYBIM-231_0seq.tmp.db
+Output directory .............................: locus_output
+Rev-comp the locus sequence if necessary .....: True
+
+Initialization bleep bloops
+===============================================
+Mode .........................................: Function search
+Search term 1 of 2 ...........................: Phycocyanin alpha chain
+Function calls being used ....................: COG20_FUNCTION, COG20_CATEGORY, COG20_PATHWAY
+Search term 2 of 2 ...........................: Phycocyanin/phycoerythrin beta chain
+Function calls being used ....................: COG20_FUNCTION, COG20_CATEGORY, COG20_PATHWAY
+Matching genes ...............................: 4 genes matched your search
+
+
+Exporting locus 1 of 1
+===============================================
+
+
+Config Error: You are in flank-mode, and anvi'o found 4 total gene caller id's from the
+              search-terms provided. Anvi'o cannot handle this because flank-mode needs a pair
+              of gene caller id's to cut out a locus (i.e., only a pair of flanking genes)!
+              Here are the gene caller ids anvi'o found from the search-terms Phycocyanin
+              alpha chain: {2496, 1234, 253} and Phycocyanin/phycoerythrin beta chain: {254}.
+              Please use `anvi-export-functions` on your CONTIGS.db, locate these gene caller
+              id's, then confirm the correct flanking gene caller ids. Anvi'o recommends you
+              use the --gene caller ids flag to specify the specific pair gene caller ids you
+              need to cut out the locus so there are no more mix ups. On the other hand, if
+              you are trying to extract multiple loci from a genome using the same flanking
+              genes, anvi'o cannot currently handle this in --flank-mode. If this
+              functionality is necessary for your analysis, please make an issue on github and
+              we will address it.
+
+
+
+Input / Output
+===============================================
+Contigs DB ...................................: /mnt/bigdata/linuxhome/kjkibler/cyanoSTRONG/krys/analysis/anvio/mags/CYBIM-28_0seq.tmp.db
+Output directory .............................: locus_output
+Rev-comp the locus sequence if necessary .....: True
+
+Initialization bleep bloops
+===============================================
+Mode .........................................: Function search
+Search term 1 of 2 ...........................: Phycocyanin alpha chain
+Function calls being used ....................: COG20_FUNCTION, COG20_PATHWAY, COG20_CATEGORY
+Search term 2 of 2 ...........................: Phycocyanin/phycoerythrin beta chain
+Function calls being used ....................: COG20_FUNCTION, COG20_PATHWAY, COG20_CATEGORY
+Matching genes ...............................: 5 genes matched your search
+
+
+Exporting locus 1 of 1
+===============================================
+
+
+Config Error: You are in flank-mode, and anvi'o found 5 total gene caller id's from the
+              search-terms provided. Anvi'o cannot handle this because flank-mode needs a pair
+              of gene caller id's to cut out a locus (i.e., only a pair of flanking genes)!
+              Here are the gene caller ids anvi'o found from the search-terms Phycocyanin
+              alpha chain: {25, 499, 121} and Phycocyanin/phycoerythrin beta chain: {100,
+              500}. Please use `anvi-export-functions` on your CONTIGS.db, locate these gene
+              caller id's, then confirm the correct flanking gene caller ids. Anvi'o
+              recommends you use the --gene caller ids flag to specify the specific pair gene
+              caller ids you need to cut out the locus so there are no more mix ups. On the
+              other hand, if you are trying to extract multiple loci from a genome using the
+              same flanking genes, anvi'o cannot currently handle this in --flank-mode. If
+              this functionality is necessary for your analysis, please make an issue on
+              github and we will address it.
+
+
+
+Input / Output
+===============================================
+Contigs DB ...................................: /mnt/bigdata/linuxhome/kjkibler/cyanoSTRONG/krys/analysis/anvio/mags/CYBIM-31_0seq.tmp.db
+Output directory .............................: locus_output
+Rev-comp the locus sequence if necessary .....: True
+
+Initialization bleep bloops
+===============================================
+Mode .........................................: Function search
+Search term 1 of 2 ...........................: Phycocyanin alpha chain
+Function calls being used ....................: COG20_CATEGORY, COG20_FUNCTION, COG20_PATHWAY
+Search term 2 of 2 ...........................: Phycocyanin/phycoerythrin beta chain
+Function calls being used ....................: COG20_CATEGORY, COG20_FUNCTION, COG20_PATHWAY
+Matching genes ...............................: 5 genes matched your search
+
+
+Exporting locus 1 of 1
+===============================================
+
+
+Config Error: You are in flank-mode, and anvi'o found 5 total gene caller id's from the
+              search-terms provided. Anvi'o cannot handle this because flank-mode needs a pair
+              of gene caller id's to cut out a locus (i.e., only a pair of flanking genes)!
+              Here are the gene caller ids anvi'o found from the search-terms Phycocyanin
+              alpha chain: {2362, 2892, 815} and Phycocyanin/phycoerythrin beta chain: {764,
+              2893}. Please use `anvi-export-functions` on your CONTIGS.db, locate these gene
+              caller id's, then confirm the correct flanking gene caller ids. Anvi'o
+              recommends you use the --gene caller ids flag to specify the specific pair gene
+              caller ids you need to cut out the locus so there are no more mix ups. On the
+              other hand, if you are trying to extract multiple loci from a genome using the
+              same flanking genes, anvi'o cannot currently handle this in --flank-mode. If
+              this functionality is necessary for your analysis, please make an issue on
+              github and we will address it.
+
+
+
+Input / Output
+===============================================
+Contigs DB ...................................: /mnt/bigdata/linuxhome/kjkibler/cyanoSTRONG/krys/analysis/anvio/mags/CYBIM-39_0seq.tmp.db
+Output directory .............................: locus_output
+Rev-comp the locus sequence if necessary .....: True
+
+Initialization bleep bloops
+===============================================
+Mode .........................................: Function search
+Search term 1 of 2 ...........................: Phycocyanin alpha chain
+Function calls being used ....................: COG20_CATEGORY, COG20_FUNCTION, COG20_PATHWAY
+Search term 2 of 2 ...........................: Phycocyanin/phycoerythrin beta chain
+Function calls being used ....................: COG20_CATEGORY, COG20_FUNCTION, COG20_PATHWAY
+Matching genes ...............................: 5 genes matched your search
+
+
+Exporting locus 1 of 1
+===============================================
+
+
+Config Error: You are in flank-mode, and anvi'o found 5 total gene caller id's from the
+              search-terms provided. Anvi'o cannot handle this because flank-mode needs a pair
+              of gene caller id's to cut out a locus (i.e., only a pair of flanking genes)!
+              Here are the gene caller ids anvi'o found from the search-terms Phycocyanin
+              alpha chain: {136, 1082, 2851, 2853} and Phycocyanin/phycoerythrin beta chain:
+              {2854}. Please use `anvi-export-functions` on your CONTIGS.db, locate these gene
+              caller id's, then confirm the correct flanking gene caller ids. Anvi'o
+              recommends you use the --gene caller ids flag to specify the specific pair gene
+              caller ids you need to cut out the locus so there are no more mix ups. On the
+              other hand, if you are trying to extract multiple loci from a genome using the
+              same flanking genes, anvi'o cannot currently handle this in --flank-mode. If
+              this functionality is necessary for your analysis, please make an issue on
+              github and we will address it.
+
+
+
+Input / Output
+===============================================
+Contigs DB ...................................: /mnt/bigdata/linuxhome/kjkibler/cyanoSTRONG/krys/analysis/anvio/mags/CYBIM-51_0seq.tmp.db
+Output directory .............................: locus_output
+Rev-comp the locus sequence if necessary .....: True
+
+Initialization bleep bloops
+===============================================
+Mode .........................................: Function search
+Search term 1 of 2 ...........................: Phycocyanin alpha chain
+Function calls being used ....................: COG20_CATEGORY, COG20_PATHWAY, COG20_FUNCTION
+Search term 2 of 2 ...........................: Phycocyanin/phycoerythrin beta chain
+Function calls being used ....................: COG20_CATEGORY, COG20_PATHWAY, COG20_FUNCTION
+Matching genes ...............................: 3 genes matched your search
+
+
+Exporting locus 1 of 1
+===============================================
+
+
+Config Error: You are in flank-mode, and anvi'o found 3 total gene caller id's from the
+              search-terms provided. Anvi'o cannot handle this because flank-mode needs a pair
+              of gene caller id's to cut out a locus (i.e., only a pair of flanking genes)!
+              Here are the gene caller ids anvi'o found from the search-terms Phycocyanin
+              alpha chain: {648, 237} and Phycocyanin/phycoerythrin beta chain: {718}. Please
+              use `anvi-export-functions` on your CONTIGS.db, locate these gene caller id's,
+              then confirm the correct flanking gene caller ids. Anvi'o recommends you use the
+              --gene caller ids flag to specify the specific pair gene caller ids you need to
+              cut out the locus so there are no more mix ups. On the other hand, if you are
+              trying to extract multiple loci from a genome using the same flanking genes,
+              anvi'o cannot currently handle this in --flank-mode. If this functionality is
+              necessary for your analysis, please make an issue on github and we will address
+              it.
+
+
+
+Input / Output
+===============================================
+Contigs DB ...................................: /mnt/bigdata/linuxhome/kjkibler/cyanoSTRONG/krys/analysis/anvio/mags/CYBIM-52_0seq.tmp.db
+Output directory .............................: locus_output
+Rev-comp the locus sequence if necessary .....: True
+
+Initialization bleep bloops
+===============================================
+Mode .........................................: Function search
+Search term 1 of 2 ...........................: Phycocyanin alpha chain
+Function calls being used ....................: COG20_PATHWAY, COG20_FUNCTION, COG20_CATEGORY
+Search term 2 of 2 ...........................: Phycocyanin/phycoerythrin beta chain
+Function calls being used ....................: COG20_PATHWAY, COG20_FUNCTION, COG20_CATEGORY
+Matching genes ...............................: 4 genes matched your search
+
+
+Exporting locus 1 of 1
+===============================================
+
+
+Config Error: You are in flank-mode, and anvi'o found 4 total gene caller id's from the
+              search-terms provided. Anvi'o cannot handle this because flank-mode needs a pair
+              of gene caller id's to cut out a locus (i.e., only a pair of flanking genes)!
+              Here are the gene caller ids anvi'o found from the search-terms Phycocyanin
+              alpha chain: {2444, 1212, 1518} and Phycocyanin/phycoerythrin beta chain: {844}.
+              Please use `anvi-export-functions` on your CONTIGS.db, locate these gene caller
+              id's, then confirm the correct flanking gene caller ids. Anvi'o recommends you
+              use the --gene caller ids flag to specify the specific pair gene caller ids you
+              need to cut out the locus so there are no more mix ups. On the other hand, if
+              you are trying to extract multiple loci from a genome using the same flanking
+              genes, anvi'o cannot currently handle this in --flank-mode. If this
+              functionality is necessary for your analysis, please make an issue on github and
+              we will address it.
+
+
+
+Input / Output
+===============================================
+Contigs DB ...................................: /mnt/bigdata/linuxhome/kjkibler/cyanoSTRONG/krys/analysis/anvio/mags/CYBIM-60-1_0seq.tmp.db
+Output directory .............................: locus_output
+Rev-comp the locus sequence if necessary .....: True
+
+Initialization bleep bloops
+===============================================
+Mode .........................................: Function search
+Search term 1 of 2 ...........................: Phycocyanin alpha chain
+Function calls being used ....................: COG20_FUNCTION, COG20_PATHWAY, COG20_CATEGORY
+Search term 2 of 2 ...........................: Phycocyanin/phycoerythrin beta chain
+Function calls being used ....................: COG20_FUNCTION, COG20_PATHWAY, COG20_CATEGORY
+Matching genes ...............................: 2 genes matched your search
+
+
+Exporting locus 1 of 1
+===============================================
+Contig name ..................................: CYBIM_60_1.Contig_7
+Contig length ................................: 103,280
+Num genes in contig ..........................: 113
+Target gene call .............................: 885
+Target gene direction ........................: Reverse
+First and last gene of the locus (raw) .......: 885 and 1612
+
+* A premature locus is found .. the current configuration says 'whatevs'. Anvi'o
+will continue.
+
+First and last gene of the locus (final) .....: 885 and 914
+Locus gene call start/stops excess (nts) .....: 75,737
+Reverse complementing everything .............: True
+Output FASTA file ............................: locus_output/cpcA_to_cpcB-CYBIM-60-1_0seq.tmp.db.fa
+
+WARNING
+====================================================
+You are about to generate a blank profile. This is what we do when we have
+nothing but a contigs database to play with. Because anvi'o is lazy, it will not
+check the rest of the parameters you may have declred. Most of them will not
+matter.
+
+
+
+Config Error: The sample name ('cpcA_to_cpcB-CYBIM-60-1_0seq.tmp.db') contains characters
+              anvi'o does not like. Please limit the characters that make up the project name
+              to ASCII letters, digits, and the underscore character ('_').
+
+
+
+Input / Output
+===============================================
+Contigs DB ...................................: /mnt/bigdata/linuxhome/kjkibler/cyanoSTRONG/krys/analysis/anvio/mags/CYBIM-63_0seq.tmp.db
+Output directory .............................: locus_output
+Rev-comp the locus sequence if necessary .....: True
+
+Initialization bleep bloops
+===============================================
+Mode .........................................: Function search
+Search term 1 of 2 ...........................: Phycocyanin alpha chain
+Function calls being used ....................: COG20_FUNCTION, COG20_PATHWAY, COG20_CATEGORY
+Search term 2 of 2 ...........................: Phycocyanin/phycoerythrin beta chain
+Function calls being used ....................: COG20_FUNCTION, COG20_PATHWAY, COG20_CATEGORY
+Matching genes ...............................: 7 genes matched your search
+
+
+Exporting locus 1 of 1
+===============================================
+
+
+Config Error: You are in flank-mode, and anvi'o found 7 total gene caller id's from the
+              search-terms provided. Anvi'o cannot handle this because flank-mode needs a pair
+              of gene caller id's to cut out a locus (i.e., only a pair of flanking genes)!
+              Here are the gene caller ids anvi'o found from the search-terms Phycocyanin
+              alpha chain: {1189, 72, 2891, 75, 58} and Phycocyanin/phycoerythrin beta chain:
+              {57, 76}. Please use `anvi-export-functions` on your CONTIGS.db, locate these
+              gene caller id's, then confirm the correct flanking gene caller ids. Anvi'o
+              recommends you use the --gene caller ids flag to specify the specific pair gene
+              caller ids you need to cut out the locus so there are no more mix ups. On the
+              other hand, if you are trying to extract multiple loci from a genome using the
+              same flanking genes, anvi'o cannot currently handle this in --flank-mode. If
+              this functionality is necessary for your analysis, please make an issue on
+              github and we will address it.
+
+
+
+Input / Output
+===============================================
+Contigs DB ...................................: /mnt/bigdata/linuxhome/kjkibler/cyanoSTRONG/krys/analysis/anvio/mags/CYBIM-67_0seq.tmp.db
+Output directory .............................: locus_output
+Rev-comp the locus sequence if necessary .....: True
+
+Initialization bleep bloops
+===============================================
+Mode .........................................: Function search
+Search term 1 of 2 ...........................: Phycocyanin alpha chain
+Function calls being used ....................: COG20_FUNCTION, COG20_PATHWAY, COG20_CATEGORY
+Search term 2 of 2 ...........................: Phycocyanin/phycoerythrin beta chain
+Function calls being used ....................: COG20_FUNCTION, COG20_PATHWAY, COG20_CATEGORY
+Matching genes ...............................: 1 genes matched your search
+
+
+Exporting locus 1 of 1
+===============================================
+
+
+Config Error: You are in flank-mode, and anvi'o only found 1 gene caller id(s). Anvi'o cannot
+              handle this because flank-mode needs a pair of gene caller id's to cut out a
+              locus (i.e., only a pair of flanking genes)! This most likely occured because 1
+              of your search-terms was not found the functions of the CONTIGS.db. Please try
+              again with another search-term :)
+
+
+
+Input / Output
+===============================================
+Contigs DB ...................................: /mnt/bigdata/linuxhome/kjkibler/cyanoSTRONG/krys/analysis/anvio/mags/CYBIM-73_0seq.tmp.db
+Output directory .............................: locus_output
+Rev-comp the locus sequence if necessary .....: True
+
+Initialization bleep bloops
+===============================================
+Mode .........................................: Function search
+Search term 1 of 2 ...........................: Phycocyanin alpha chain
+Function calls being used ....................: COG20_FUNCTION, COG20_CATEGORY, COG20_PATHWAY
+Search term 2 of 2 ...........................: Phycocyanin/phycoerythrin beta chain
+Function calls being used ....................: COG20_FUNCTION, COG20_CATEGORY, COG20_PATHWAY
+Matching genes ...............................: 5 genes matched your search
+
+
+Exporting locus 1 of 1
+===============================================
+
+
+Config Error: You are in flank-mode, and anvi'o found 5 total gene caller id's from the
+              search-terms provided. Anvi'o cannot handle this because flank-mode needs a pair
+              of gene caller id's to cut out a locus (i.e., only a pair of flanking genes)!
+              Here are the gene caller ids anvi'o found from the search-terms Phycocyanin
+              alpha chain: {561, 1747, 20} and Phycocyanin/phycoerythrin beta chain: {2908,
+              2103}. Please use `anvi-export-functions` on your CONTIGS.db, locate these gene
+              caller id's, then confirm the correct flanking gene caller ids. Anvi'o
+              recommends you use the --gene caller ids flag to specify the specific pair gene
+              caller ids you need to cut out the locus so there are no more mix ups. On the
+              other hand, if you are trying to extract multiple loci from a genome using the
+              same flanking genes, anvi'o cannot currently handle this in --flank-mode. If
+              this functionality is necessary for your analysis, please make an issue on
+              github and we will address it.
+
+
+
+Input / Output
+===============================================
+Contigs DB ...................................: /mnt/bigdata/linuxhome/kjkibler/cyanoSTRONG/krys/analysis/anvio/mags/CYBIM-73-1_0seq.tmp.db
+Output directory .............................: locus_output
+Rev-comp the locus sequence if necessary .....: True
+
+Initialization bleep bloops
+===============================================
+Mode .........................................: Function search
+Search term 1 of 2 ...........................: Phycocyanin alpha chain
+Function calls being used ....................: COG20_CATEGORY, COG20_FUNCTION, COG20_PATHWAY
+Search term 2 of 2 ...........................: Phycocyanin/phycoerythrin beta chain
+Function calls being used ....................: COG20_CATEGORY, COG20_FUNCTION, COG20_PATHWAY
+Matching genes ...............................: 2 genes matched your search
+
+
+Exporting locus 1 of 1
+===============================================
+Contig name ..................................: CYBIM_73_1.Contig_4
+Contig length ................................: 105,704
+Num genes in contig ..........................: 98
+Target gene call .............................: 569
+Target gene direction ........................: Reverse
+First and last gene of the locus (raw) .......: 569 and 2716
+
+* A premature locus is found .. the current configuration says 'whatevs'. Anvi'o
+will continue.
+
+First and last gene of the locus (final) .....: 569 and 636
+Locus gene call start/stops excess (nts) .....: 31,947
+Reverse complementing everything .............: True
+Output FASTA file ............................: locus_output/cpcA_to_cpcB-CYBIM-73-1_0seq.tmp.db.fa
+
+WARNING
+====================================================
+You are about to generate a blank profile. This is what we do when we have
+nothing but a contigs database to play with. Because anvi'o is lazy, it will not
+check the rest of the parameters you may have declred. Most of them will not
+matter.
+
+
+
+Config Error: The sample name ('cpcA_to_cpcB-CYBIM-73-1_0seq.tmp.db') contains characters
+              anvi'o does not like. Please limit the characters that make up the project name
+              to ASCII letters, digits, and the underscore character ('_').
+
+
+
+Input / Output
+===============================================
+Contigs DB ...................................: /mnt/bigdata/linuxhome/kjkibler/cyanoSTRONG/krys/analysis/anvio/mags/CYBIM-76_0seq.tmp.db
+Output directory .............................: locus_output
+Rev-comp the locus sequence if necessary .....: True
+
+Initialization bleep bloops
+===============================================
+Mode .........................................: Function search
+Search term 1 of 2 ...........................: Phycocyanin alpha chain
+Function calls being used ....................: COG20_FUNCTION, COG20_PATHWAY, COG20_CATEGORY
+Search term 2 of 2 ...........................: Phycocyanin/phycoerythrin beta chain
+Function calls being used ....................: COG20_FUNCTION, COG20_PATHWAY, COG20_CATEGORY
+Matching genes ...............................: 6 genes matched your search
+
+
+Exporting locus 1 of 1
+===============================================
+
+
+Config Error: You are in flank-mode, and anvi'o found 6 total gene caller id's from the
+              search-terms provided. Anvi'o cannot handle this because flank-mode needs a pair
+              of gene caller id's to cut out a locus (i.e., only a pair of flanking genes)!
+              Here are the gene caller ids anvi'o found from the search-terms Phycocyanin
+              alpha chain: {1713, 754, 1716, 229} and Phycocyanin/phycoerythrin beta chain:
+              {1712, 1715}. Please use `anvi-export-functions` on your CONTIGS.db, locate
+              these gene caller id's, then confirm the correct flanking gene caller ids.
+              Anvi'o recommends you use the --gene caller ids flag to specify the specific
+              pair gene caller ids you need to cut out the locus so there are no more mix ups.
+              On the other hand, if you are trying to extract multiple loci from a genome
+              using the same flanking genes, anvi'o cannot currently handle this in --flank-
+              mode. If this functionality is necessary for your analysis, please make an issue
+              on github and we will address it.
+
+
+
+Input / Output
+===============================================
+Contigs DB ...................................: /mnt/bigdata/linuxhome/kjkibler/cyanoSTRONG/krys/analysis/anvio/mags/CYBIM-77_0seq.tmp.db
+Output directory .............................: locus_output
+Rev-comp the locus sequence if necessary .....: True
+
+Initialization bleep bloops
+===============================================
+Mode .........................................: Function search
+Search term 1 of 2 ...........................: Phycocyanin alpha chain
+Function calls being used ....................: COG20_PATHWAY, COG20_FUNCTION, COG20_CATEGORY
+Search term 2 of 2 ...........................: Phycocyanin/phycoerythrin beta chain
+Function calls being used ....................: COG20_PATHWAY, COG20_FUNCTION, COG20_CATEGORY
+Matching genes ...............................: 9 genes matched your search
+
+
+Exporting locus 1 of 1
+===============================================
+
+
+Config Error: You are in flank-mode, and anvi'o found 9 total gene caller id's from the
+              search-terms provided. Anvi'o cannot handle this because flank-mode needs a pair
+              of gene caller id's to cut out a locus (i.e., only a pair of flanking genes)!
+              Here are the gene caller ids anvi'o found from the search-terms Phycocyanin
+              alpha chain: {1794, 388, 1325, 1848, 1791} and Phycocyanin/phycoerythrin beta
+              chain: {1793, 1847, 1790, 711}. Please use `anvi-export-functions` on your
+              CONTIGS.db, locate these gene caller id's, then confirm the correct flanking
+              gene caller ids. Anvi'o recommends you use the --gene caller ids flag to specify
+              the specific pair gene caller ids you need to cut out the locus so there are no
+              more mix ups. On the other hand, if you are trying to extract multiple loci from
+              a genome using the same flanking genes, anvi'o cannot currently handle this in
+              --flank-mode. If this functionality is necessary for your analysis, please make
+              an issue on github and we will address it.
+
+
+
+Input / Output
+===============================================
+Contigs DB ...................................: /mnt/bigdata/linuxhome/kjkibler/cyanoSTRONG/krys/analysis/anvio/mags/CYBIM-80_0seq.tmp.db
+Output directory .............................: locus_output
+Rev-comp the locus sequence if necessary .....: True
+
+Initialization bleep bloops
+===============================================
+Mode .........................................: Function search
+Search term 1 of 2 ...........................: Phycocyanin alpha chain
+Function calls being used ....................: COG20_PATHWAY, COG20_CATEGORY, COG20_FUNCTION
+Search term 2 of 2 ...........................: Phycocyanin/phycoerythrin beta chain
+Function calls being used ....................: COG20_PATHWAY, COG20_CATEGORY, COG20_FUNCTION
+Matching genes ...............................: 3 genes matched your search
+
+
+Exporting locus 1 of 1
+===============================================
+
+
+Config Error: You are in flank-mode, and anvi'o found 3 total gene caller id's from the
+              search-terms provided. Anvi'o cannot handle this because flank-mode needs a pair
+              of gene caller id's to cut out a locus (i.e., only a pair of flanking genes)!
+              Here are the gene caller ids anvi'o found from the search-terms Phycocyanin
+              alpha chain: {448} and Phycocyanin/phycoerythrin beta chain: {1409, 2004}.
+              Please use `anvi-export-functions` on your CONTIGS.db, locate these gene caller
+              id's, then confirm the correct flanking gene caller ids. Anvi'o recommends you
+              use the --gene caller ids flag to specify the specific pair gene caller ids you
+              need to cut out the locus so there are no more mix ups. On the other hand, if
+              you are trying to extract multiple loci from a genome using the same flanking
+              genes, anvi'o cannot currently handle this in --flank-mode. If this
+              functionality is necessary for your analysis, please make an issue on github and
+              we will address it.
+
+
+
+Input / Output
+===============================================
+Contigs DB ...................................: /mnt/bigdata/linuxhome/kjkibler/cyanoSTRONG/krys/analysis/anvio/mags/CYBIM-89_0seq.tmp.db
+Output directory .............................: locus_output
+Rev-comp the locus sequence if necessary .....: True
+
+Initialization bleep bloops
+===============================================
+Mode .........................................: Function search
+Search term 1 of 2 ...........................: Phycocyanin alpha chain
+Function calls being used ....................: COG20_PATHWAY, COG20_FUNCTION, COG20_CATEGORY
+Search term 2 of 2 ...........................: Phycocyanin/phycoerythrin beta chain
+Function calls being used ....................: COG20_PATHWAY, COG20_FUNCTION, COG20_CATEGORY
+Matching genes ...............................: 4 genes matched your search
+
+
+Exporting locus 1 of 1
+===============================================
+
+
+Config Error: You are in flank-mode, and anvi'o found 4 total gene caller id's from the
+              search-terms provided. Anvi'o cannot handle this because flank-mode needs a pair
+              of gene caller id's to cut out a locus (i.e., only a pair of flanking genes)!
+              Here are the gene caller ids anvi'o found from the search-terms Phycocyanin
+              alpha chain: {1090, 2034, 1781} and Phycocyanin/phycoerythrin beta chain:
+              {2035}. Please use `anvi-export-functions` on your CONTIGS.db, locate these gene
+              caller id's, then confirm the correct flanking gene caller ids. Anvi'o
+              recommends you use the --gene caller ids flag to specify the specific pair gene
+              caller ids you need to cut out the locus so there are no more mix ups. On the
+              other hand, if you are trying to extract multiple loci from a genome using the
+              same flanking genes, anvi'o cannot currently handle this in --flank-mode. If
+              this functionality is necessary for your analysis, please make an issue on
+              github and we will address it.
+
+
+
+Input / Output
+===============================================
+Contigs DB ...................................: /mnt/bigdata/linuxhome/kjkibler/cyanoSTRONG/krys/analysis/anvio/mags/CYBIM-90_0seq.tmp.db
+Output directory .............................: locus_output
+Rev-comp the locus sequence if necessary .....: True
+
+Initialization bleep bloops
+===============================================
+Mode .........................................: Function search
+Search term 1 of 2 ...........................: Phycocyanin alpha chain
+Function calls being used ....................: COG20_CATEGORY, COG20_FUNCTION, COG20_PATHWAY
+Search term 2 of 2 ...........................: Phycocyanin/phycoerythrin beta chain
+Function calls being used ....................: COG20_CATEGORY, COG20_FUNCTION, COG20_PATHWAY
+Matching genes ...............................: 7 genes matched your search
+
+
+Exporting locus 1 of 1
+===============================================
+
+
+Config Error: You are in flank-mode, and anvi'o found 7 total gene caller id's from the
+              search-terms provided. Anvi'o cannot handle this because flank-mode needs a pair
+              of gene caller id's to cut out a locus (i.e., only a pair of flanking genes)!
+              Here are the gene caller ids anvi'o found from the search-terms Phycocyanin
+              alpha chain: {1122, 2146, 235, 237, 223} and Phycocyanin/phycoerythrin beta
+              chain: {222, 238}. Please use `anvi-export-functions` on your CONTIGS.db, locate
+              these gene caller id's, then confirm the correct flanking gene caller ids.
+              Anvi'o recommends you use the --gene caller ids flag to specify the specific
+              pair gene caller ids you need to cut out the locus so there are no more mix ups.
+              On the other hand, if you are trying to extract multiple loci from a genome
+              using the same flanking genes, anvi'o cannot currently handle this in --flank-
+              mode. If this functionality is necessary for your analysis, please make an issue
+              on github and we will address it.
+
+
+
+Input / Output
+===============================================
+Contigs DB ...................................: /mnt/bigdata/linuxhome/kjkibler/cyanoSTRONG/krys/analysis/anvio/mags/CYBIM-93_0seq.tmp.db
+Output directory .............................: locus_output
+Rev-comp the locus sequence if necessary .....: True
+
+Initialization bleep bloops
+===============================================
+Mode .........................................: Function search
+Search term 1 of 2 ...........................: Phycocyanin alpha chain
+Function calls being used ....................: COG20_CATEGORY, COG20_PATHWAY, COG20_FUNCTION
+Search term 2 of 2 ...........................: Phycocyanin/phycoerythrin beta chain
+Function calls being used ....................: COG20_CATEGORY, COG20_PATHWAY, COG20_FUNCTION
+Matching genes ...............................: 5 genes matched your search
+
+
+Exporting locus 1 of 1
+===============================================
+
+
+Config Error: You are in flank-mode, and anvi'o found 5 total gene caller id's from the
+              search-terms provided. Anvi'o cannot handle this because flank-mode needs a pair
+              of gene caller id's to cut out a locus (i.e., only a pair of flanking genes)!
+              Here are the gene caller ids anvi'o found from the search-terms Phycocyanin
+              alpha chain: {818, 2562, 1574, 815} and Phycocyanin/phycoerythrin beta chain:
+              {814}. Please use `anvi-export-functions` on your CONTIGS.db, locate these gene
+              caller id's, then confirm the correct flanking gene caller ids. Anvi'o
+              recommends you use the --gene caller ids flag to specify the specific pair gene
+              caller ids you need to cut out the locus so there are no more mix ups. On the
+              other hand, if you are trying to extract multiple loci from a genome using the
+              same flanking genes, anvi'o cannot currently handle this in --flank-mode. If
+              this functionality is necessary for your analysis, please make an issue on
+              github and we will address it.
+
+
+
+Input / Output
+===============================================
+Contigs DB ...................................: /mnt/bigdata/linuxhome/kjkibler/cyanoSTRONG/krys/analysis/anvio/mags/CYBIM-94_0seq.tmp.db
+Output directory .............................: locus_output
+Rev-comp the locus sequence if necessary .....: True
+
+Initialization bleep bloops
+===============================================
+Mode .........................................: Function search
+Search term 1 of 2 ...........................: Phycocyanin alpha chain
+Function calls being used ....................: COG20_PATHWAY, COG20_FUNCTION, COG20_CATEGORY
+Search term 2 of 2 ...........................: Phycocyanin/phycoerythrin beta chain
+Function calls being used ....................: COG20_PATHWAY, COG20_FUNCTION, COG20_CATEGORY
+Matching genes ...............................: 4 genes matched your search
+
+
+Exporting locus 1 of 1
+===============================================
+
+
+Config Error: You are in flank-mode, and anvi'o found 4 total gene caller id's from the
+              search-terms provided. Anvi'o cannot handle this because flank-mode needs a pair
+              of gene caller id's to cut out a locus (i.e., only a pair of flanking genes)!
+              Here are the gene caller ids anvi'o found from the search-terms Phycocyanin
+              alpha chain: {1728, 863} and Phycocyanin/phycoerythrin beta chain: {925, 2359}.
+              Please use `anvi-export-functions` on your CONTIGS.db, locate these gene caller
+              id's, then confirm the correct flanking gene caller ids. Anvi'o recommends you
+              use the --gene caller ids flag to specify the specific pair gene caller ids you
+              need to cut out the locus so there are no more mix ups. On the other hand, if
+              you are trying to extract multiple loci from a genome using the same flanking
+              genes, anvi'o cannot currently handle this in --flank-mode. If this
+              functionality is necessary for your analysis, please make an issue on github and
+              we will address it.
+
+
+
+Input / Output
+===============================================
+Contigs DB ...................................: /mnt/bigdata/linuxhome/kjkibler/cyanoSTRONG/krys/analysis/anvio/mags/CYBIM-96_0seq.tmp.db
+Output directory .............................: locus_output
+Rev-comp the locus sequence if necessary .....: True
+
+Initialization bleep bloops
+===============================================
+Mode .........................................: Function search
+Search term 1 of 2 ...........................: Phycocyanin alpha chain
+Function calls being used ....................: COG20_CATEGORY, COG20_FUNCTION, COG20_PATHWAY
+Search term 2 of 2 ...........................: Phycocyanin/phycoerythrin beta chain
+Function calls being used ....................: COG20_CATEGORY, COG20_FUNCTION, COG20_PATHWAY
+Matching genes ...............................: 7 genes matched your search
+
+
+Exporting locus 1 of 1
+===============================================
+
+
+Config Error: You are in flank-mode, and anvi'o found 7 total gene caller id's from the
+              search-terms provided. Anvi'o cannot handle this because flank-mode needs a pair
+              of gene caller id's to cut out a locus (i.e., only a pair of flanking genes)!
+              Here are the gene caller ids anvi'o found from the search-terms Phycocyanin
+              alpha chain: {2881, 2884, 1032, 2898, 1663} and Phycocyanin/phycoerythrin beta
+              chain: {2880, 2899}. Please use `anvi-export-functions` on your CONTIGS.db,
+              locate these gene caller id's, then confirm the correct flanking gene caller
+              ids. Anvi'o recommends you use the --gene caller ids flag to specify the
+              specific pair gene caller ids you need to cut out the locus so there are no more
+              mix ups. On the other hand, if you are trying to extract multiple loci from a
+              genome using the same flanking genes, anvi'o cannot currently handle this in
+              --flank-mode. If this functionality is necessary for your analysis, please make
+              an issue on github and we will address it.
+
+
+
+Input / Output
+===============================================
+Contigs DB ...................................: /mnt/bigdata/linuxhome/kjkibler/cyanoSTRONG/krys/analysis/anvio/mags/DOLIS-105_0seq.tmp.db
+Output directory .............................: locus_output
+Rev-comp the locus sequence if necessary .....: True
+
+Initialization bleep bloops
+===============================================
+Mode .........................................: Function search
+Search term 1 of 2 ...........................: Phycocyanin alpha chain
+Function calls being used ....................: COG20_FUNCTION, COG20_PATHWAY, COG20_CATEGORY
+Search term 2 of 2 ...........................: Phycocyanin/phycoerythrin beta chain
+Function calls being used ....................: COG20_FUNCTION, COG20_PATHWAY, COG20_CATEGORY
+Matching genes ...............................: 3 genes matched your search
+
+
+Exporting locus 1 of 1
+===============================================
+
+
+Config Error: You are in flank-mode, and anvi'o found 3 total gene caller id's from the
+              search-terms provided. Anvi'o cannot handle this because flank-mode needs a pair
+              of gene caller id's to cut out a locus (i.e., only a pair of flanking genes)!
+              Here are the gene caller ids anvi'o found from the search-terms Phycocyanin
+              alpha chain: {2570, 597} and Phycocyanin/phycoerythrin beta chain: {596}. Please
+              use `anvi-export-functions` on your CONTIGS.db, locate these gene caller id's,
+              then confirm the correct flanking gene caller ids. Anvi'o recommends you use the
+              --gene caller ids flag to specify the specific pair gene caller ids you need to
+              cut out the locus so there are no more mix ups. On the other hand, if you are
+              trying to extract multiple loci from a genome using the same flanking genes,
+              anvi'o cannot currently handle this in --flank-mode. If this functionality is
+              necessary for your analysis, please make an issue on github and we will address
+              it.
+
+
+
+Input / Output
+===============================================
+Contigs DB ...................................: /mnt/bigdata/linuxhome/kjkibler/cyanoSTRONG/krys/analysis/anvio/mags/DOLIS-187_0seq.tmp.db
+Output directory .............................: locus_output
+Rev-comp the locus sequence if necessary .....: True
+
+Initialization bleep bloops
+===============================================
+Mode .........................................: Function search
+Search term 1 of 2 ...........................: Phycocyanin alpha chain
+Function calls being used ....................: COG20_PATHWAY, COG20_FUNCTION, COG20_CATEGORY
+Search term 2 of 2 ...........................: Phycocyanin/phycoerythrin beta chain
+Function calls being used ....................: COG20_PATHWAY, COG20_FUNCTION, COG20_CATEGORY
+Matching genes ...............................: 4 genes matched your search
+
+
+Exporting locus 1 of 1
+===============================================
+
+
+Config Error: You are in flank-mode, and anvi'o found 4 total gene caller id's from the
+              search-terms provided. Anvi'o cannot handle this because flank-mode needs a pair
+              of gene caller id's to cut out a locus (i.e., only a pair of flanking genes)!
+              Here are the gene caller ids anvi'o found from the search-terms Phycocyanin
+              alpha chain: {3513, 3740, 1255} and Phycocyanin/phycoerythrin beta chain:
+              {1256}. Please use `anvi-export-functions` on your CONTIGS.db, locate these gene
+              caller id's, then confirm the correct flanking gene caller ids. Anvi'o
+              recommends you use the --gene caller ids flag to specify the specific pair gene
+              caller ids you need to cut out the locus so there are no more mix ups. On the
+              other hand, if you are trying to extract multiple loci from a genome using the
+              same flanking genes, anvi'o cannot currently handle this in --flank-mode. If
+              this functionality is necessary for your analysis, please make an issue on
+              github and we will address it.
+
+
+
+Input / Output
+===============================================
+Contigs DB ...................................: /mnt/bigdata/linuxhome/kjkibler/cyanoSTRONG/krys/analysis/anvio/mags/DOLIS-36_0seq.tmp.db
+Output directory .............................: locus_output
+Rev-comp the locus sequence if necessary .....: True
+
+Initialization bleep bloops
+===============================================
+Mode .........................................: Function search
+Search term 1 of 2 ...........................: Phycocyanin alpha chain
+Function calls being used ....................: COG20_PATHWAY, COG20_CATEGORY, COG20_FUNCTION
+Search term 2 of 2 ...........................: Phycocyanin/phycoerythrin beta chain
+Function calls being used ....................: COG20_PATHWAY, COG20_CATEGORY, COG20_FUNCTION
+
+WARNING
+===============================================
+There aren't any gene calls that match to the criteria you provided to anvi'o
+export locus magic. Is this yet another case of you did everything right yet
+anvi'o failed you? If that's the case, let us know :( This class will quietly
+kill this process without reporting any error since a lack of hit may be the
+expected outcome of some weird processes somewhere.
+
+
+Input / Output
+===============================================
+Contigs DB ...................................: /mnt/bigdata/linuxhome/kjkibler/cyanoSTRONG/krys/analysis/anvio/mags/DOLIS-53_0seq.tmp.db
+Output directory .............................: locus_output
+Rev-comp the locus sequence if necessary .....: True
+
+Initialization bleep bloops
+===============================================
+Mode .........................................: Function search
+Search term 1 of 2 ...........................: Phycocyanin alpha chain
+Function calls being used ....................: COG20_FUNCTION, COG20_CATEGORY, COG20_PATHWAY
+Search term 2 of 2 ...........................: Phycocyanin/phycoerythrin beta chain
+Function calls being used ....................: COG20_FUNCTION, COG20_CATEGORY, COG20_PATHWAY
+
+WARNING
+===============================================
+There aren't any gene calls that match to the criteria you provided to anvi'o
+export locus magic. Is this yet another case of you did everything right yet
+anvi'o failed you? If that's the case, let us know :( This class will quietly
+kill this process without reporting any error since a lack of hit may be the
+expected outcome of some weird processes somewhere.
+
+
+Input / Output
+===============================================
+Contigs DB ...................................: /mnt/bigdata/linuxhome/kjkibler/cyanoSTRONG/krys/analysis/anvio/mags/MCYST-100_0seq.tmp.db
+Output directory .............................: locus_output
+Rev-comp the locus sequence if necessary .....: True
+
+Initialization bleep bloops
+===============================================
+Mode .........................................: Function search
+Search term 1 of 2 ...........................: Phycocyanin alpha chain
+Function calls being used ....................: COG20_PATHWAY, COG20_CATEGORY, COG20_FUNCTION
+Search term 2 of 2 ...........................: Phycocyanin/phycoerythrin beta chain
+Function calls being used ....................: COG20_PATHWAY, COG20_CATEGORY, COG20_FUNCTION
+Matching genes ...............................: 3 genes matched your search
+
+
+Exporting locus 1 of 1
+===============================================
+
+
+Config Error: You are in flank-mode, and anvi'o found 3 total gene caller id's from the
+              search-terms provided. Anvi'o cannot handle this because flank-mode needs a pair
+              of gene caller id's to cut out a locus (i.e., only a pair of flanking genes)!
+              Here are the gene caller ids anvi'o found from the search-terms Phycocyanin
+              alpha chain: {498, 1436} and Phycocyanin/phycoerythrin beta chain: {1435}.
+              Please use `anvi-export-functions` on your CONTIGS.db, locate these gene caller
+              id's, then confirm the correct flanking gene caller ids. Anvi'o recommends you
+              use the --gene caller ids flag to specify the specific pair gene caller ids you
+              need to cut out the locus so there are no more mix ups. On the other hand, if
+              you are trying to extract multiple loci from a genome using the same flanking
+              genes, anvi'o cannot currently handle this in --flank-mode. If this
+              functionality is necessary for your analysis, please make an issue on github and
+              we will address it.
+
+
+
+Input / Output
+===============================================
+Contigs DB ...................................: /mnt/bigdata/linuxhome/kjkibler/cyanoSTRONG/krys/analysis/anvio/mags/MCYST-157_0seq.tmp.db
+Output directory .............................: locus_output
+Rev-comp the locus sequence if necessary .....: True
+
+Initialization bleep bloops
+===============================================
+Mode .........................................: Function search
+Search term 1 of 2 ...........................: Phycocyanin alpha chain
+Function calls being used ....................: COG20_FUNCTION, COG20_PATHWAY, COG20_CATEGORY
+Search term 2 of 2 ...........................: Phycocyanin/phycoerythrin beta chain
+Function calls being used ....................: COG20_FUNCTION, COG20_PATHWAY, COG20_CATEGORY
+Matching genes ...............................: 7 genes matched your search
+
+
+Exporting locus 1 of 1
+===============================================
+
+
+Config Error: You are in flank-mode, and anvi'o found 7 total gene caller id's from the
+              search-terms provided. Anvi'o cannot handle this because flank-mode needs a pair
+              of gene caller id's to cut out a locus (i.e., only a pair of flanking genes)!
+              Here are the gene caller ids anvi'o found from the search-terms Phycocyanin
+              alpha chain: {3162, 1394, 3160, 250, 3836, 766} and Phycocyanin/phycoerythrin
+              beta chain: {767}. Please use `anvi-export-functions` on your CONTIGS.db, locate
+              these gene caller id's, then confirm the correct flanking gene caller ids.
+              Anvi'o recommends you use the --gene caller ids flag to specify the specific
+              pair gene caller ids you need to cut out the locus so there are no more mix ups.
+              On the other hand, if you are trying to extract multiple loci from a genome
+              using the same flanking genes, anvi'o cannot currently handle this in --flank-
+              mode. If this functionality is necessary for your analysis, please make an issue
+              on github and we will address it.
+
+
+
+Input / Output
+===============================================
+Contigs DB ...................................: /mnt/bigdata/linuxhome/kjkibler/cyanoSTRONG/krys/analysis/anvio/mags/MCYST-162_0seq.tmp.db
+Output directory .............................: locus_output
+Rev-comp the locus sequence if necessary .....: True
+
+Initialization bleep bloops
+===============================================
+Mode .........................................: Function search
+Search term 1 of 2 ...........................: Phycocyanin alpha chain
+Function calls being used ....................: COG20_FUNCTION, COG20_CATEGORY, COG20_PATHWAY
+Search term 2 of 2 ...........................: Phycocyanin/phycoerythrin beta chain
+Function calls being used ....................: COG20_FUNCTION, COG20_CATEGORY, COG20_PATHWAY
+Matching genes ...............................: 5 genes matched your search
+
+
+Exporting locus 1 of 1
+===============================================
+
+
+Config Error: You are in flank-mode, and anvi'o found 5 total gene caller id's from the
+              search-terms provided. Anvi'o cannot handle this because flank-mode needs a pair
+              of gene caller id's to cut out a locus (i.e., only a pair of flanking genes)!
+              Here are the gene caller ids anvi'o found from the search-terms Phycocyanin
+              alpha chain: {2266, 1258, 179, 340} and Phycocyanin/phycoerythrin beta chain:
+              {1259}. Please use `anvi-export-functions` on your CONTIGS.db, locate these gene
+              caller id's, then confirm the correct flanking gene caller ids. Anvi'o
+              recommends you use the --gene caller ids flag to specify the specific pair gene
+              caller ids you need to cut out the locus so there are no more mix ups. On the
+              other hand, if you are trying to extract multiple loci from a genome using the
+              same flanking genes, anvi'o cannot currently handle this in --flank-mode. If
+              this functionality is necessary for your analysis, please make an issue on
+              github and we will address it.
+
+
+
+Input / Output
+===============================================
+Contigs DB ...................................: /mnt/bigdata/linuxhome/kjkibler/cyanoSTRONG/krys/analysis/anvio/mags/MCYST-162-1_0seq.tmp.db
+Output directory .............................: locus_output
+Rev-comp the locus sequence if necessary .....: True
+
+Initialization bleep bloops
+===============================================
+Mode .........................................: Function search
+Search term 1 of 2 ...........................: Phycocyanin alpha chain
+Function calls being used ....................: COG20_CATEGORY, COG20_PATHWAY, COG20_FUNCTION
+Search term 2 of 2 ...........................: Phycocyanin/phycoerythrin beta chain
+Function calls being used ....................: COG20_CATEGORY, COG20_PATHWAY, COG20_FUNCTION
+Matching genes ...............................: 3 genes matched your search
+
+
+Exporting locus 1 of 1
+===============================================
+
+
+Config Error: You are in flank-mode, and anvi'o found 3 total gene caller id's from the
+              search-terms provided. Anvi'o cannot handle this because flank-mode needs a pair
+              of gene caller id's to cut out a locus (i.e., only a pair of flanking genes)!
+              Here are the gene caller ids anvi'o found from the search-terms Phycocyanin
+              alpha chain: {2467, 3103} and Phycocyanin/phycoerythrin beta chain: {3104}.
+              Please use `anvi-export-functions` on your CONTIGS.db, locate these gene caller
+              id's, then confirm the correct flanking gene caller ids. Anvi'o recommends you
+              use the --gene caller ids flag to specify the specific pair gene caller ids you
+              need to cut out the locus so there are no more mix ups. On the other hand, if
+              you are trying to extract multiple loci from a genome using the same flanking
+              genes, anvi'o cannot currently handle this in --flank-mode. If this
+              functionality is necessary for your analysis, please make an issue on github and
+              we will address it.
+
+
+
+Input / Output
+===============================================
+Contigs DB ...................................: /mnt/bigdata/linuxhome/kjkibler/cyanoSTRONG/krys/analysis/anvio/mags/MCYST-162-2_0seq.tmp.db
+Output directory .............................: locus_output
+Rev-comp the locus sequence if necessary .....: True
+
+Initialization bleep bloops
+===============================================
+Mode .........................................: Function search
+Search term 1 of 2 ...........................: Phycocyanin alpha chain
+Function calls being used ....................: COG20_PATHWAY, COG20_FUNCTION, COG20_CATEGORY
+Search term 2 of 2 ...........................: Phycocyanin/phycoerythrin beta chain
+Function calls being used ....................: COG20_PATHWAY, COG20_FUNCTION, COG20_CATEGORY
+Matching genes ...............................: 4 genes matched your search
+
+
+Exporting locus 1 of 1
+===============================================
+
+
+Config Error: You are in flank-mode, and anvi'o found 4 total gene caller id's from the
+              search-terms provided. Anvi'o cannot handle this because flank-mode needs a pair
+              of gene caller id's to cut out a locus (i.e., only a pair of flanking genes)!
+              Here are the gene caller ids anvi'o found from the search-terms Phycocyanin
+              alpha chain: {2778, 569, 42} and Phycocyanin/phycoerythrin beta chain: {41}.
+              Please use `anvi-export-functions` on your CONTIGS.db, locate these gene caller
+              id's, then confirm the correct flanking gene caller ids. Anvi'o recommends you
+              use the --gene caller ids flag to specify the specific pair gene caller ids you
+              need to cut out the locus so there are no more mix ups. On the other hand, if
+              you are trying to extract multiple loci from a genome using the same flanking
+              genes, anvi'o cannot currently handle this in --flank-mode. If this
+              functionality is necessary for your analysis, please make an issue on github and
+              we will address it.
+
+
+
+Input / Output
+===============================================
+Contigs DB ...................................: /mnt/bigdata/linuxhome/kjkibler/cyanoSTRONG/krys/analysis/anvio/mags/MCYST-2_0seq.tmp.db
+Output directory .............................: locus_output
+Rev-comp the locus sequence if necessary .....: True
+
+Initialization bleep bloops
+===============================================
+Mode .........................................: Function search
+Search term 1 of 2 ...........................: Phycocyanin alpha chain
+Function calls being used ....................: COG20_CATEGORY, COG20_PATHWAY, COG20_FUNCTION
+Search term 2 of 2 ...........................: Phycocyanin/phycoerythrin beta chain
+Function calls being used ....................: COG20_CATEGORY, COG20_PATHWAY, COG20_FUNCTION
+Matching genes ...............................: 7 genes matched your search
+
+
+Exporting locus 1 of 1
+===============================================
+
+
+Config Error: You are in flank-mode, and anvi'o found 7 total gene caller id's from the
+              search-terms provided. Anvi'o cannot handle this because flank-mode needs a pair
+              of gene caller id's to cut out a locus (i.e., only a pair of flanking genes)!
+              Here are the gene caller ids anvi'o found from the search-terms Phycocyanin
+              alpha chain: {737, 1798, 2220, 405, 3802} and Phycocyanin/phycoerythrin beta
+              chain: {1758, 1799}. Please use `anvi-export-functions` on your CONTIGS.db,
+              locate these gene caller id's, then confirm the correct flanking gene caller
+              ids. Anvi'o recommends you use the --gene caller ids flag to specify the
+              specific pair gene caller ids you need to cut out the locus so there are no more
+              mix ups. On the other hand, if you are trying to extract multiple loci from a
+              genome using the same flanking genes, anvi'o cannot currently handle this in
+              --flank-mode. If this functionality is necessary for your analysis, please make
+              an issue on github and we will address it.
+
+
+
+Input / Output
+===============================================
+Contigs DB ...................................: /mnt/bigdata/linuxhome/kjkibler/cyanoSTRONG/krys/analysis/anvio/mags/MCYST-24_0seq.tmp.db
+Output directory .............................: locus_output
+Rev-comp the locus sequence if necessary .....: True
+
+Initialization bleep bloops
+===============================================
+Mode .........................................: Function search
+Search term 1 of 2 ...........................: Phycocyanin alpha chain
+Function calls being used ....................: COG20_CATEGORY, COG20_FUNCTION, COG20_PATHWAY
+Search term 2 of 2 ...........................: Phycocyanin/phycoerythrin beta chain
+Function calls being used ....................: COG20_CATEGORY, COG20_FUNCTION, COG20_PATHWAY
+Matching genes ...............................: 2 genes matched your search
+
+
+Exporting locus 1 of 1
+===============================================
+Contig name ..................................: MCYST_24.Contig_155
+Contig length ................................: 4,603
+Num genes in contig ..........................: 5
+Target gene call .............................: 1,021
+Target gene direction ........................: Reverse
+First and last gene of the locus (raw) .......: 1021 and 1402
+
+* A premature locus is found .. the current configuration says 'whatevs'. Anvi'o
+will continue.
+
+First and last gene of the locus (final) .....: 1021 and 1025
+Locus gene call start/stops excess (nts) .....: 0
+Reverse complementing everything .............: True
+Output FASTA file ............................: locus_output/cpcA_to_cpcB-MCYST-24_0seq.tmp.db.fa
+
+WARNING
+====================================================
+You are about to generate a blank profile. This is what we do when we have
+nothing but a contigs database to play with. Because anvi'o is lazy, it will not
+check the rest of the parameters you may have declred. Most of them will not
+matter.
+
+
+
+Config Error: The sample name ('cpcA_to_cpcB-MCYST-24_0seq.tmp.db') contains characters anvi'o
+              does not like. Please limit the characters that make up the project name to
+              ASCII letters, digits, and the underscore character ('_').
+
+
+
+Input / Output
+===============================================
+Contigs DB ...................................: /mnt/bigdata/linuxhome/kjkibler/cyanoSTRONG/krys/analysis/anvio/mags/MCYST-31_0seq.tmp.db
+Output directory .............................: locus_output
+Rev-comp the locus sequence if necessary .....: True
+
+Initialization bleep bloops
+===============================================
+Mode .........................................: Function search
+Search term 1 of 2 ...........................: Phycocyanin alpha chain
+Function calls being used ....................: COG20_PATHWAY, COG20_CATEGORY, COG20_FUNCTION
+Search term 2 of 2 ...........................: Phycocyanin/phycoerythrin beta chain
+Function calls being used ....................: COG20_PATHWAY, COG20_CATEGORY, COG20_FUNCTION
+Matching genes ...............................: 9 genes matched your search
+
+
+Exporting locus 1 of 1
+===============================================
+
+
+Config Error: You are in flank-mode, and anvi'o found 9 total gene caller id's from the
+              search-terms provided. Anvi'o cannot handle this because flank-mode needs a pair
+              of gene caller id's to cut out a locus (i.e., only a pair of flanking genes)!
+              Here are the gene caller ids anvi'o found from the search-terms Phycocyanin
+              alpha chain: {166, 3689, 1483, 335, 182, 183, 3517} and
+              Phycocyanin/phycoerythrin beta chain: {3516, 165}. Please use `anvi-export-
+              functions` on your CONTIGS.db, locate these gene caller id's, then confirm the
+              correct flanking gene caller ids. Anvi'o recommends you use the --gene caller
+              ids flag to specify the specific pair gene caller ids you need to cut out the
+              locus so there are no more mix ups. On the other hand, if you are trying to
+              extract multiple loci from a genome using the same flanking genes, anvi'o cannot
+              currently handle this in --flank-mode. If this functionality is necessary for
+              your analysis, please make an issue on github and we will address it.
+
+
+
+Input / Output
+===============================================
+Contigs DB ...................................: /mnt/bigdata/linuxhome/kjkibler/cyanoSTRONG/krys/analysis/anvio/mags/MCYST-56_0seq.tmp.db
+Output directory .............................: locus_output
+Rev-comp the locus sequence if necessary .....: True
+
+Initialization bleep bloops
+===============================================
+Mode .........................................: Function search
+Search term 1 of 2 ...........................: Phycocyanin alpha chain
+Function calls being used ....................: COG20_CATEGORY, COG20_FUNCTION, COG20_PATHWAY
+Search term 2 of 2 ...........................: Phycocyanin/phycoerythrin beta chain
+Function calls being used ....................: COG20_CATEGORY, COG20_FUNCTION, COG20_PATHWAY
+Matching genes ...............................: 6 genes matched your search
+
+
+Exporting locus 1 of 1
+===============================================
+
+
+Config Error: You are in flank-mode, and anvi'o found 6 total gene caller id's from the
+              search-terms provided. Anvi'o cannot handle this because flank-mode needs a pair
+              of gene caller id's to cut out a locus (i.e., only a pair of flanking genes)!
+              Here are the gene caller ids anvi'o found from the search-terms Phycocyanin
+              alpha chain: {520, 4201, 3571, 1464, 3039} and Phycocyanin/phycoerythrin beta
+              chain: {4202}. Please use `anvi-export-functions` on your CONTIGS.db, locate
+              these gene caller id's, then confirm the correct flanking gene caller ids.
+              Anvi'o recommends you use the --gene caller ids flag to specify the specific
+              pair gene caller ids you need to cut out the locus so there are no more mix ups.
+              On the other hand, if you are trying to extract multiple loci from a genome
+              using the same flanking genes, anvi'o cannot currently handle this in --flank-
+              mode. If this functionality is necessary for your analysis, please make an issue
+              on github and we will address it.
+
+
+
+Input / Output
+===============================================
+Contigs DB ...................................: /mnt/bigdata/linuxhome/kjkibler/cyanoSTRONG/krys/analysis/anvio/mags/MCYST-62_0seq.tmp.db
+Output directory .............................: locus_output
+Rev-comp the locus sequence if necessary .....: True
+
+Initialization bleep bloops
+===============================================
+Mode .........................................: Function search
+Search term 1 of 2 ...........................: Phycocyanin alpha chain
+Function calls being used ....................: COG20_FUNCTION, COG20_CATEGORY, COG20_PATHWAY
+Search term 2 of 2 ...........................: Phycocyanin/phycoerythrin beta chain
+Function calls being used ....................: COG20_FUNCTION, COG20_CATEGORY, COG20_PATHWAY
+Matching genes ...............................: 6 genes matched your search
+
+
+Exporting locus 1 of 1
+===============================================
+
+
+Config Error: You are in flank-mode, and anvi'o found 6 total gene caller id's from the
+              search-terms provided. Anvi'o cannot handle this because flank-mode needs a pair
+              of gene caller id's to cut out a locus (i.e., only a pair of flanking genes)!
+              Here are the gene caller ids anvi'o found from the search-terms Phycocyanin
+              alpha chain: {1551, 1552, 562, 3157, 3768} and Phycocyanin/phycoerythrin beta
+              chain: {561}. Please use `anvi-export-functions` on your CONTIGS.db, locate
+              these gene caller id's, then confirm the correct flanking gene caller ids.
+              Anvi'o recommends you use the --gene caller ids flag to specify the specific
+              pair gene caller ids you need to cut out the locus so there are no more mix ups.
+              On the other hand, if you are trying to extract multiple loci from a genome
+              using the same flanking genes, anvi'o cannot currently handle this in --flank-
+              mode. If this functionality is necessary for your analysis, please make an issue
+              on github and we will address it.
+
+
+
+Input / Output
+===============================================
+Contigs DB ...................................: /mnt/bigdata/linuxhome/kjkibler/cyanoSTRONG/krys/analysis/anvio/mags/MCYST-79_0seq.tmp.db
+Output directory .............................: locus_output
+Rev-comp the locus sequence if necessary .....: True
+
+Initialization bleep bloops
+===============================================
+Mode .........................................: Function search
+Search term 1 of 2 ...........................: Phycocyanin alpha chain
+Function calls being used ....................: COG20_CATEGORY, COG20_PATHWAY, COG20_FUNCTION
+Search term 2 of 2 ...........................: Phycocyanin/phycoerythrin beta chain
+Function calls being used ....................: COG20_CATEGORY, COG20_PATHWAY, COG20_FUNCTION
+Matching genes ...............................: 5 genes matched your search
+
+
+Exporting locus 1 of 1
+===============================================
+
+
+Config Error: You are in flank-mode, and anvi'o found 5 total gene caller id's from the
+              search-terms provided. Anvi'o cannot handle this because flank-mode needs a pair
+              of gene caller id's to cut out a locus (i.e., only a pair of flanking genes)!
+              Here are the gene caller ids anvi'o found from the search-terms Phycocyanin
+              alpha chain: {2280, 2045, 2510, 2229} and Phycocyanin/phycoerythrin beta chain:
+              {2511}. Please use `anvi-export-functions` on your CONTIGS.db, locate these gene
+              caller id's, then confirm the correct flanking gene caller ids. Anvi'o
+              recommends you use the --gene caller ids flag to specify the specific pair gene
+              caller ids you need to cut out the locus so there are no more mix ups. On the
+              other hand, if you are trying to extract multiple loci from a genome using the
+              same flanking genes, anvi'o cannot currently handle this in --flank-mode. If
+              this functionality is necessary for your analysis, please make an issue on
+              github and we will address it.
+
+
+
+Input / Output
+===============================================
+Contigs DB ...................................: /mnt/bigdata/linuxhome/kjkibler/cyanoSTRONG/krys/analysis/anvio/mags/NODOS-103_0seq.tmp.db
+Output directory .............................: locus_output
+Rev-comp the locus sequence if necessary .....: True
+
+Initialization bleep bloops
+===============================================
+Mode .........................................: Function search
+Search term 1 of 2 ...........................: Phycocyanin alpha chain
+Function calls being used ....................: COG20_PATHWAY, COG20_FUNCTION, COG20_CATEGORY
+Search term 2 of 2 ...........................: Phycocyanin/phycoerythrin beta chain
+Function calls being used ....................: COG20_PATHWAY, COG20_FUNCTION, COG20_CATEGORY
+Matching genes ...............................: 8 genes matched your search
+
+
+Exporting locus 1 of 1
+===============================================
+
+
+Config Error: You are in flank-mode, and anvi'o found 8 total gene caller id's from the
+              search-terms provided. Anvi'o cannot handle this because flank-mode needs a pair
+              of gene caller id's to cut out a locus (i.e., only a pair of flanking genes)!
+              Here are the gene caller ids anvi'o found from the search-terms Phycocyanin
+              alpha chain: {1104, 2164, 628, 1111, 3320} and Phycocyanin/phycoerythrin beta
+              chain: {1112, 2163, 1103}. Please use `anvi-export-functions` on your
+              CONTIGS.db, locate these gene caller id's, then confirm the correct flanking
+              gene caller ids. Anvi'o recommends you use the --gene caller ids flag to specify
+              the specific pair gene caller ids you need to cut out the locus so there are no
+              more mix ups. On the other hand, if you are trying to extract multiple loci from
+              a genome using the same flanking genes, anvi'o cannot currently handle this in
+              --flank-mode. If this functionality is necessary for your analysis, please make
+              an issue on github and we will address it.
+
+
+
+Input / Output
+===============================================
+Contigs DB ...................................: /mnt/bigdata/linuxhome/kjkibler/cyanoSTRONG/krys/analysis/anvio/mags/NODOS-105_0seq.tmp.db
+Output directory .............................: locus_output
+Rev-comp the locus sequence if necessary .....: True
+
+Initialization bleep bloops
+===============================================
+Mode .........................................: Function search
+Search term 1 of 2 ...........................: Phycocyanin alpha chain
+Function calls being used ....................: COG20_CATEGORY, COG20_FUNCTION, COG20_PATHWAY
+Search term 2 of 2 ...........................: Phycocyanin/phycoerythrin beta chain
+Function calls being used ....................: COG20_CATEGORY, COG20_FUNCTION, COG20_PATHWAY
+Matching genes ...............................: 5 genes matched your search
+
+
+Exporting locus 1 of 1
+===============================================
+
+
+Config Error: You are in flank-mode, and anvi'o found 5 total gene caller id's from the
+              search-terms provided. Anvi'o cannot handle this because flank-mode needs a pair
+              of gene caller id's to cut out a locus (i.e., only a pair of flanking genes)!
+              Here are the gene caller ids anvi'o found from the search-terms Phycocyanin
+              alpha chain: {2727, 579, 1871} and Phycocyanin/phycoerythrin beta chain: {2430,
+              1870}. Please use `anvi-export-functions` on your CONTIGS.db, locate these gene
+              caller id's, then confirm the correct flanking gene caller ids. Anvi'o
+              recommends you use the --gene caller ids flag to specify the specific pair gene
+              caller ids you need to cut out the locus so there are no more mix ups. On the
+              other hand, if you are trying to extract multiple loci from a genome using the
+              same flanking genes, anvi'o cannot currently handle this in --flank-mode. If
+              this functionality is necessary for your analysis, please make an issue on
+              github and we will address it.
+
+
+
+Input / Output
+===============================================
+Contigs DB ...................................: /mnt/bigdata/linuxhome/kjkibler/cyanoSTRONG/krys/analysis/anvio/mags/NODOS-42_0seq.tmp.db
+Output directory .............................: locus_output
+Rev-comp the locus sequence if necessary .....: True
+
+Initialization bleep bloops
+===============================================
+Mode .........................................: Function search
+Search term 1 of 2 ...........................: Phycocyanin alpha chain
+Function calls being used ....................: COG20_CATEGORY, COG20_PATHWAY, COG20_FUNCTION
+Search term 2 of 2 ...........................: Phycocyanin/phycoerythrin beta chain
+Function calls being used ....................: COG20_CATEGORY, COG20_PATHWAY, COG20_FUNCTION
+Matching genes ...............................: 1 genes matched your search
+
+
+Exporting locus 1 of 1
+===============================================
+
+
+Config Error: You are in flank-mode, and anvi'o only found 1 gene caller id(s). Anvi'o cannot
+              handle this because flank-mode needs a pair of gene caller id's to cut out a
+              locus (i.e., only a pair of flanking genes)! This most likely occured because 1
+              of your search-terms was not found the functions of the CONTIGS.db. Please try
+              again with another search-term :)
+
+
+
+Input / Output
+===============================================
+Contigs DB ...................................: /mnt/bigdata/linuxhome/kjkibler/cyanoSTRONG/krys/analysis/anvio/mags/PSEUDA-13_0seq.tmp.db
+Output directory .............................: locus_output
+Rev-comp the locus sequence if necessary .....: True
+
+Initialization bleep bloops
+===============================================
+Mode .........................................: Function search
+Search term 1 of 2 ...........................: Phycocyanin alpha chain
+Function calls being used ....................: COG20_CATEGORY, COG20_PATHWAY, COG20_FUNCTION
+Search term 2 of 2 ...........................: Phycocyanin/phycoerythrin beta chain
+Function calls being used ....................: COG20_CATEGORY, COG20_PATHWAY, COG20_FUNCTION
+Matching genes ...............................: 10 genes matched your search
+
+
+Exporting locus 1 of 1
+===============================================
+
+
+Config Error: You are in flank-mode, and anvi'o found 10 total gene caller id's from the
+              search-terms provided. Anvi'o cannot handle this because flank-mode needs a pair
+              of gene caller id's to cut out a locus (i.e., only a pair of flanking genes)!
+              Here are the gene caller ids anvi'o found from the search-terms Phycocyanin
+              alpha chain: {227, 1735, 2632, 251, 2837, 248, 4762, 763} and
+              Phycocyanin/phycoerythrin beta chain: {2633, 249}. Please use `anvi-export-
+              functions` on your CONTIGS.db, locate these gene caller id's, then confirm the
+              correct flanking gene caller ids. Anvi'o recommends you use the --gene caller
+              ids flag to specify the specific pair gene caller ids you need to cut out the
+              locus so there are no more mix ups. On the other hand, if you are trying to
+              extract multiple loci from a genome using the same flanking genes, anvi'o cannot
+              currently handle this in --flank-mode. If this functionality is necessary for
+              your analysis, please make an issue on github and we will address it.
+
+
+
+Input / Output
+===============================================
+Contigs DB ...................................: /mnt/bigdata/linuxhome/kjkibler/cyanoSTRONG/krys/analysis/anvio/mags/PSEUDA-157_0seq.tmp.db
+Output directory .............................: locus_output
+Rev-comp the locus sequence if necessary .....: True
+
+Initialization bleep bloops
+===============================================
+Mode .........................................: Function search
+Search term 1 of 2 ...........................: Phycocyanin alpha chain
+Function calls being used ....................: COG20_FUNCTION, COG20_CATEGORY, COG20_PATHWAY
+Search term 2 of 2 ...........................: Phycocyanin/phycoerythrin beta chain
+Function calls being used ....................: COG20_FUNCTION, COG20_CATEGORY, COG20_PATHWAY
+Matching genes ...............................: 9 genes matched your search
+
+
+Exporting locus 1 of 1
+===============================================
+
+
+Config Error: You are in flank-mode, and anvi'o found 9 total gene caller id's from the
+              search-terms provided. Anvi'o cannot handle this because flank-mode needs a pair
+              of gene caller id's to cut out a locus (i.e., only a pair of flanking genes)!
+              Here are the gene caller ids anvi'o found from the search-terms Phycocyanin
+              alpha chain: {3648, 1762, 1156, 4235, 783, 2104, 3743} and
+              Phycocyanin/phycoerythrin beta chain: {3649, 1763}. Please use `anvi-export-
+              functions` on your CONTIGS.db, locate these gene caller id's, then confirm the
+              correct flanking gene caller ids. Anvi'o recommends you use the --gene caller
+              ids flag to specify the specific pair gene caller ids you need to cut out the
+              locus so there are no more mix ups. On the other hand, if you are trying to
+              extract multiple loci from a genome using the same flanking genes, anvi'o cannot
+              currently handle this in --flank-mode. If this functionality is necessary for
+              your analysis, please make an issue on github and we will address it.
+
+
+
+Input / Output
+===============================================
+Contigs DB ...................................: /mnt/bigdata/linuxhome/kjkibler/cyanoSTRONG/krys/analysis/anvio/mags/PSEUDA-281_0seq.tmp.db
+Output directory .............................: locus_output
+Rev-comp the locus sequence if necessary .....: True
+
+Initialization bleep bloops
+===============================================
+Mode .........................................: Function search
+Search term 1 of 2 ...........................: Phycocyanin alpha chain
+Function calls being used ....................: COG20_PATHWAY, COG20_CATEGORY, COG20_FUNCTION
+Search term 2 of 2 ...........................: Phycocyanin/phycoerythrin beta chain
+Function calls being used ....................: COG20_PATHWAY, COG20_CATEGORY, COG20_FUNCTION
+Matching genes ...............................: 10 genes matched your search
+
+
+Exporting locus 1 of 1
+===============================================
+
+
+Config Error: You are in flank-mode, and anvi'o found 10 total gene caller id's from the
+              search-terms provided. Anvi'o cannot handle this because flank-mode needs a pair
+              of gene caller id's to cut out a locus (i.e., only a pair of flanking genes)!
+              Here are the gene caller ids anvi'o found from the search-terms Phycocyanin
+              alpha chain: {2337, 4167, 4168, 1995, 3120, 2867, 1527, 187} and
+              Phycocyanin/phycoerythrin beta chain: {2336, 3121}. Please use `anvi-export-
+              functions` on your CONTIGS.db, locate these gene caller id's, then confirm the
+              correct flanking gene caller ids. Anvi'o recommends you use the --gene caller
+              ids flag to specify the specific pair gene caller ids you need to cut out the
+              locus so there are no more mix ups. On the other hand, if you are trying to
+              extract multiple loci from a genome using the same flanking genes, anvi'o cannot
+              currently handle this in --flank-mode. If this functionality is necessary for
+              your analysis, please make an issue on github and we will address it.
+
+
+
+Input / Output
+===============================================
+Contigs DB ...................................: /mnt/bigdata/linuxhome/kjkibler/cyanoSTRONG/krys/analysis/anvio/mags/PSEUDA-31_0seq.tmp.db
+Output directory .............................: locus_output
+Rev-comp the locus sequence if necessary .....: True
+
+Initialization bleep bloops
+===============================================
+Mode .........................................: Function search
+Search term 1 of 2 ...........................: Phycocyanin alpha chain
+Function calls being used ....................: COG20_FUNCTION, COG20_CATEGORY, COG20_PATHWAY
+Search term 2 of 2 ...........................: Phycocyanin/phycoerythrin beta chain
+Function calls being used ....................: COG20_FUNCTION, COG20_CATEGORY, COG20_PATHWAY
+Matching genes ...............................: 11 genes matched your search
+
+
+Exporting locus 1 of 1
+===============================================
+
+
+Config Error: You are in flank-mode, and anvi'o found 11 total gene caller id's from the
+              search-terms provided. Anvi'o cannot handle this because flank-mode needs a pair
+              of gene caller id's to cut out a locus (i.e., only a pair of flanking genes)!
+              Here are the gene caller ids anvi'o found from the search-terms Phycocyanin
+              alpha chain: {5153, 4154, 1003, 4782, 1791, 4278, 4152, 2618, 4063} and
+              Phycocyanin/phycoerythrin beta chain: {1004, 4277}. Please use `anvi-export-
+              functions` on your CONTIGS.db, locate these gene caller id's, then confirm the
+              correct flanking gene caller ids. Anvi'o recommends you use the --gene caller
+              ids flag to specify the specific pair gene caller ids you need to cut out the
+              locus so there are no more mix ups. On the other hand, if you are trying to
+              extract multiple loci from a genome using the same flanking genes, anvi'o cannot
+              currently handle this in --flank-mode. If this functionality is necessary for
+              your analysis, please make an issue on github and we will address it.
+
+
+
+Input / Output
+===============================================
+Contigs DB ...................................: /mnt/bigdata/linuxhome/kjkibler/cyanoSTRONG/krys/analysis/anvio/mags/PSEUDA-70_0seq.tmp.db
+Output directory .............................: locus_output
+Rev-comp the locus sequence if necessary .....: True
+
+Initialization bleep bloops
+===============================================
+Mode .........................................: Function search
+Search term 1 of 2 ...........................: Phycocyanin alpha chain
+Function calls being used ....................: COG20_FUNCTION, COG20_PATHWAY, COG20_CATEGORY
+Search term 2 of 2 ...........................: Phycocyanin/phycoerythrin beta chain
+Function calls being used ....................: COG20_FUNCTION, COG20_PATHWAY, COG20_CATEGORY
+Matching genes ...............................: 10 genes matched your search
+
+
+Exporting locus 1 of 1
+===============================================
+
+
+Config Error: You are in flank-mode, and anvi'o found 10 total gene caller id's from the
+              search-terms provided. Anvi'o cannot handle this because flank-mode needs a pair
+              of gene caller id's to cut out a locus (i.e., only a pair of flanking genes)!
+              Here are the gene caller ids anvi'o found from the search-terms Phycocyanin
+              alpha chain: {2596, 3429, 906, 909, 494, 3001, 2812, 29} and
+              Phycocyanin/phycoerythrin beta chain: {908, 493}. Please use `anvi-export-
+              functions` on your CONTIGS.db, locate these gene caller id's, then confirm the
+              correct flanking gene caller ids. Anvi'o recommends you use the --gene caller
+              ids flag to specify the specific pair gene caller ids you need to cut out the
+              locus so there are no more mix ups. On the other hand, if you are trying to
+              extract multiple loci from a genome using the same flanking genes, anvi'o cannot
+              currently handle this in --flank-mode. If this functionality is necessary for
+              your analysis, please make an issue on github and we will address it.
+
+
+
+Input / Output
+===============================================
+Contigs DB ...................................: /mnt/bigdata/linuxhome/kjkibler/cyanoSTRONG/krys/analysis/anvio/mags/VAMPV-156_0seq.tmp.db
+Output directory .............................: locus_output
+Rev-comp the locus sequence if necessary .....: True
+
+Initialization bleep bloops
+===============================================
+Mode .........................................: Function search
+Search term 1 of 2 ...........................: Phycocyanin alpha chain
+Function calls being used ....................: COG20_CATEGORY, COG20_FUNCTION, COG20_PATHWAY
+Search term 2 of 2 ...........................: Phycocyanin/phycoerythrin beta chain
+Function calls being used ....................: COG20_CATEGORY, COG20_FUNCTION, COG20_PATHWAY
+
+WARNING
+===============================================
+There aren't any gene calls that match to the criteria you provided to anvi'o
+export locus magic. Is this yet another case of you did everything right yet
+anvi'o failed you? If that's the case, let us know :( This class will quietly
+kill this process without reporting any error since a lack of hit may be the
+expected outcome of some weird processes somewhere.
+
+
+Input / Output
+===============================================
+Contigs DB ...................................: /mnt/bigdata/linuxhome/kjkibler/cyanoSTRONG/krys/analysis/anvio/mags/VAMPV-261_0seq.tmp.db
+Output directory .............................: locus_output
+Rev-comp the locus sequence if necessary .....: True
+
+Initialization bleep bloops
+===============================================
+Mode .........................................: Function search
+Search term 1 of 2 ...........................: Phycocyanin alpha chain
+Function calls being used ....................: COG20_FUNCTION, COG20_CATEGORY, COG20_PATHWAY
+Search term 2 of 2 ...........................: Phycocyanin/phycoerythrin beta chain
+Function calls being used ....................: COG20_FUNCTION, COG20_CATEGORY, COG20_PATHWAY
+
+WARNING
+===============================================
+There aren't any gene calls that match to the criteria you provided to anvi'o
+export locus magic. Is this yet another case of you did everything right yet
+anvi'o failed you? If that's the case, let us know :( This class will quietly
+kill this process without reporting any error since a lack of hit may be the
+expected outcome of some weird processes somewhere.
+
+
+Input / Output
+===============================================
+Contigs DB ...................................: /mnt/bigdata/linuxhome/kjkibler/cyanoSTRONG/krys/analysis/anvio/mags/VULCA-120_0seq.tmp.db
+Output directory .............................: locus_output
+Rev-comp the locus sequence if necessary .....: True
+
+Initialization bleep bloops
+===============================================
+Mode .........................................: Function search
+Search term 1 of 2 ...........................: Phycocyanin alpha chain
+Function calls being used ....................: COG20_PATHWAY, COG20_CATEGORY, COG20_FUNCTION
+Search term 2 of 2 ...........................: Phycocyanin/phycoerythrin beta chain
+Function calls being used ....................: COG20_PATHWAY, COG20_CATEGORY, COG20_FUNCTION
+Matching genes ...............................: 10 genes matched your search
+
+
+Exporting locus 1 of 1
+===============================================
+
+
+Config Error: You are in flank-mode, and anvi'o found 10 total gene caller id's from the
+              search-terms provided. Anvi'o cannot handle this because flank-mode needs a pair
+              of gene caller id's to cut out a locus (i.e., only a pair of flanking genes)!
+              Here are the gene caller ids anvi'o found from the search-terms Phycocyanin
+              alpha chain: {3010, 2467, 2116, 2982, 2503, 3055} and Phycocyanin/phycoerythrin
+              beta chain: {3054, 2973, 2981, 319}. Please use `anvi-export-functions` on your
+              CONTIGS.db, locate these gene caller id's, then confirm the correct flanking
+              gene caller ids. Anvi'o recommends you use the --gene caller ids flag to specify
+              the specific pair gene caller ids you need to cut out the locus so there are no
+              more mix ups. On the other hand, if you are trying to extract multiple loci from
+              a genome using the same flanking genes, anvi'o cannot currently handle this in
+              --flank-mode. If this functionality is necessary for your analysis, please make
+              an issue on github and we will address it.
+
+
+
+Input / Output
+===============================================
+Contigs DB ...................................: /mnt/bigdata/linuxhome/kjkibler/cyanoSTRONG/krys/analysis/anvio/mags/VULCA-20_0seq.tmp.db
+Output directory .............................: locus_output
+Rev-comp the locus sequence if necessary .....: True
+
+Initialization bleep bloops
+===============================================
+Mode .........................................: Function search
+Search term 1 of 2 ...........................: Phycocyanin alpha chain
+Function calls being used ....................: COG20_CATEGORY, COG20_PATHWAY, COG20_FUNCTION
+Search term 2 of 2 ...........................: Phycocyanin/phycoerythrin beta chain
+Function calls being used ....................: COG20_CATEGORY, COG20_PATHWAY, COG20_FUNCTION
+Matching genes ...............................: 8 genes matched your search
+
+
+Exporting locus 1 of 1
+===============================================
+
+
+Config Error: You are in flank-mode, and anvi'o found 8 total gene caller id's from the
+              search-terms provided. Anvi'o cannot handle this because flank-mode needs a pair
+              of gene caller id's to cut out a locus (i.e., only a pair of flanking genes)!
+              Here are the gene caller ids anvi'o found from the search-terms Phycocyanin
+              alpha chain: {1984, 1738, 333, 346, 348} and Phycocyanin/phycoerythrin beta
+              chain: {332, 349, 15}. Please use `anvi-export-functions` on your CONTIGS.db,
+              locate these gene caller id's, then confirm the correct flanking gene caller
+              ids. Anvi'o recommends you use the --gene caller ids flag to specify the
+              specific pair gene caller ids you need to cut out the locus so there are no more
+              mix ups. On the other hand, if you are trying to extract multiple loci from a
+              genome using the same flanking genes, anvi'o cannot currently handle this in
+              --flank-mode. If this functionality is necessary for your analysis, please make
+              an issue on github and we will address it.
+
+
+
+Input / Output
+===============================================
+Contigs DB ...................................: /mnt/bigdata/linuxhome/kjkibler/cyanoSTRONG/krys/analysis/anvio/mags/VULCA-209_0seq.tmp.db
+Output directory .............................: locus_output
+Rev-comp the locus sequence if necessary .....: True
+
+Initialization bleep bloops
+===============================================
+Mode .........................................: Function search
+Search term 1 of 2 ...........................: Phycocyanin alpha chain
+Function calls being used ....................: COG20_CATEGORY, COG20_FUNCTION, COG20_PATHWAY
+Search term 2 of 2 ...........................: Phycocyanin/phycoerythrin beta chain
+Function calls being used ....................: COG20_CATEGORY, COG20_FUNCTION, COG20_PATHWAY
+Matching genes ...............................: 3 genes matched your search
+
+
+Exporting locus 1 of 1
+===============================================
+
+
+Config Error: You are in flank-mode, and anvi'o found 3 total gene caller id's from the
+              search-terms provided. Anvi'o cannot handle this because flank-mode needs a pair
+              of gene caller id's to cut out a locus (i.e., only a pair of flanking genes)!
+              Here are the gene caller ids anvi'o found from the search-terms Phycocyanin
+              alpha chain: {1345, 542} and Phycocyanin/phycoerythrin beta chain: {366}. Please
+              use `anvi-export-functions` on your CONTIGS.db, locate these gene caller id's,
+              then confirm the correct flanking gene caller ids. Anvi'o recommends you use the
+              --gene caller ids flag to specify the specific pair gene caller ids you need to
+              cut out the locus so there are no more mix ups. On the other hand, if you are
+              trying to extract multiple loci from a genome using the same flanking genes,
+              anvi'o cannot currently handle this in --flank-mode. If this functionality is
+              necessary for your analysis, please make an issue on github and we will address
+              it.
+
+
+
+Input / Output
+===============================================
+Contigs DB ...................................: /mnt/bigdata/linuxhome/kjkibler/cyanoSTRONG/krys/analysis/anvio/mags/VULCA-242_0seq.tmp.db
+Output directory .............................: locus_output
+Rev-comp the locus sequence if necessary .....: True
+
+Initialization bleep bloops
+===============================================
+Mode .........................................: Function search
+Search term 1 of 2 ...........................: Phycocyanin alpha chain
+Function calls being used ....................: COG20_PATHWAY, COG20_CATEGORY, COG20_FUNCTION
+Search term 2 of 2 ...........................: Phycocyanin/phycoerythrin beta chain
+Function calls being used ....................: COG20_PATHWAY, COG20_CATEGORY, COG20_FUNCTION
+Matching genes ...............................: 4 genes matched your search
+
+
+Exporting locus 1 of 1
+===============================================
+
+
+Config Error: You are in flank-mode, and anvi'o found 4 total gene caller id's from the
+              search-terms provided. Anvi'o cannot handle this because flank-mode needs a pair
+              of gene caller id's to cut out a locus (i.e., only a pair of flanking genes)!
+              Here are the gene caller ids anvi'o found from the search-terms Phycocyanin
+              alpha chain: {1077, 261} and Phycocyanin/phycoerythrin beta chain: {289, 1474}.
+              Please use `anvi-export-functions` on your CONTIGS.db, locate these gene caller
+              id's, then confirm the correct flanking gene caller ids. Anvi'o recommends you
+              use the --gene caller ids flag to specify the specific pair gene caller ids you
+              need to cut out the locus so there are no more mix ups. On the other hand, if
+              you are trying to extract multiple loci from a genome using the same flanking
+              genes, anvi'o cannot currently handle this in --flank-mode. If this
+              functionality is necessary for your analysis, please make an issue on github and
+              we will address it.
+
+
+
+Input / Output
+===============================================
+Contigs DB ...................................: /mnt/bigdata/linuxhome/kjkibler/cyanoSTRONG/krys/analysis/anvio/mags/VULCA-28_0seq.tmp.db
+Output directory .............................: locus_output
+Rev-comp the locus sequence if necessary .....: True
+
+Initialization bleep bloops
+===============================================
+Mode .........................................: Function search
+Search term 1 of 2 ...........................: Phycocyanin alpha chain
+Function calls being used ....................: COG20_CATEGORY, COG20_FUNCTION, COG20_PATHWAY
+Search term 2 of 2 ...........................: Phycocyanin/phycoerythrin beta chain
+Function calls being used ....................: COG20_CATEGORY, COG20_FUNCTION, COG20_PATHWAY
+Matching genes ...............................: 6 genes matched your search
+
+
+Exporting locus 1 of 1
+===============================================
+
+
+Config Error: You are in flank-mode, and anvi'o found 6 total gene caller id's from the
+              search-terms provided. Anvi'o cannot handle this because flank-mode needs a pair
+              of gene caller id's to cut out a locus (i.e., only a pair of flanking genes)!
+              Here are the gene caller ids anvi'o found from the search-terms Phycocyanin
+              alpha chain: {315, 1156, 1870, 2023} and Phycocyanin/phycoerythrin beta chain:
+              {1155, 1869}. Please use `anvi-export-functions` on your CONTIGS.db, locate
+              these gene caller id's, then confirm the correct flanking gene caller ids.
+              Anvi'o recommends you use the --gene caller ids flag to specify the specific
+              pair gene caller ids you need to cut out the locus so there are no more mix ups.
+              On the other hand, if you are trying to extract multiple loci from a genome
+              using the same flanking genes, anvi'o cannot currently handle this in --flank-
+              mode. If this functionality is necessary for your analysis, please make an issue
+              on github and we will address it.
+
+
+
+Input / Output
+===============================================
+Contigs DB ...................................: /mnt/bigdata/linuxhome/kjkibler/cyanoSTRONG/krys/analysis/anvio/mags/VULCA-43_0seq.tmp.db
+Output directory .............................: locus_output
+Rev-comp the locus sequence if necessary .....: True
+
+Initialization bleep bloops
+===============================================
+Mode .........................................: Function search
+Search term 1 of 2 ...........................: Phycocyanin alpha chain
+Function calls being used ....................: COG20_FUNCTION, COG20_CATEGORY, COG20_PATHWAY
+Search term 2 of 2 ...........................: Phycocyanin/phycoerythrin beta chain
+Function calls being used ....................: COG20_FUNCTION, COG20_CATEGORY, COG20_PATHWAY
+Matching genes ...............................: 3 genes matched your search
+
+
+Exporting locus 1 of 1
+===============================================
+
+
+Config Error: You are in flank-mode, and anvi'o found 3 total gene caller id's from the
+              search-terms provided. Anvi'o cannot handle this because flank-mode needs a pair
+              of gene caller id's to cut out a locus (i.e., only a pair of flanking genes)!
+              Here are the gene caller ids anvi'o found from the search-terms Phycocyanin
+              alpha chain: {1915, 1077} and Phycocyanin/phycoerythrin beta chain: {412}.
+              Please use `anvi-export-functions` on your CONTIGS.db, locate these gene caller
+              id's, then confirm the correct flanking gene caller ids. Anvi'o recommends you
+              use the --gene caller ids flag to specify the specific pair gene caller ids you
+              need to cut out the locus so there are no more mix ups. On the other hand, if
+              you are trying to extract multiple loci from a genome using the same flanking
+              genes, anvi'o cannot currently handle this in --flank-mode. If this
+              functionality is necessary for your analysis, please make an issue on github and
+              we will address it.
+
+
+
+Input / Output
+===============================================
+Contigs DB ...................................: /mnt/bigdata/linuxhome/kjkibler/cyanoSTRONG/krys/analysis/anvio/mags/VULCA-51_0seq.tmp.db
+Output directory .............................: locus_output
+Rev-comp the locus sequence if necessary .....: True
+
+Initialization bleep bloops
+===============================================
+Mode .........................................: Function search
+Search term 1 of 2 ...........................: Phycocyanin alpha chain
+Function calls being used ....................: COG20_FUNCTION, COG20_CATEGORY, COG20_PATHWAY
+Search term 2 of 2 ...........................: Phycocyanin/phycoerythrin beta chain
+Function calls being used ....................: COG20_FUNCTION, COG20_CATEGORY, COG20_PATHWAY
+Matching genes ...............................: 5 genes matched your search
+
+
+Exporting locus 1 of 1
+===============================================
+
+
+Config Error: You are in flank-mode, and anvi'o found 5 total gene caller id's from the
+              search-terms provided. Anvi'o cannot handle this because flank-mode needs a pair
+              of gene caller id's to cut out a locus (i.e., only a pair of flanking genes)!
+              Here are the gene caller ids anvi'o found from the search-terms Phycocyanin
+              alpha chain: {763, 1316, 2187} and Phycocyanin/phycoerythrin beta chain: {2188,
+              644}. Please use `anvi-export-functions` on your CONTIGS.db, locate these gene
+              caller id's, then confirm the correct flanking gene caller ids. Anvi'o
+              recommends you use the --gene caller ids flag to specify the specific pair gene
+              caller ids you need to cut out the locus so there are no more mix ups. On the
+              other hand, if you are trying to extract multiple loci from a genome using the
+              same flanking genes, anvi'o cannot currently handle this in --flank-mode. If
+              this functionality is necessary for your analysis, please make an issue on
+              github and we will address it.
+
+
+
+Input / Output
+===============================================
+Contigs DB ...................................: /mnt/bigdata/linuxhome/kjkibler/cyanoSTRONG/krys/analysis/anvio/mags/VULCA-54_0seq.tmp.db
+Output directory .............................: locus_output
+Rev-comp the locus sequence if necessary .....: True
+
+Initialization bleep bloops
+===============================================
+Mode .........................................: Function search
+Search term 1 of 2 ...........................: Phycocyanin alpha chain
+Function calls being used ....................: COG20_PATHWAY, COG20_CATEGORY, COG20_FUNCTION
+Search term 2 of 2 ...........................: Phycocyanin/phycoerythrin beta chain
+Function calls being used ....................: COG20_PATHWAY, COG20_CATEGORY, COG20_FUNCTION
+
+WARNING
+===============================================
+There aren't any gene calls that match to the criteria you provided to anvi'o
+export locus magic. Is this yet another case of you did everything right yet
+anvi'o failed you? If that's the case, let us know :( This class will quietly
+kill this process without reporting any error since a lack of hit may be the
+expected outcome of some weird processes somewhere.
+
+
+Input / Output
+===============================================
+Contigs DB ...................................: /mnt/bigdata/linuxhome/kjkibler/cyanoSTRONG/krys/analysis/anvio/mags/VULCA-96_0seq.tmp.db
+Output directory .............................: locus_output
+Rev-comp the locus sequence if necessary .....: True
+
+Initialization bleep bloops
+===============================================
+Mode .........................................: Function search
+Search term 1 of 2 ...........................: Phycocyanin alpha chain
+Function calls being used ....................: COG20_CATEGORY, COG20_FUNCTION, COG20_PATHWAY
+Search term 2 of 2 ...........................: Phycocyanin/phycoerythrin beta chain
+Function calls being used ....................: COG20_CATEGORY, COG20_FUNCTION, COG20_PATHWAY
+Matching genes ...............................: 1 genes matched your search
+
+
+Exporting locus 1 of 1
+===============================================
+
+
+Config Error: You are in flank-mode, and anvi'o only found 1 gene caller id(s). Anvi'o cannot
+              handle this because flank-mode needs a pair of gene caller id's to cut out a
+              locus (i.e., only a pair of flanking genes)! This most likely occured because 1
+              of your search-terms was not found the functions of the CONTIGS.db. Please try
+              again with another search-term :)

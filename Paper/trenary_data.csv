@@ -1,0 +1,27 @@
+variable,tax_abbr_name.col,slope,count_samples,group,morphology,mean_pi,count.pi,mean_irep,count
+APHAN_134,"<span style=""color: #236a00"">APHAN_134</span>",-2.1e-4,113,Filamentous-1,Filamentous,0.00427780784742869,191,2.146991384497894,23
+CYANO_106,"<span style=""color: #236a00"">CYANO_106</span>",-3.7e-4,13,Filamentous-1,Filamentous,0.005253177744480982,22,2.3040582796344937,20
+CYANO_51_1,"<span style=""color: #236a00"">CYANO_51_1</span>",-2.6e-4,6,Filamentous-1,Filamentous,0.001306042813794015,20,1.2763320880754363,20
+CYBIM_101,"<span style=""color: #00dede"">CYBIM_101</span>",-7.9e-5,17,Cyanobium,Solitary,0.011092582754518469,62,1.994248288145386,34
+CYBIM_104,"<span style=""color: #00dede"">CYBIM_104</span>",-6.4e-5,5,Cyanobium,Solitary,0.004935812775708373,26,3.9054876675055095,24
+CYBIM_119,"<span style=""color: #008bff"">CYBIM_119</span>",-4.1e-5,27,Solitary-1,Solitary,0.006634260588513524,127,2.2357181092603264,39
+CYBIM_119_1,"<span style=""color: #008bff"">CYBIM_119_1</span>",-8.5e-5,11,Solitary-1,Solitary,0.00605926768408637,64,1.9187090776933524,64
+CYBIM_157,"<span style=""color: #00dede"">CYBIM_157</span>",-2.8e-5,19,Cyanobium,Solitary,0.008867070178956757,32,3.6167054010365582,19
+CYBIM_190,"<span style=""color: #00dede"">CYBIM_190</span>",-6.8e-5,6,Cyanobium,Solitary,0.016276279004524767,48,2.4609876622545883,19
+CYBIM_200,"<span style=""color: #008bff"">CYBIM_200</span>",-5.8e-6,12,Solitary-1,Solitary,0.010577525614487942,28,2.1164089294354396,17
+CYBIM_63,"<span style=""color: #00dede"">CYBIM_63</span>",-1.1e-4,5,Cyanobium,Solitary,0.011750487805769632,37,1.6624315633381574,13
+CYBIM_73,"<span style=""color: #008bff"">CYBIM_73</span>",-2.4e-5,8,Solitary-1,Solitary,0.006354005395756356,54,1.6025101853907668,45
+CYBIM_73_1,"<span style=""color: #00dede"">CYBIM_73_1</span>",-6e-5,7,Cyanobium,Solitary,0.01545018187859516,46,4.069664318831782,11
+CYBIM_80,"<span style=""color: #008bff"">CYBIM_80</span>",-1.9e-4,4,Solitary-1,Solitary,0.01492252920095348,20,1.7853774743505857,11
+CYBIM_89,"<span style=""color: #00dede"">CYBIM_89</span>",-5.8e-6,5,Cyanobium,Solitary,0.009695868460580504,22,1.893882508655181,14
+CYBIM_90,"<span style=""color: #00dede"">CYBIM_90</span>",-2.3e-5,17,Cyanobium,Solitary,0.007339361777515819,47,2.089802714051569,36
+DOLIS_187,"<span style=""color: #236a00"">DOLIS_187</span>",-8.2e-6,26,Filamentous-1,Filamentous,0.006818616639756235,40,1.819016760383686,11
+MCYST_2,"<span style=""color: #e39f0c"">MCYST_2</span>",-3.6e-4,31,Microcystis,Colonial,0.01618132035236679,155,4.464042768356516,91
+MCYST_31,"<span style=""color: #e39f0c"">MCYST_31</span>",-4e-4,13,Microcystis,Colonial,0.018762596252680803,112,2.6155274354144065,39
+MCYST_56,"<span style=""color: #f4559d"">MCYST_56</span>",-1.4e-4,6,Snowella,Stalked,0.013761302306587215,55,2.9251718388929704,14
+MCYST_62,"<span style=""color: #e39f0c"">MCYST_62</span>",-3.3e-4,13,Microcystis,Colonial,0.017964463943348462,124,2.850706878303149,48
+NODOS_105,"<span style=""color: #3cb306"">NODOS_105</span>",-1.6e-4,31,Nodosilinea,Filamentous,0.006989100184100385,87,1.6389822036588464,87
+PSEUDA_13,"<span style=""color: #4cd505"">PSEUDA_13</span>",-6.4e-5,17,Pseudanabaena,Filamentous,0.001425340997088909,33,1.4325878367353269,33
+VULCA_120,"<span style=""color: #7a05c5"">VULCA_120</span>",-8.4e-5,1,Vulcanococcus,Solitary,0.03239061003411111,32,1.7276999792809673,11
+VULCA_20,"<span style=""color: #7a05c5"">VULCA_20</span>",-8.6e-5,32,Vulcanococcus,Solitary,0.014168806904167509,142,3.275873122035329,113
+VULCA_28,"<span style=""color: #7a05c5"">VULCA_28</span>",-9.8e-5,42,Vulcanococcus,Solitary,0.0070631134886248725,137,1.8299742495523734,137

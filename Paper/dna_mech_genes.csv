@@ -1,0 +1,98 @@
+accession,function,gene_sh,gene_facet
+COG0322,"Excinuclease UvrABC, nuclease subunit (UvrC) (PDB:2NRT) (PUBMED:24513124)",UvrC,Uvr
+COG0178,Excinuclease UvrABC ATPase subunit (UvrA) (PDB:2R6F),UvrA,Uvr
+COG0556,Excinuclease UvrABC helicase subunit UvrB (UvrB) (PDB:1C4O),UvrB,Uvr
+COG0210,Superfamily I DNA or RNA helicase (UvrD) (PDB:6PPR),UvrD,Uvr
+COG1974,SOS-response transcriptional repressor LexA (RecA-mediated autopeptidase) (LexA) (PDB:1AY9),LexA,Rec
+COG0468,RecA/RadA recombinase (RecA) (PDB:1B22),RecA,Rec
+COG3598,RecA-family ATPase (RepA),RepA,Rec
+COG0507,ATPase/5-3 helicase helicase subunit RecD of the DNA repair enzyme RecBCD (exonuclease V) (RecD) (PDB:1W36) (PUBMED:29901759;30601118),RecD,Rec
+COG1330,Scaffold subunit RecC of the DNA repair enzyme RecBCD (exonuclease V) (RecC) (PDB:1W36) (PUBMED:30601118),RecC,Rec
+COG1074,3-5 helicase subunit RecB of the DNA repair enzyme RecBCD (exonuclease V) (RecB) (PDB:3U44) (PUBMED:29901759;30601118),RecB,Rec
+COG2251,"Predicted nuclease, RecB family",COG2262,Rec
+COG1381,Recombinational DNA repair protein RecO (RecF pathway) (RecO) (PDB:1U5K),RecO,Rec
+COG1195,Recombinational DNA repair ATPase RecF (RecF) (PDB:5Z67),RecF,Rec
+COG1200,RecG-like helicase (RecG) (PDB:1GM5),RecG,Rec
+COG0608,"ssDNA-specific exonuclease RecJ, DHH superfamily, may be involved in archaeal DNA replication intiation (RecJ) (PDB:1IR6)",RecJ,Rec
+COG0497,DNA repair ATPase RecN (RecN) (PDB:4AD8),RecN,Rec
+COG0514,Superfamily II DNA helicase RecQ (RecQ) (PDB:1OYW),RecQ,Rec
+COG0353,Recombinational DNA repair protein RecR (RecR) (PDB:2JGR) (PUBMED:26337406),RecR,Rec
+COG0632,Holliday junction resolvasome RuvABC DNA-binding subunit (RuvA) (PDB:1BDX),RuvA,Ruv
+COG0817,Holliday junction resolvasome RuvABC endonuclease subunit RuvC (RuvC) (PDB:1HJR),RuvC,Ruv
+COG2255,"Holliday junction resolvasome RuvABC, ATP-dependent DNA helicase subunit RuvB (RuvB) (PDB:1HQC)",RuvB,Ruv
+COG0249,DNA mismatch repair ATPase MutS (MutS) (PDB:1E3M),MutS,Mut
+COG1193,dsDNA-specific endonuclease/ATPase MutS2 (MutS2),MS2,Mut
+COG0494,"8-oxo-dGTP pyrophosphatase MutT and related house-cleaning NTP pyrophosphohydrolases, NUDIX family (MutT) (PDB:4V14)",MutT,Mut
+COG1194,"Adenine-specific DNA glycosylase, acts on AG and A-oxoG pairs (MutY) (PDB:1KG2)",MutY,Mut
+COG1555,DNA uptake protein ComE or related DNA-binding protein (ComEA) (PDB:2DUY),ComEA,DNA Uptake
+COG0658,"DNA uptake channel protein ComEC, N-terminal domain (ComEC)",ComEC**,DNA Uptake
+COG0758,Predicted Rossmann fold nucleotide-binding protein DprA/Smf involved in DNA uptake (Smf) (PDB:3MAJ),DprA/Smf,DNA Uptake
+COG4973,Site-specific recombinase XerC (XerC),XerC,Xer
+COG4974,Site-specific recombinase XerD (XerD) (PDB:1A0P),XerD,Xer
+COG2251,"Predicted nuclease, RecB family",COG2286,Rec
+COG0514!!!COG0553,"Superfamily II DNA helicase RecQ (RecQ) (PDB:1OYW)!!!Superfamily II DNA or RNA helicase, SNF2 family (HepA) (PDB:6UXV)",RecQ*,Rec
+COG2251,"Predicted nuclease, RecB family",COG2269,Rec
+COG3372,"Predicted nuclease of restriction endonuclease-like (RecB) superfamily, implicated in nucleotide excision repair (PUBMED:15972856)",COG3372,Rec
+COG1468,"CRISPR/Cas system-associated exonuclease Cas4, RecB family (Cas4) (PDB:4R5Q)",Cas4,Rec
+COG1195!!!COG1196,Recombinational DNA repair ATPase RecF (RecF) (PDB:5Z67)!!!Chromosome segregation ATPase Smc (Smc) (PDB:5XG3),RecF*,Rec
+COG0323,DNA mismatch repair ATPase MutL (MutL) (PDB:1B62),MutL,Mut
+COG0658!!!COG2333,"DNA uptake channel protein ComEC, N-terminal domain (ComEC)!!!DNA uptake channel protein ComEC C-terminal domain, metallo-beta-lactamase superfamily (ComEC)",ComEC*,DNA Uptake
+COG2251,"Predicted nuclease, RecB family",COG2266,Rec
+COG2251,"Predicted nuclease, RecB family",COG2280,Rec
+COG0210!!!COG2176,"Superfamily I DNA or RNA helicase (UvrD) (PDB:6PPR)!!!DNA polymerase III, alpha subunit (gram-positive type) (PolC)",UvrD*,Uvr
+COG2251,"Predicted nuclease, RecB family",COG2296,Rec
+COG1637,"Endonuclease NucS, RecB family (NucS) (PDB:2VLD)",NucS,Rec
+COG4098,Superfamily II DNA/RNA helicase required for DNA uptake (late competence protein) (ComFA),ComFA,DNA Uptake
+COG2251,"Predicted nuclease, RecB family",COG2253,Rec
+COG2251,"Predicted nuclease, RecB family",COG2254,Rec
+COG0514!!!COG2771,"Superfamily II DNA helicase RecQ (RecQ) (PDB:1OYW)!!!DNA-binding transcriptional regulator, CsgD family (CsgD)",RecQ*,Rec
+COG2251,"Predicted nuclease, RecB family",COG2321,Rec
+COG2251,"Predicted nuclease, RecB family",COG2322,Rec
+COG2251,"Predicted nuclease, RecB family",COG2292,Rec
+COG2251,"Predicted nuclease, RecB family",COG2277,Rec
+COG2251,"Predicted nuclease, RecB family",COG2312,Rec
+COG2251,"Predicted nuclease, RecB family",COG2313,Rec
+COG2251,"Predicted nuclease, RecB family",COG2314,Rec
+COG2333,"DNA uptake channel protein ComEC C-terminal domain, metallo-beta-lactamase superfamily (ComEC)",ComEC**,DNA Uptake
+COG2251,"Predicted nuclease, RecB family",COG2310,Rec
+COG2251,"Predicted nuclease, RecB family",COG2267,Rec
+COG2251,"Predicted nuclease, RecB family",COG2281,Rec
+COG0514!!!COG1040,"Superfamily II DNA helicase RecQ (RecQ) (PDB:1OYW)!!!DNA utilization protein ComFC/GntX, contains phosphoribosyltransferase domain (ComFC) (PUBMED:28618091)",RecQ*,Rec
+COG2251,"Predicted nuclease, RecB family",COG2251,Rec
+COG2251,"Predicted nuclease, RecB family",COG2260,Rec
+COG0323!!!COG0642,DNA mismatch repair ATPase MutL (MutL) (PDB:1B62)!!!Signal transduction histidine kinase (BaeS) (PDB:1JOY),MutL*,Mut
+COG2251,"Predicted nuclease, RecB family",COG2287,Rec
+COG2251,"Predicted nuclease, RecB family",COG2272,Rec
+COG2251,"Predicted nuclease, RecB family",COG2257,Rec
+COG2251,"Predicted nuclease, RecB family",COG2258,Rec
+COG2251,"Predicted nuclease, RecB family",COG2259,Rec
+COG2251,"Predicted nuclease, RecB family",COG2278,Rec
+COG1074!!!COG3972,3-5 helicase subunit RecB of the DNA repair enzyme RecBCD (exonuclease V) (RecB) (PDB:3U44) (PUBMED:29901759;30601118)!!!Superfamily I DNA and RNA helicases,RecB*,Rec
+COG2251,"Predicted nuclease, RecB family",COG2295,Rec
+COG2251,"Predicted nuclease, RecB family",COG2290,Rec
+COG2251,"Predicted nuclease, RecB family",COG2252,Rec
+COG1468!!!COG1518,"CRISPR/Cas system-associated exonuclease Cas4, RecB family (Cas4) (PDB:4R5Q)!!!CRISPR-Cas system-associated integrase Cas1 (Cas1) (PDB:2YZS)",Cas4*,Rec
+COG2251,"Predicted nuclease, RecB family",COG2276,Rec
+COG2251,"Predicted nuclease, RecB family",COG2282,Rec
+COG0758!!!COG4335,Predicted Rossmann fold nucleotide-binding protein DprA/Smf involved in DNA uptake (Smf) (PDB:3MAJ)!!!3-methylpurine DNA glycosylase AlkC (AlkC),DprA/Smf*,DNA Uptake
+COG2251,"Predicted nuclease, RecB family",COG2288,Rec
+COG2251,"Predicted nuclease, RecB family",COG2285,Rec
+COG2251,"Predicted nuclease, RecB family",COG2315,Rec
+COG2251,"Predicted nuclease, RecB family",COG2319,Rec
+COG2251,"Predicted nuclease, RecB family",COG2268,Rec
+COG0210!!!COG2026,"Superfamily I DNA or RNA helicase (UvrD) (PDB:6PPR)!!!mRNA-degrading endonuclease RelE, toxin component of the RelBE toxin-antitoxin system (RelE) (PDB:1WMI)",UvrD*,Uvr
+COG2251,"Predicted nuclease, RecB family",COG2318,Rec
+COG2251,"Predicted nuclease, RecB family",COG2293,Rec
+COG2251,"Predicted nuclease, RecB family",COG2323,Rec
+COG0210!!!COG0514,Superfamily I DNA or RNA helicase (UvrD) (PDB:6PPR)!!!Superfamily II DNA helicase RecQ (RecQ) (PDB:1OYW),UvrD*,Uvr
+COG2251,"Predicted nuclease, RecB family",COG2263,Rec
+COG2251,"Predicted nuclease, RecB family",COG2255,Rec
+COG2251,"Predicted nuclease, RecB family",COG2279,Rec
+COG3598!!!COG4643,RecA-family ATPase (RepA)!!!Uncharacterized domain associated with phage/plasmid primase,RepA*,Rec
+COG2251,"Predicted nuclease, RecB family",COG2289,Rec
+COG2251,"Predicted nuclease, RecB family",COG2271,Rec
+COG2251,"Predicted nuclease, RecB family",COG2330,Rec
+COG2251,"Predicted nuclease, RecB family",COG2273,Rec
+COG2251,"Predicted nuclease, RecB family",COG2274,Rec
+COG2251,"Predicted nuclease, RecB family",COG2291,Rec
+COG2251,"Predicted nuclease, RecB family",COG2311,Rec

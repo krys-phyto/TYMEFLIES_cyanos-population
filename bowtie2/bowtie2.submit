@@ -1,0 +1,20 @@
+########################################################################
+### Krys Kibler 2024-07-08
+### Condor submit file for running bowtie2
+### Purpose: mapping
+########################################################################
+
+executable = /home/glbrc.org/kjkibler/cyanoSTRONG/krys/analysis/bowtie2/comp85_50_cyano-motu_map/bowtie2_condor.sh
+
+
+request_cpus = 16
+request_memory = 200GB
+arguments = $(reads) $(sampleID)
+
+
+output = /home/glbrc.org/kjkibler/cyanoSTRONG/krys/analysis/condor/outs/$(Cluster)_bowtie2.out
+error = /home/glbrc.org/kjkibler/cyanoSTRONG/krys/analysis/condor/errs/$(Cluster)_bowtie2.err
+log = /home/glbrc.org/kjkibler/cyanoSTRONG/krys/analysis/condor/logs/$(Cluster)_bowtie2.log
+
+
+queue reads,sampleID from /home/glbrc.org/trina.mcmahon/TYMEFLIES/data/experiment_35061/path_to_rrcodes.tsv

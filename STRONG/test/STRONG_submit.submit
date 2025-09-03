@@ -1,0 +1,43 @@
+##########
+#Specify the HTCondor docker universe and the repo link to the `strong_strain_resolution` docker image
+##########
+universe = docker
+docker_image = repo.glbrc.org/htcondor/strong_strain_resolution
+
+
+##########
+#Redirect the standard output and error streams to files, as well the htcondor log
+##########
+output = /home/glbrc.org/kjkibler/cyanoSTRONG/krys/analysis/STRONG/condor/out/$(Cluster)_strong.out
+error = /home/glbrc.org/kjkibler/cyanoSTRONG/krys/analysis/STRONG/condor/err/$(Cluster)_strong.err
+log = /home/glbrc.org/kjkibler/cyanoSTRONG/krys/analysis/STRONG/condor/log/$(Cluster)_strong.log
+
+
+########## Unnecessary with new node (2024-11-09 Kibler)
+#Instruct HTCondor to transfer input files into the docker container and output files back.
+##########
+#should_transfer_files = YES
+#when_to_transfer_output = ON_EXIT
+
+########## Unnecessary with new node (2024-11-09)
+# Limit the files sent into, and retrieved from the job: https://htcondor.readthedocs.io/en/latest/users-manual/file-transfer.html#specifying-what-files-to-transfer
+# This will speed up your job, reducing time spent transferring unused data to the docker image.
+##########
+#preserve_relative_paths = TRUE
+#transfer_input_files = outputdir/,EVAL/,samples/
+#transfer_output_files = outputdir/
+
+
+##########
+#Arguments/parameters work in the same way as when running the standalone version of STRONG
+##########
+arguments = /home/glbrc.org/kjkibler/cyanoSTRONG/krys/analysis/STRONG/test_2015/outputdir/ -t $(request_cpus)
+
+
+#####
+#Make sure to adjust the cpu and memory requirements to support the files that you are analyzing
+#####
+request_memory = 1000GB
+request_cpus = 16
+
+queue

@@ -1,0 +1,20 @@
+########################################################################
+### Krys Kibler 2025-03-07
+### Condor submit file for running bowtie2
+### Purpose: mapping
+########################################################################
+
+executable = /home/glbrc.org/kjkibler/cyanoSTRONG/krys/analysis/STRONG/APHAN_134/APHAN_134-bt2.sh
+
+
+request_cpus = 32
+request_memory = 200GB
+arguments = $(reads) $(sampleID)
+
+
+output = /home/glbrc.org/kjkibler/cyanoSTRONG/krys/analysis/STRONG/condor/outs/$(Cluster)_APH_bowtie2.out
+error = /home/glbrc.org/kjkibler/cyanoSTRONG/krys/analysis/STRONG/condor/errs/$(Cluster)_APH_bowtie2.err
+log = /home/glbrc.org/kjkibler/cyanoSTRONG/krys/analysis/STRONG/condor/logs/$(Cluster)_APH_bowtie2.log
+
+
+queue reads,sampleID from /home/glbrc.org/kjkibler/cyanoSTRONG/krys/analysis/STRONG/aphan_134_metag-dates.csv

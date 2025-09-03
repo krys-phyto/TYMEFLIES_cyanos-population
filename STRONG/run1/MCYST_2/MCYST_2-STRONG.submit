@@ -1,0 +1,28 @@
+##########
+#Specify the HTCondor docker universe and the repo link to the `strong_strain_resolution` docker image
+##########
+universe = docker
+docker_image = repo.glbrc.org/htcondor/strong_strain_resolution
+
+
+##########
+#Redirect the standard output and error streams to files, as well the htcondor log
+##########
+output = /home/glbrc.org/kjkibler/cyanoSTRONG/krys/analysis/STRONG/condor/outs/$(Cluster)_MCYST_strong.out
+error = /home/glbrc.org/kjkibler/cyanoSTRONG/krys/analysis/STRONG/condor/errs/$(Cluster)_MCYST_strong.err
+log = /home/glbrc.org/kjkibler/cyanoSTRONG/krys/analysis/STRONG/condor/logs/$(Cluster)_MCYST_strong.log
+
+
+##########
+#Arguments/parameters work in the same way as when running the standalone version of STRONG
+##########
+arguments = /home/glbrc.org/kjkibler/cyanoSTRONG/krys/analysis/STRONG/MCYST_2/outputdir -t $(request_cpus)
+
+
+#####
+#Make sure to adjust the cpu and memory requirements to support the files that you are analyzing
+#####
+request_memory = 500GB
+request_cpus = 16
+
+queue

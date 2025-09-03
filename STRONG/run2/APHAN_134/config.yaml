@@ -1,0 +1,45 @@
+# ------ Samples ------
+samples: ["rd0522","rr0036","rr0088","rr0111","rr0143","rr0294","rr0328","rr0395","rr0428","rr0468","rr0489","rr0628","rr0754","rr0838","rr0862","rr0897","rr0930","rr0963","ww0233","rd0665","rr0055","rr0098","rr0122","rr0166","rr0313","rr0370","rr0416","rr0442","rr0469","rr0543","rr0646","rr0769","rr0844","rr0873","rr0898","rr0932","rr0967", "rr0034","rr0059","rr0105","rr0135","rr0283","rr0321","rr0390","rr0426","rr0451","rr0470","rr0611","rr0719","rr0793","rr0846","rr0880","rr0921","rr0960","rr0991"] # specify a list samples to use or '*' to use all samples
+
+# ------ Resources ------
+threads : 16 # single task nb threads
+
+# ------ Assembly parameters ------
+data:  "/home/glbrc.org/kjkibler/cyanoSTRONG/krys/analysis/STRONG/run2/APHAN_134/"  # path to data folder -
+
+# ----- Annotation database -----
+cog_database: /opt/db/rpsblast_cog_db/Cog # COG database path inside the image
+
+# ----- Binner ------
+binner: "concoct"
+
+# ----- Binning parameters ------
+concoct:
+    contig_size: 1000
+
+read_length: 150
+assembly:
+    assembler: spades
+    k: [77]  # https://github.com/chrisquince/STRONG/issues/108 keep in mind this issue if bayespath fails 2024-12-05 had hairy graphs at 77
+    mem: 500
+    threads: 16
+
+# ----- BayesPaths parameters ------
+bayespaths:
+    nb_strains: 16
+    nmf_runs: 1
+    max_giter: 4
+    min_orf_number_to_merge_bins: 18
+    min_orf_number_to_run_a_bin: 10
+    percent_unitigs_shared: 0.1
+    optional_args: '--norun_elbow'
+
+# ----- DESMAN parameters ------
+desman:
+    execution: 1
+    nb_haplotypes: 10
+    nb_repeat: 5
+    min_cov: 1
+
+# ----- GTDBTK ------
+gtdb_path: /home/GLBRCORG/trina.mcmahon/programs/gtdbtk-2.1.0/release207_v2

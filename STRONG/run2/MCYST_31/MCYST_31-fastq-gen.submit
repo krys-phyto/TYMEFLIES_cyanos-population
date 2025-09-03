@@ -1,0 +1,20 @@
+########################################################################
+### Krys Kibler 2025-06-11
+### Condor submit file for turning sam into bam into fastq
+### Purpose: conversion
+########################################################################
+
+executable = /home/glbrc.org/kjkibler/cyanoSTRONG/krys/analysis/STRONG/run2/MCYST_31/MCYST_31_fastq-gen.sh
+
+
+request_cpus = 32
+request_memory = 200GB
+arguments = $(maps)
+
+
+output = /home/glbrc.org/kjkibler/cyanoSTRONG/krys/analysis/STRONG/condor/outs/$(Cluster)_MCYST_31_fastq-gen.out
+error = /home/glbrc.org/kjkibler/cyanoSTRONG/krys/analysis/STRONG/condor/errs/$(Cluster)_MCYST_31_fastq-gen.err
+log = /home/glbrc.org/kjkibler/cyanoSTRONG/krys/analysis/STRONG/condor/logs/$(Cluster)_MCYST_31_fastq-gen.log
+
+
+queue maps from /home/glbrc.org/kjkibler/cyanoSTRONG/krys/analysis/STRONG/run2/MCYST_31/mapping.files

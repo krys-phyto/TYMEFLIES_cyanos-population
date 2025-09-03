@@ -1,0 +1,410 @@
+tax_id	Org_name	GeneID	CurrentID	Status	Symbol	Aliases	description	other_designations	map_location	chromosome	genomic_nucleotide_accession.version	start_position_on_the_genomic_accession	end_position_on_the_genomic_accession	orientation	exon_count	OMIM	
+2108055	Cylindrospermopsis raciborskii Cr2010	92779321	0	live	uvrA	C6N34_RS00825, C6N34_000825	excinuclease ABC subunit UvrA	excinuclease ABC subunit UvrA									
+2692891	Aphanizomenon flos-aquae FACHB-1287	78218646	0	live	uvrA	H6G44_RS11725, H6G44_11685	excinuclease ABC subunit UvrA	excinuclease ABC subunit UvrA									
+2971778	Umezakia ovalisporum Ak1311	83683433	0	live	uvrA	NWP25_RS00945, NWP25_00950	excinuclease ABC subunit UvrA	excinuclease ABC subunit UvrA									
+98439	Fischerella thermalis PCC 7521	35798136	0	live	uvrA	UYK_RS0100965	excinuclease ABC subunit UvrA	excinuclease ABC subunit UvrA									
+423471	Crocosphaera watsonii WH 0003	88766995	0	live	uvrA	CWATWH0003_RS16445, CWATWH0003_3463	excinuclease ABC subunit UvrA	excinuclease ABC subunit UvrA									
+269084	Synechococcus elongatus PCC 6301	72429694	0	live	uvrA	PCC6301pg_RS04430, PCC6301pg_0887	excinuclease ABC subunit UvrA	excinuclease ABC subunit UvrA									
+1628744	Nostoc linckia z6	57097684	0	live	uvrA	VF07_RS31835, VF07_31140	excinuclease ABC subunit UvrA	excinuclease ABC subunit UvrA									
+375899	Trichormus variabilis 0441	58726386	0	live	uvrA	GSQ19_RS23850, GSQ19_23850	excinuclease ABC subunit UvrA	excinuclease ABC subunit UvrA									
+1160	Planktothrix agardhii	77289122	0	live	uvrA	NMG88_RS14925, NO976_02990	excinuclease ABC subunit UvrA	excinuclease ABC subunit UvrA		I							
+449441	Microcystis aeruginosa NIES-88	66707956	0	live	uvrA	OA58_RS17490, OA58_17605	excinuclease ABC subunit UvrA	excinuclease ABC subunit UvrA									
+398007	Dolichospermum circinale AWQC131C	78013208	0	live	uvrA	ACIR131C_RS0112040	excinuclease ABC subunit UvrA	excinuclease ABC subunit UvrA									
+1914872	Nodularia spumigena UHCC 0039	78016526	0	live	uvrA	BMF81_RS05895	excinuclease ABC subunit UvrA	excinuclease ABC subunit UvrA									
+167542	Prochlorococcus marinus str. MIT 9515	60200649	0	live	uvrA	P9515_RS09155, P9515_19031	excinuclease ABC subunit UvrA	excinuclease ABC subunit UvrA			NC_008817.1	1695765	1698665	minus	0		
+449441	Microcystis aeruginosa NIES-88	66708695	0	live	uvrB	OA58_RS21495, OA58_21615	excinuclease ABC subunit UvrB	excinuclease ABC subunit UvrB									
+375899	Trichormus variabilis 0441	58722253	0	live	uvrB	GSQ19_RS03185, GSQ19_03185	excinuclease ABC subunit UvrB	excinuclease ABC subunit UvrB									
+1628744	Nostoc linckia z6	57093640	0	live	uvrB	VF07_RS10350, VF07_10115	excinuclease ABC subunit UvrB	excinuclease ABC subunit UvrB									
+1160	Planktothrix agardhii	77286964	0	live	uvrB	NMG88_RS04135, NO976_00822	excinuclease ABC subunit UvrB	excinuclease ABC subunit UvrB		I							
+398007	Dolichospermum circinale AWQC131C	78013467	0	live	uvrB	ACIR131C_RS0113510	excinuclease ABC subunit UvrB	excinuclease ABC subunit UvrB									
+1914872	Nodularia spumigena UHCC 0039	78015522	0	live	uvrB	BMF81_RS00580, BMF81_00115	excinuclease ABC subunit UvrB	excinuclease ABC subunit UvrB									
+2108055	Cylindrospermopsis raciborskii Cr2010	92782524	0	live	uvrB	C6N34_RS16975, C6N34_016925	excinuclease ABC subunit UvrB	excinuclease ABC subunit UvrB									
+2692891	Aphanizomenon flos-aquae FACHB-1287	78217381	0	live	uvrB	H6G44_RS05275, H6G44_05255	excinuclease ABC subunit UvrB	excinuclease ABC subunit UvrB									
+2971778	Umezakia ovalisporum Ak1311	83685926	0	live	uvrB	NWP25_RS13410, NWP25_13435	excinuclease ABC subunit UvrB	excinuclease ABC subunit UvrB									
+98439	Fischerella thermalis PCC 7521	35799221	0	live	uvrB	UYK_RS0114040	excinuclease ABC subunit UvrB	excinuclease ABC subunit UvrB									
+423471	Crocosphaera watsonii WH 0003	88764888	0	live	uvrB	CWATWH0003_RS04850, CWATWH0003_1021	excinuclease ABC subunit UvrB	excinuclease ABC subunit UvrB									
+269084	Synechococcus elongatus PCC 6301	72429388	0	live	uvrB	PCC6301pg_RS02900, PCC6301pg_0581	excinuclease ABC subunit UvrB	excinuclease ABC subunit UvrB									
+167542	Prochlorococcus marinus str. MIT 9515	60202143	0	live	uvrB	P9515_RS08830, P9515_18391	excinuclease ABC subunit UvrB	excinuclease ABC subunit UvrB			NC_008817.1	1624175	1626214	minus	0		
+167542	Prochlorococcus marinus str. MIT 9515	60201528	0	live	uvrC	P9515_RS04690, P9515_09641	excinuclease ABC subunit UvrC	excinuclease ABC subunit UvrC			NC_008817.1	858529	860463	minus	0		
+398007	Dolichospermum circinale AWQC131C	78013707	0	live	uvrC	ACIR131C_RS0114955	excinuclease ABC subunit UvrC	excinuclease ABC subunit UvrC									
+449441	Microcystis aeruginosa NIES-88	66706686	0	live	uvrC	OA58_RS10675, OA58_10740	excinuclease ABC subunit UvrC	excinuclease ABC subunit UvrC									
+375899	Trichormus variabilis 0441	58721850	0	live	uvrC	GSQ19_RS01170, GSQ19_01170	excinuclease ABC subunit UvrC	excinuclease ABC subunit UvrC									
+1160	Planktothrix agardhii	77286894	0	live	uvrC	NMG88_RS03785, NO976_00753	excinuclease ABC subunit UvrC	excinuclease ABC subunit UvrC		I							
+2108055	Cylindrospermopsis raciborskii Cr2010	92782063	0	live	uvrC	C6N34_RS14640, C6N34_014590	excinuclease ABC subunit UvrC	excinuclease ABC subunit UvrC									
+423471	Crocosphaera watsonii WH 0003	88766978	0	live	uvrC	CWATWH0003_RS16350, CWATWH0003_3445	excinuclease ABC subunit UvrC	excinuclease ABC subunit UvrC									
+2692891	Aphanizomenon flos-aquae FACHB-1287	78218295	0	live	uvrC	H6G44_RS09920, H6G44_09885	excinuclease ABC subunit UvrC	excinuclease ABC subunit UvrC									
+2971778	Umezakia ovalisporum Ak1311	83685727	0	live	uvrC	NWP25_RS12415, NWP25_12435	excinuclease ABC subunit UvrC	excinuclease ABC subunit UvrC									
+98439	Fischerella thermalis PCC 7521	35799822	0	live	uvrC	UYK_RS0110070	excinuclease ABC subunit UvrC	excinuclease ABC subunit UvrC									
+269084	Synechococcus elongatus PCC 6301	72430818	0	live	uvrC	PCC6301pg_RS10050, PCC6301pg_2024	excinuclease ABC subunit UvrC	excinuclease ABC subunit UvrC									
+1628744	Nostoc linckia z6	57091776	0	live	uvrC	VF07_RS00525, VF07_00510	excinuclease ABC subunit UvrC	excinuclease ABC subunit UvrC									
+1914872	Nodularia spumigena UHCC 0039	78018506	0	live	uvrC	BMF81_RS16465, BMF81_03224	excinuclease ABC subunit UvrC	excinuclease ABC subunit UvrC									
+167542	Prochlorococcus marinus str. MIT 9515	60201452	0	live	P9515_RS05780	P9515_RS05780, P9515_11941	UvrD-helicase domain-containing protein	UvrD-helicase domain-containing protein			NC_008817.1	1051123	1054761	minus	0		
+167542	Prochlorococcus marinus str. MIT 9515	60200401	0	live	P9515_RS01660	P9515_RS01660, P9515_03371	UvrD-helicase domain-containing protein	UvrD-helicase domain-containing protein			NC_008817.1	310235	312643	minus	0		
+423471	Crocosphaera watsonii WH 0003	88768154	0	live	CWATWH0003_RS22685	CWATWH0003_RS22685, CWATWH0003_4777t4	UvrD-helicase domain-containing protein	UvrD-helicase domain-containing protein									
+2108055	Cylindrospermopsis raciborskii Cr2010	92782553	0	live	C6N34_RS17125	C6N34_RS17125, C6N34_012125	UvrD-helicase domain-containing protein	UvrD-helicase domain-containing protein									
+2108055	Cylindrospermopsis raciborskii Cr2010	92780985	0	live	recA	C6N34_RS09190, C6N34_009185	recombinase RecA	recombinase RecA									
+1160	Planktothrix agardhii	77290159	0	live	recA	NMG88_RS20110, NO976_04016	recombinase RecA	recombinase RecA		I							
+2692891	Aphanizomenon flos-aquae FACHB-1287	78219337	0	live	recA	H6G44_RS15220, H6G44_15165	recombinase RecA	recombinase RecA									
+2971778	Umezakia ovalisporum Ak1311	83685033	0	live	recA	NWP25_RS08945, NWP25_08955	recombinase RecA	recombinase RecA									
+98439	Fischerella thermalis PCC 7521	35795647	0	live	recA	UYK_RS0119160	recombinase RecA	recombinase RecA									
+423471	Crocosphaera watsonii WH 0003	88766835	0	live	recA	CWATWH0003_RS15505, CWATWH0003_3265	recombinase RecA	recombinase RecA									
+269084	Synechococcus elongatus PCC 6301	72429165	0	live	recA	PCC6301pg_RS01785, PCC6301pg_0358	recombinase RecA	recombinase RecA									
+1628744	Nostoc linckia z6	57095343	0	live	recA	VF07_RS19345, VF07_18930	recombinase RecA	recombinase RecA									
+375899	Trichormus variabilis 0441	58722498	0	live	recA	GSQ19_RS04410, GSQ19_04410	recombinase RecA	recombinase RecA									
+398007	Dolichospermum circinale AWQC131C	78013076	0	live	recA	ACIR131C_RS0111230	recombinase RecA	recombinase RecA									
+449441	Microcystis aeruginosa NIES-88	66706395	0	live	recA	OA58_RS09100, OA58_09165	recombinase RecA	recombinase RecA									
+1914872	Nodularia spumigena UHCC 0039	78019392	0	live	recA	BMF81_RS21150	recombinase RecA	recombinase RecA									
+167542	Prochlorococcus marinus str. MIT 9515	60201509	0	live	recA	P9515_RS08345, P9515_17441	recombinase RecA	recombinase RecA			NC_008817.1	1531998	1533110	plus	0		
+167542	Prochlorococcus marinus str. MIT 9515	60200431	0	live	P9515_RS01530	P9515_RS01530, P9515_03101	TM0106 family RecB-like putative nuclease	TM0106 family RecB-like putative nuclease			NC_008817.1	285417	286829	minus	0		
+449441	Microcystis aeruginosa NIES-88	66705916	0	live	OA58_RS06495	OA58_RS06495, OA58_06510	TM0106 family RecB-like putative nuclease	TM0106 family RecB-like putative nuclease									
+1914872	Nodularia spumigena UHCC 0039	78018039	0	live	BMF81_RS13985	BMF81_RS13985	TM0106 family RecB-like putative nuclease	TM0106 family RecB-like putative nuclease									
+398007	Dolichospermum circinale AWQC131C	78012631	0	live	ACIR131C_RS0108635	ACIR131C_RS0108635	TM0106 family RecB-like putative nuclease	TM0106 family RecB-like putative nuclease									
+1160	Planktothrix agardhii	77289632	0	live	NMG88_RS17475	NMG88_RS17475, NO976_03494	TM0106 family RecB-like putative nuclease	TM0106 family RecB-like putative nuclease		I							
+375899	Trichormus variabilis 0441	58722438	0	live	GSQ19_RS04110	GSQ19_RS04110, GSQ19_04110	TM0106 family RecB-like putative nuclease	TM0106 family RecB-like putative nuclease									
+1628744	Nostoc linckia z6	57095468	0	live	VF07_RS20005	VF07_RS20005, VF07_19565	TM0106 family RecB-like putative nuclease	TM0106 family RecB-like putative nuclease									
+98439	Fischerella thermalis PCC 7521	35798705	0	live	UYK_RS0103450	UYK_RS0103450	TM0106 family RecB-like putative nuclease	TM0106 family RecB-like putative nuclease									
+269084	Synechococcus elongatus PCC 6301	72430927	0	live	PCC6301pg_RS10595	PCC6301pg_RS10595, PCC6301pg_2131	TM0106 family RecB-like putative nuclease	TM0106 family RecB-like putative nuclease									
+2971778	Umezakia ovalisporum Ak1311	83683919	0	live	NWP25_RS03375	NWP25_RS03375, NWP25_03380	TM0106 family RecB-like putative nuclease	TM0106 family RecB-like putative nuclease									
+2692891	Aphanizomenon flos-aquae FACHB-1287	78217112	0	live	H6G44_RS03880	H6G44_RS03880, H6G44_03870	TM0106 family RecB-like putative nuclease	TM0106 family RecB-like putative nuclease									
+423471	Crocosphaera watsonii WH 0003	88768958	0	live	CWATWH0003_RS27125	CWATWH0003_RS27125, CWATWH0003_B025	TM0106 family RecB-like putative nuclease	TM0106 family RecB-like putative nuclease									
+2108055	Cylindrospermopsis raciborskii Cr2010	92780229	0	live	C6N34_RS05380	C6N34_RS05380, C6N34_005400	TM0106 family RecB-like putative nuclease	TM0106 family RecB-like putative nuclease									
+167542	Prochlorococcus marinus str. MIT 9515	60200636	0	live	P9515_RS05790	P9515_RS05790, P9515_11961	exodeoxyribonuclease V subunit gamma	exodeoxyribonuclease V subunit gamma			NC_008817.1	1055247	1058429	minus	0		
+423471	Crocosphaera watsonii WH 0003	88768749	0	live	CWATWH0003_RS25885	CWATWH0003_RS25885, CWATWH0003_5431	ATP-dependent RecD-like DNA helicase	ATP-dependent RecD-like DNA helicase									
+375899	Trichormus variabilis 0441	58727149	0	live	GSQ19_RS27665	GSQ19_RS27665, GSQ19_27665	ATP-dependent RecD-like DNA helicase	ATP-dependent RecD-like DNA helicase									
+398007	Dolichospermum circinale AWQC131C	78013004	0	live	recF	ACIR131C_RS0110810	DNA replication/repair protein RecF	DNA replication/repair protein RecF									
+375899	Trichormus variabilis 0441	58726175	0	live	recF	GSQ19_RS22795, GSQ19_22795	DNA replication/repair protein RecF	DNA replication/repair protein RecF									
+1914872	Nodularia spumigena UHCC 0039	78018567	0	live	recF	BMF81_RS16790, BMF81_03286	DNA replication/repair protein RecF	DNA replication/repair protein RecF									
+449441	Microcystis aeruginosa NIES-88	66706044	0	live	recF	OA58_RS07180, OA58_07225	DNA replication/repair protein RecF	DNA replication/repair protein RecF									
+1160	Planktothrix agardhii	77287530	0	live	recF	NMG88_RS06965, NO976_01400	DNA replication/repair protein RecF	DNA replication/repair protein RecF		I							
+1628744	Nostoc linckia z6	57092948	0	live	recF	VF07_RS06670, VF07_06510	DNA replication/repair protein RecF	DNA replication/repair protein RecF									
+167542	Prochlorococcus marinus str. MIT 9515	60201112	0	live	recF	P9515_RS08425, P9515_17601	DNA replication/repair protein RecF	DNA replication/repair protein RecF			NC_008817.1	1545297	1546388	minus	0		
+423471	Crocosphaera watsonii WH 0003	88768363	0	live	recF	CWATWH0003_RS23795, CWATWH0003_5008	DNA replication/repair protein RecF	DNA replication/repair protein RecF									
+98439	Fischerella thermalis PCC 7521	35799246	0	live	recF	UYK_RS0114005	DNA replication/repair protein RecF	DNA replication/repair protein RecF									
+269084	Synechococcus elongatus PCC 6301	72431134	0	live	recF	PCC6301pg_RS11630, PCC6301pg_2339	DNA replication/repair protein RecF	DNA replication/repair protein RecF									
+2971778	Umezakia ovalisporum Ak1311	83684675	0	live	recF	NWP25_RS07155, NWP25_07160	DNA replication/repair protein RecF	DNA replication/repair protein RecF									
+2692891	Aphanizomenon flos-aquae FACHB-1287	78219716	0	live	recF	H6G44_RS17145, H6G44_17080	DNA replication/repair protein RecF	DNA replication/repair protein RecF									
+2108055	Cylindrospermopsis raciborskii Cr2010	92779347	0	live	recF	C6N34_RS00955, C6N34_000955	DNA replication/repair protein RecF	DNA replication/repair protein RecF									
+167542	Prochlorococcus marinus str. MIT 9515	60200681	0	live	recG	P9515_RS04095, P9515_08281	ATP-dependent DNA helicase RecG	ATP-dependent DNA helicase RecG			NC_008817.1	749068	751524	minus	0		
+398007	Dolichospermum circinale AWQC131C	78013485	0	live	recG	ACIR131C_RS0113615	ATP-dependent DNA helicase RecG	ATP-dependent DNA helicase RecG									
+449441	Microcystis aeruginosa NIES-88	66705455	0	live	recG	OA58_RS03965, OA58_03950	ATP-dependent DNA helicase RecG	ATP-dependent DNA helicase RecG									
+1914872	Nodularia spumigena UHCC 0039	78016614	0	live	recG	BMF81_RS06385	ATP-dependent DNA helicase RecG	ATP-dependent DNA helicase RecG									
+2108055	Cylindrospermopsis raciborskii Cr2010	92779350	0	live	recG	C6N34_RS00970, C6N34_000970	ATP-dependent DNA helicase RecG	ATP-dependent DNA helicase RecG									
+2692891	Aphanizomenon flos-aquae FACHB-1287	78217704	0	live	recG	H6G44_RS06920, H6G44_06900	ATP-dependent DNA helicase RecG	ATP-dependent DNA helicase RecG									
+2971778	Umezakia ovalisporum Ak1311	83685243	0	live	recG	NWP25_RS09995, NWP25_10005	ATP-dependent DNA helicase RecG	ATP-dependent DNA helicase RecG									
+98439	Fischerella thermalis PCC 7521	35798532	0	live	recG	UYK_RS0103285	ATP-dependent DNA helicase RecG	ATP-dependent DNA helicase RecG									
+423471	Crocosphaera watsonii WH 0003	88768144	0	live	recG	CWATWH0003_RS22630, CWATWH0003_4763	ATP-dependent DNA helicase RecG	ATP-dependent DNA helicase RecG									
+269084	Synechococcus elongatus PCC 6301	72429932	0	live	recG	PCC6301pg_RS05620, PCC6301pg_1130	ATP-dependent DNA helicase RecG	ATP-dependent DNA helicase RecG									
+1628744	Nostoc linckia z6	57093514	0	live	recG	VF07_RS09675, VF07_09450	ATP-dependent DNA helicase RecG	ATP-dependent DNA helicase RecG									
+375899	Trichormus variabilis 0441	58724737	0	live	recG	GSQ19_RS15605, GSQ19_15605	ATP-dependent DNA helicase RecG	ATP-dependent DNA helicase RecG									
+1160	Planktothrix agardhii	77289917	0	live	recG	NMG88_RS18900, NO976_03780	ATP-dependent DNA helicase RecG	ATP-dependent DNA helicase RecG		I							
+449441	Microcystis aeruginosa NIES-88	66708786	0	live	recJ	OA58_RS21975, OA58_22105	single-stranded-DNA-specific exonuclease RecJ	single-stranded-DNA-specific exonuclease RecJ									
+398007	Dolichospermum circinale AWQC131C	78013752	0	live	recJ	ACIR131C_RS0115245	single-stranded-DNA-specific exonuclease RecJ	single-stranded-DNA-specific exonuclease RecJ									
+449441	Microcystis aeruginosa NIES-88	66705282	0	live	recJ	OA58_RS03030, OA58_03025	single-stranded-DNA-specific exonuclease RecJ	single-stranded-DNA-specific exonuclease RecJ									
+398007	Dolichospermum circinale AWQC131C	78013404	0	live	recJ	ACIR131C_RS0113150	single-stranded-DNA-specific exonuclease RecJ	single-stranded-DNA-specific exonuclease RecJ									
+1160	Planktothrix agardhii	77287952	0	live	recJ	NMG88_RS09075, NO976_01827	single-stranded-DNA-specific exonuclease RecJ	single-stranded-DNA-specific exonuclease RecJ		I							
+375899	Trichormus variabilis 0441	58723492	0	live	recJ	GSQ19_RS09380, GSQ19_09380	single-stranded-DNA-specific exonuclease RecJ	single-stranded-DNA-specific exonuclease RecJ									
+1914872	Nodularia spumigena UHCC 0039	78017766	0	live	recJ	BMF81_RS12485	single-stranded-DNA-specific exonuclease RecJ	single-stranded-DNA-specific exonuclease RecJ									
+2108055	Cylindrospermopsis raciborskii Cr2010	92780872	0	live	recJ	C6N34_RS08615, C6N34_008615	single-stranded-DNA-specific exonuclease RecJ	single-stranded-DNA-specific exonuclease RecJ									
+2108055	Cylindrospermopsis raciborskii Cr2010	92781655	0	live	recJ	C6N34_RS12580, C6N34_012540	single-stranded-DNA-specific exonuclease RecJ	single-stranded-DNA-specific exonuclease RecJ									
+2692891	Aphanizomenon flos-aquae FACHB-1287	78217247	0	live	recJ	H6G44_RS04585, H6G44_04570	single-stranded-DNA-specific exonuclease RecJ	single-stranded-DNA-specific exonuclease RecJ									
+2692891	Aphanizomenon flos-aquae FACHB-1287	78217783	0	live	recJ	H6G44_RS07320, H6G44_07300	single-stranded-DNA-specific exonuclease RecJ	single-stranded-DNA-specific exonuclease RecJ									
+2971778	Umezakia ovalisporum Ak1311	83683545	0	live	recJ	NWP25_RS01505, NWP25_01510	single-stranded-DNA-specific exonuclease RecJ	single-stranded-DNA-specific exonuclease RecJ									
+2971778	Umezakia ovalisporum Ak1311	83684157	0	live	recJ	NWP25_RS04565, NWP25_04570	single-stranded-DNA-specific exonuclease RecJ	single-stranded-DNA-specific exonuclease RecJ									
+269084	Synechococcus elongatus PCC 6301	72429340	0	live	recJ	PCC6301pg_RS02660, PCC6301pg_0533	single-stranded-DNA-specific exonuclease RecJ	single-stranded-DNA-specific exonuclease RecJ									
+269084	Synechococcus elongatus PCC 6301	72430758	0	live	recJ	PCC6301pg_RS09750, PCC6301pg_1963	single-stranded-DNA-specific exonuclease RecJ	single-stranded-DNA-specific exonuclease RecJ									
+423471	Crocosphaera watsonii WH 0003	88767212	0	live	recJ	CWATWH0003_RS17570, CWATWH0003_3700	single-stranded-DNA-specific exonuclease RecJ	single-stranded-DNA-specific exonuclease RecJ									
+423471	Crocosphaera watsonii WH 0003	88768758	0	live	recJ	CWATWH0003_RS25930, CWATWH0003_5441	single-stranded-DNA-specific exonuclease RecJ	single-stranded-DNA-specific exonuclease RecJ									
+398007	Dolichospermum circinale AWQC131C	78013610	0	live	recN	ACIR131C_RS0114395	DNA repair protein RecN	DNA repair protein RecN									
+449441	Microcystis aeruginosa NIES-88	66708379	0	live	recN	OA58_RS19810, OA58_19930	DNA repair protein RecN	DNA repair protein RecN									
+1914872	Nodularia spumigena UHCC 0039	78015633	0	live	recN	BMF81_RS01175, BMF81_00227	DNA repair protein RecN	DNA repair protein RecN									
+375899	Trichormus variabilis 0441	58724912	0	live	recN	GSQ19_RS16480, GSQ19_16480	DNA repair protein RecN	DNA repair protein RecN									
+1160	Planktothrix agardhii	77290437	0	live	recN	NMG88_RS21500, NO976_04293	DNA repair protein RecN	DNA repair protein RecN		I							
+2108055	Cylindrospermopsis raciborskii Cr2010	92779933	0	live	recN	C6N34_RS03895, C6N34_003915	DNA repair protein RecN	DNA repair protein RecN									
+423471	Crocosphaera watsonii WH 0003	88765887	0	live	recN	CWATWH0003_RS10310, CWATWH0003_2169a1	DNA repair protein RecN	DNA repair protein RecN									
+2692891	Aphanizomenon flos-aquae FACHB-1287	78218682	0	live	recN	H6G44_RS11905, H6G44_11860	DNA repair protein RecN	DNA repair protein RecN									
+2971778	Umezakia ovalisporum Ak1311	83683898	0	live	recN	NWP25_RS03270, NWP25_03275	DNA repair protein RecN	DNA repair protein RecN									
+269084	Synechococcus elongatus PCC 6301	72430650	0	live	recN	PCC6301pg_RS09210, PCC6301pg_1854	DNA repair protein RecN	DNA repair protein RecN									
+98439	Fischerella thermalis PCC 7521	35798955	0	live	recN	UYK_RS0112295	DNA repair protein RecN	DNA repair protein RecN									
+1628744	Nostoc linckia z6	57097181	0	live	recN	VF07_RS29070, VF07_28430	DNA repair protein RecN	DNA repair protein RecN									
+398007	Dolichospermum circinale AWQC131C	78013877	0	live	recQ	ACIR131C_RS0115970	DNA helicase RecQ	DNA helicase RecQ									
+1160	Planktothrix agardhii	77288743	0	live	recQ	NMG88_RS13030, NO976_02618	DNA helicase RecQ	DNA helicase RecQ		I							
+449441	Microcystis aeruginosa NIES-88	66706647	0	live	recQ	OA58_RS10475, OA58_10540	DNA helicase RecQ	DNA helicase RecQ									
+1914872	Nodularia spumigena UHCC 0039	78016401	0	live	recQ	BMF81_RS05240	DNA helicase RecQ	DNA helicase RecQ									
+375899	Trichormus variabilis 0441	58725451	0	live	recQ	GSQ19_RS19175, GSQ19_19175	DNA helicase RecQ	DNA helicase RecQ									
+2108055	Cylindrospermopsis raciborskii Cr2010	92780012	0	live	recQ	C6N34_RS04290, C6N34_004310	DNA helicase RecQ	DNA helicase RecQ									
+2692891	Aphanizomenon flos-aquae FACHB-1287	78218366	0	live	recQ	H6G44_RS10290, H6G44_10255	DNA helicase RecQ	DNA helicase RecQ									
+2971778	Umezakia ovalisporum Ak1311	83683854	0	live	recQ	NWP25_RS03050, NWP25_03055	DNA helicase RecQ	DNA helicase RecQ									
+98439	Fischerella thermalis PCC 7521	35798524	0	live	recQ	UYK_RS0108795	DNA helicase RecQ	DNA helicase RecQ									
+423471	Crocosphaera watsonii WH 0003	88768133	0	live	recQ	CWATWH0003_RS22575, CWATWH0003_4751	DNA helicase RecQ	DNA helicase RecQ									
+1628744	Nostoc linckia z6	57097439	0	live	recQ	VF07_RS30490, VF07_29835	DNA helicase RecQ	DNA helicase RecQ									
+167542	Prochlorococcus marinus str. MIT 9515	60201056	0	live	recR	P9515_RS05750, P9515_11881	recombination mediator RecR	recombination mediator RecR			NC_008817.1	1044161	1044760	minus	0		
+449441	Microcystis aeruginosa NIES-88	66705557	0	live	recR	OA58_RS04550, OA58_04540	recombination mediator RecR	recombination mediator RecR									
+1914872	Nodularia spumigena UHCC 0039	78015683	0	live	recR	BMF81_RS01440	recombination mediator RecR	recombination mediator RecR									
+398007	Dolichospermum circinale AWQC131C	78013799	0	live	recR	ACIR131C_RS0115515	recombination mediator RecR	recombination mediator RecR									
+1160	Planktothrix agardhii	77286949	0	live	recR	NMG88_RS04060, NO976_00808	recombination mediator RecR	recombination mediator RecR		I							
+375899	Trichormus variabilis 0441	58724929	0	live	recR	GSQ19_RS16565, GSQ19_16565	recombination mediator RecR	recombination mediator RecR									
+423471	Crocosphaera watsonii WH 0003	88765582	0	live	recR	CWATWH0003_RS08650, CWATWH0003_1831	recombination mediator RecR	recombination mediator RecR									
+269084	Synechococcus elongatus PCC 6301	72430229	0	live	recR	PCC6301pg_RS07105, PCC6301pg_1431	recombination mediator RecR	recombination mediator RecR									
+98439	Fischerella thermalis PCC 7521	35797990	0	live	recR	UYK_RS0101135	recombination mediator RecR	recombination mediator RecR									
+2108055	Cylindrospermopsis raciborskii Cr2010	92781306	0	live	recR	C6N34_RS10825, C6N34_010800	recombination mediator RecR	recombination mediator RecR									
+2692891	Aphanizomenon flos-aquae FACHB-1287	78216737	0	live	recR	H6G44_RS01955, H6G44_01955	recombination mediator RecR	recombination mediator RecR									
+2971778	Umezakia ovalisporum Ak1311	83683674	0	live	recR	NWP25_RS02150, NWP25_02155	recombination mediator RecR	recombination mediator RecR									
+167542	Prochlorococcus marinus str. MIT 9515	60200598	0	live	recO	P9515_RS02270, P9515_04601	DNA repair protein RecO	DNA repair protein RecO			NC_008817.1	408975	409754	minus	0		
+398007	Dolichospermum circinale AWQC131C	78011711	0	live	recO	ACIR131C_RS0103265	DNA repair protein RecO	DNA repair protein RecO									
+449441	Microcystis aeruginosa NIES-88	66708399	0	live	recO	OA58_RS19910, OA58_20030	DNA repair protein RecO	DNA repair protein RecO									
+1914872	Nodularia spumigena UHCC 0039	78016875	0	live	recO	BMF81_RS07785	DNA repair protein RecO	DNA repair protein RecO									
+375899	Trichormus variabilis 0441	58723389	0	live	recO	GSQ19_RS08865, GSQ19_08865	DNA repair protein RecO	DNA repair protein RecO									
+1628744	Nostoc linckia z6	57094999	0	live	recO	VF07_RS17530, VF07_17155	DNA repair protein RecO	DNA repair protein RecO									
+423471	Crocosphaera watsonii WH 0003	88765134	0	live	recO	CWATWH0003_RS06220, CWATWH0003_1322	DNA repair protein RecO	DNA repair protein RecO									
+1160	Planktothrix agardhii	77290400	0	live	recO	NMG88_RS21315, NO976_04260	DNA repair protein RecO	DNA repair protein RecO		I							
+2108055	Cylindrospermopsis raciborskii Cr2010	92781376	0	live	recO	C6N34_RS11175, C6N34_011150	DNA repair protein RecO	DNA repair protein RecO									
+2692891	Aphanizomenon flos-aquae FACHB-1287	78217009	0	live	recO	H6G44_RS03355, H6G44_03345	DNA repair protein RecO	DNA repair protein RecO									
+2971778	Umezakia ovalisporum Ak1311	83686413	0	live	recO	NWP25_RS15845, NWP25_15870	DNA repair protein RecO	DNA repair protein RecO									
+269084	Synechococcus elongatus PCC 6301	72429837	0	live	recO	PCC6301pg_RS05145, PCC6301pg_1031	DNA repair protein RecO	DNA repair protein RecO									
+98439	Fischerella thermalis PCC 7521	35797964	0	live	recO	UYK_RS0101120	DNA repair protein RecO	DNA repair protein RecO									
+1914872	Nodularia spumigena UHCC 0039	78019360	0	live	ruvA	BMF81_RS20975	Holliday junction branch migration protein RuvA	Holliday junction branch migration protein RuvA									
+398007	Dolichospermum circinale AWQC131C	78013453	0	live	ruvA	ACIR131C_RS0113430	Holliday junction branch migration protein RuvA	Holliday junction branch migration protein RuvA									
+167542	Prochlorococcus marinus str. MIT 9515	60200560	0	live	ruvA	P9515_RS04995, P9515_10251	Holliday junction branch migration protein RuvA	Holliday junction branch migration protein RuvA			NC_008817.1	916597	917283	plus	0		
+1160	Planktothrix agardhii	77290262	0	live	ruvA	NMG88_RS20625, NO976_04121	Holliday junction branch migration protein RuvA	Holliday junction branch migration protein RuvA		I							
+2692891	Aphanizomenon flos-aquae FACHB-1287	78219977	0	live	ruvA	H6G44_RS18470, H6G44_18385	Holliday junction branch migration protein RuvA	Holliday junction branch migration protein RuvA									
+2971778	Umezakia ovalisporum Ak1311	83683343	0	live	ruvA	NWP25_RS00495, NWP25_00500	Holliday junction branch migration protein RuvA	Holliday junction branch migration protein RuvA									
+2108055	Cylindrospermopsis raciborskii Cr2010	92781071	0	live	ruvA	C6N34_RS09645, C6N34_009620	Holliday junction branch migration protein RuvA	Holliday junction branch migration protein RuvA									
+98439	Fischerella thermalis PCC 7521	35797280	0	live	ruvA	UYK_RS0105730	Holliday junction branch migration protein RuvA	Holliday junction branch migration protein RuvA									
+423471	Crocosphaera watsonii WH 0003	88765825	0	live	ruvA	CWATWH0003_RS09985, CWATWH0003_2104	Holliday junction branch migration protein RuvA	Holliday junction branch migration protein RuvA									
+269084	Synechococcus elongatus PCC 6301	72431184	0	live	ruvA	PCC6301pg_RS11880, PCC6301pg_2389	Holliday junction branch migration protein RuvA	Holliday junction branch migration protein RuvA									
+375899	Trichormus variabilis 0441	58725579	0	live	ruvA	GSQ19_RS19815, GSQ19_19815	Holliday junction branch migration protein RuvA	Holliday junction branch migration protein RuvA									
+1628744	Nostoc linckia z6	57093056	0	live	ruvA	VF07_RS07250, VF07_07080	Holliday junction branch migration protein RuvA	Holliday junction branch migration protein RuvA									
+449441	Microcystis aeruginosa NIES-88	66705048	0	live	ruvA	OA58_RS01760, OA58_01760	Holliday junction branch migration protein RuvA	Holliday junction branch migration protein RuvA									
+2108055	Cylindrospermopsis raciborskii Cr2010	92780203	0	live	ruvB	C6N34_RS05250, C6N34_005270	Holliday junction branch migration DNA helicase RuvB	Holliday junction branch migration DNA helicase RuvB									
+2692891	Aphanizomenon flos-aquae FACHB-1287	78218392	0	live	ruvB	H6G44_RS10425, H6G44_10385	Holliday junction branch migration DNA helicase RuvB	Holliday junction branch migration DNA helicase RuvB									
+2971778	Umezakia ovalisporum Ak1311	83684179	0	live	ruvB	NWP25_RS04675, NWP25_04680	Holliday junction branch migration DNA helicase RuvB	Holliday junction branch migration DNA helicase RuvB									
+269084	Synechococcus elongatus PCC 6301	72429682	0	live	ruvB	PCC6301pg_RS04370, PCC6301pg_0875	Holliday junction branch migration DNA helicase RuvB	Holliday junction branch migration DNA helicase RuvB									
+98439	Fischerella thermalis PCC 7521	35797614	0	live	ruvB	UYK_RS0107235	Holliday junction branch migration DNA helicase RuvB	Holliday junction branch migration DNA helicase RuvB									
+423471	Crocosphaera watsonii WH 0003	88767470	0	live	ruvB	CWATWH0003_RS18965, CWATWH0003_3983	Holliday junction branch migration DNA helicase RuvB	Holliday junction branch migration DNA helicase RuvB									
+1628744	Nostoc linckia z6	57096146	0	live	ruvB	VF07_RS23585, VF07_23115	Holliday junction branch migration DNA helicase RuvB	Holliday junction branch migration DNA helicase RuvB									
+375899	Trichormus variabilis 0441	58723674	0	live	ruvB	GSQ19_RS10290, GSQ19_10290	Holliday junction branch migration DNA helicase RuvB	Holliday junction branch migration DNA helicase RuvB									
+1160	Planktothrix agardhii	77287574	0	live	ruvB	NMG88_RS07185, NO976_01444	Holliday junction branch migration DNA helicase RuvB	Holliday junction branch migration DNA helicase RuvB		I							
+449441	Microcystis aeruginosa NIES-88	66705679	0	live	ruvB	OA58_RS05225, OA58_05235	Holliday junction branch migration DNA helicase RuvB	Holliday junction branch migration DNA helicase RuvB									
+398007	Dolichospermum circinale AWQC131C	78013665	0	live	ruvB	ACIR131C_RS0114680	Holliday junction branch migration DNA helicase RuvB	Holliday junction branch migration DNA helicase RuvB									
+1914872	Nodularia spumigena UHCC 0039	78018897	0	live	ruvB	BMF81_RS18540	Holliday junction branch migration DNA helicase RuvB	Holliday junction branch migration DNA helicase RuvB									
+167542	Prochlorococcus marinus str. MIT 9515	60201943	0	live	ruvB	P9515_RS08650, P9515_18041	Holliday junction branch migration DNA helicase RuvB	Holliday junction branch migration DNA helicase RuvB			NC_008817.1	1589665	1590723	minus	0		
+167542	Prochlorococcus marinus str. MIT 9515	60201617	0	live	ruvC	P9515_RS05530, P9515_11451	crossover junction endodeoxyribonuclease RuvC	crossover junction endodeoxyribonuclease RuvC			NC_008817.1	997344	997817	minus	0		
+2108055	Cylindrospermopsis raciborskii Cr2010	92781116	0	live	ruvC	C6N34_RS09875, C6N34_009850	crossover junction endodeoxyribonuclease RuvC	crossover junction endodeoxyribonuclease RuvC									
+2692891	Aphanizomenon flos-aquae FACHB-1287	78216702	0	live	ruvC	H6G44_RS01775, H6G44_01775	crossover junction endodeoxyribonuclease RuvC	crossover junction endodeoxyribonuclease RuvC									
+2971778	Umezakia ovalisporum Ak1311	83686146	0	live	ruvC	NWP25_RS14510, NWP25_14535	crossover junction endodeoxyribonuclease RuvC	crossover junction endodeoxyribonuclease RuvC									
+98439	Fischerella thermalis PCC 7521	35796630	0	live	ruvC	UYK_RS0116070	crossover junction endodeoxyribonuclease RuvC	crossover junction endodeoxyribonuclease RuvC									
+269084	Synechococcus elongatus PCC 6301	72429644	0	live	ruvC	PCC6301pg_RS04180, PCC6301pg_0836	crossover junction endodeoxyribonuclease RuvC	crossover junction endodeoxyribonuclease RuvC									
+1628744	Nostoc linckia z6	57094440	0	live	ruvC	VF07_RS14550, VF07_14235	crossover junction endodeoxyribonuclease RuvC	crossover junction endodeoxyribonuclease RuvC									
+375899	Trichormus variabilis 0441	58722761	0	live	ruvC	GSQ19_RS05725, GSQ19_05725	crossover junction endodeoxyribonuclease RuvC	crossover junction endodeoxyribonuclease RuvC									
+1160	Planktothrix agardhii	77289546	0	live	ruvC	NMG88_RS17045, NO976_03412	crossover junction endodeoxyribonuclease RuvC	crossover junction endodeoxyribonuclease RuvC		I							
+398007	Dolichospermum circinale AWQC131C	78012928	0	live	ruvC	ACIR131C_RS0110370	crossover junction endodeoxyribonuclease RuvC	crossover junction endodeoxyribonuclease RuvC									
+1914872	Nodularia spumigena UHCC 0039	78018689	0	live	ruvC	BMF81_RS17435, BMF81_03412	crossover junction endodeoxyribonuclease RuvC	crossover junction endodeoxyribonuclease RuvC									
+1160	Planktothrix agardhii	77289213	0	live	mutL	NMG88_RS15380, NO976_03083	DNA mismatch repair endonuclease MutL	DNA mismatch repair endonuclease MutL		I							
+2108055	Cylindrospermopsis raciborskii Cr2010	92780319	0	live	mutL	C6N34_RS05835, C6N34_005850	DNA mismatch repair endonuclease MutL	DNA mismatch repair endonuclease MutL									
+2692891	Aphanizomenon flos-aquae FACHB-1287	78219924	0	live	mutL	H6G44_RS18205, H6G44_18120	DNA mismatch repair endonuclease MutL	DNA mismatch repair endonuclease MutL									
+2971778	Umezakia ovalisporum Ak1311	83684584	0	live	mutL	NWP25_RS06700, NWP25_06705	DNA mismatch repair endonuclease MutL	DNA mismatch repair endonuclease MutL									
+98439	Fischerella thermalis PCC 7521	35797672	0	live	mutL	UYK_RS0107695	DNA mismatch repair endonuclease MutL	DNA mismatch repair endonuclease MutL									
+423471	Crocosphaera watsonii WH 0003	88764454	0	live	mutL	CWATWH0003_RS02520, CWATWH0003_0535	DNA mismatch repair endonuclease MutL	DNA mismatch repair endonuclease MutL									
+269084	Synechococcus elongatus PCC 6301	72430651	0	live	mutL	PCC6301pg_RS09215, PCC6301pg_1855	DNA mismatch repair endonuclease MutL	DNA mismatch repair endonuclease MutL									
+1628744	Nostoc linckia z6	57095895	0	live	mutL	VF07_RS22265, VF07_21815	DNA mismatch repair endonuclease MutL	DNA mismatch repair endonuclease MutL									
+1914872	Nodularia spumigena UHCC 0039	78016984	0	live	mutL	BMF81_RS08350	DNA mismatch repair endonuclease MutL	DNA mismatch repair endonuclease MutL									
+375899	Trichormus variabilis 0441	58723522	0	live	mutL	GSQ19_RS09530, GSQ19_09530	DNA mismatch repair endonuclease MutL	DNA mismatch repair endonuclease MutL									
+449441	Microcystis aeruginosa NIES-88	66707922	0	live	mutL	OA58_RS17310, OA58_17420	DNA mismatch repair endonuclease MutL	DNA mismatch repair endonuclease MutL									
+398007	Dolichospermum circinale AWQC131C	78014695	0	live	mutL	ACIR131C_RS0121210	DNA mismatch repair endonuclease MutL	DNA mismatch repair endonuclease MutL									
+1160	Planktothrix agardhii	77290259	0	live	mutS	NMG88_RS20610, NO976_04118	DNA mismatch repair protein MutS	DNA mismatch repair protein MutS		I							
+2108055	Cylindrospermopsis raciborskii Cr2010	92781704	0	live	mutS	C6N34_RS12825, C6N34_012785	DNA mismatch repair protein MutS	DNA mismatch repair protein MutS									
+423471	Crocosphaera watsonii WH 0003	88766405	0	live	mutS	CWATWH0003_RS13155, CWATWH0003_2763	DNA mismatch repair protein MutS	DNA mismatch repair protein MutS									
+2692891	Aphanizomenon flos-aquae FACHB-1287	78218882	0	live	mutS	H6G44_RS12920, H6G44_12870	DNA mismatch repair protein MutS	DNA mismatch repair protein MutS									
+2971778	Umezakia ovalisporum Ak1311	83683968	0	live	mutS	NWP25_RS03620, NWP25_03625	DNA mismatch repair protein MutS	DNA mismatch repair protein MutS									
+269084	Synechococcus elongatus PCC 6301	72431129	0	live	mutS	PCC6301pg_RS11605, PCC6301pg_2334	DNA mismatch repair protein MutS	DNA mismatch repair protein MutS									
+98439	Fischerella thermalis PCC 7521	35797707	0	live	mutS	UYK_RS0108050	DNA mismatch repair protein MutS	DNA mismatch repair protein MutS									
+1628744	Nostoc linckia z6	57097203	0	live	mutS	VF07_RS29180, VF07_28540	DNA mismatch repair protein MutS	DNA mismatch repair protein MutS									
+375899	Trichormus variabilis 0441	58725967	0	live	mutS	GSQ19_RS21755, GSQ19_21755	DNA mismatch repair protein MutS	DNA mismatch repair protein MutS									
+449441	Microcystis aeruginosa NIES-88	66708783	0	live	mutS	OA58_RS21960, OA58_22090	DNA mismatch repair protein MutS	DNA mismatch repair protein MutS									
+398007	Dolichospermum circinale AWQC131C	78012183	0	live	mutS	ACIR131C_RS0106015	DNA mismatch repair protein MutS	DNA mismatch repair protein MutS									
+1914872	Nodularia spumigena UHCC 0039	78019851	0	live	mutS	BMF81_RS23585	DNA mismatch repair protein MutS	DNA mismatch repair protein MutS									
+167542	Prochlorococcus marinus str. MIT 9515	60201968	0	live	mutS	P9515_RS08810, P9515_18351	DNA mismatch repair protein MutS	DNA mismatch repair protein MutS			NC_008817.1	1617910	1620654	plus	0		
+398007	Dolichospermum circinale AWQC131C	78012797	0	live	ACIR131C_RS0109580	ACIR131C_RS0109580	endonuclease MutS2	endonuclease MutS2									
+167542	Prochlorococcus marinus str. MIT 9515	60201394	0	live	P9515_RS01205	P9515_RS01205, P9515_02471	endonuclease MutS2	endonuclease MutS2			NC_008817.1	228029	230440	plus	0		
+98439	Fischerella thermalis PCC 7521	35798726	0	live	UYK_RS0104125	UYK_RS0104125	endonuclease MutS2	endonuclease MutS2									
+269084	Synechococcus elongatus PCC 6301	72429443	0	live	PCC6301pg_RS03175	PCC6301pg_RS03175, PCC6301pg_0637	endonuclease MutS2	endonuclease MutS2									
+449441	Microcystis aeruginosa NIES-88	66704975	0	live	OA58_RS01350	OA58_RS01350, OA58_01345	endonuclease MutS2	endonuclease MutS2									
+2108055	Cylindrospermopsis raciborskii Cr2010	92781650	0	live	C6N34_RS12555	C6N34_RS12555, C6N34_012515	endonuclease MutS2	endonuclease MutS2									
+2971778	Umezakia ovalisporum Ak1311	83685868	0	live	NWP25_RS13120	NWP25_RS13120, NWP25_13145	endonuclease MutS2	endonuclease MutS2									
+2692891	Aphanizomenon flos-aquae FACHB-1287	78218890	0	live	H6G44_RS12960	H6G44_RS12960, H6G44_12910	endonuclease MutS2	endonuclease MutS2									
+1914872	Nodularia spumigena UHCC 0039	78017585	0	live	BMF81_RS11540	BMF81_RS11540, BMF81_02265	endonuclease MutS2	endonuclease MutS2									
+1160	Planktothrix agardhii	77288051	0	live	NMG88_RS09570	NMG88_RS09570, NO976_01928	endonuclease MutS2	endonuclease MutS2		I							
+375899	Trichormus variabilis 0441	58725407	0	live	GSQ19_RS18955	GSQ19_RS18955, GSQ19_18955	endonuclease MutS2	endonuclease MutS2									
+1628744	Nostoc linckia z6	57094818	0	live	VF07_RS16585	VF07_RS16585, VF07_16245	endonuclease MutS2	endonuclease MutS2									
+1914872	Nodularia spumigena UHCC 0039	78017409	0	live	mutT	BMF81_RS10600, BMF81_02084	8-oxo-dGTP diphosphatase MutT	8-oxo-dGTP diphosphatase MutT									
+449441	Microcystis aeruginosa NIES-88	66706643	0	live	mutT	OA58_RS10455, OA58_10520	8-oxo-dGTP diphosphatase MutT	8-oxo-dGTP diphosphatase MutT									
+398007	Dolichospermum circinale AWQC131C	78012123	0	live	mutT	ACIR131C_RS0105680	8-oxo-dGTP diphosphatase MutT	8-oxo-dGTP diphosphatase MutT									
+1160	Planktothrix agardhii	77289533	0	live	mutT	NMG88_RS16980, NO976_03399	8-oxo-dGTP diphosphatase MutT	8-oxo-dGTP diphosphatase MutT		I							
+375899	Trichormus variabilis 0441	58724562	0	live	mutT	GSQ19_RS14730, GSQ19_14730	8-oxo-dGTP diphosphatase MutT	8-oxo-dGTP diphosphatase MutT									
+1628744	Nostoc linckia z6	57092832	0	live	mutT	VF07_RS06060, VF07_05910	8-oxo-dGTP diphosphatase MutT	8-oxo-dGTP diphosphatase MutT									
+98439	Fischerella thermalis PCC 7521	35798502	0	live	mutT	UYK_RS0108710	8-oxo-dGTP diphosphatase MutT	8-oxo-dGTP diphosphatase MutT									
+2108055	Cylindrospermopsis raciborskii Cr2010	92780459	0	live	mutT	C6N34_RS06535, C6N34_006540	8-oxo-dGTP diphosphatase MutT	8-oxo-dGTP diphosphatase MutT									
+2971778	Umezakia ovalisporum Ak1311	83683878	0	live	mutT	NWP25_RS03170, NWP25_03175	8-oxo-dGTP diphosphatase MutT	8-oxo-dGTP diphosphatase MutT									
+2692891	Aphanizomenon flos-aquae FACHB-1287	78216993	0	live	mutT	H6G44_RS03270, H6G44_03260	8-oxo-dGTP diphosphatase MutT	8-oxo-dGTP diphosphatase MutT									
+423471	Crocosphaera watsonii WH 0003	88767344	0	live	mutT	CWATWH0003_RS18300, CWATWH0003_3848a4	8-oxo-dGTP diphosphatase MutT	8-oxo-dGTP diphosphatase MutT									
+269084	Synechococcus elongatus PCC 6301	72429505	0	live	mutY	PCC6301pg_RS03485, PCC6301pg_0700	A/G-specific adenine glycosylase	A/G-specific adenine glycosylase									
+180281	Cyanobium sp. PCC 7001	7412441	0	discontinued	umuC	CPCC7001_358	UmuC protein										
+269084	Synechococcus elongatus PCC 6301	3197735	0	discontinued	umuC	syc0008_d	DNA polymerase V				NC_006576.1	7716	8972	plus	0		
+32051	Synechococcus sp. WH 7803	5148005	0	discontinued	umuC	SynWH7803_1080	SOS-regulated protein				NC_009481.1	991048	992322	minus	0		
+316278	Synechococcus sp. RCC307	5158137	0	discontinued	umuC	SynRCC307_0043	SOS-regulated protein				NC_009482.1	40237	41517	plus	0		
+329726	Acaryochloris marina MBIC11017	5681341	0	discontinued	umuC	AM1_2529	DNA polymerase V				NC_009925.1	2563279	2564487	plus	0		
+329726	Acaryochloris marina MBIC11017	5685938	0	discontinued	umuC	AM1_B0315	DNA polymerase V, putative				NC_009927.1	255098	256363	plus	0		
+329726	Acaryochloris marina MBIC11017	5687272	0	discontinued	umuC	AM1_G0159	DNA polymerase V, putative				NC_009932.1	135144	136334	plus	0		
+1183438	Gloeobacter kilaueensis JS1	17367105	0	discontinued	umuC	GKIL_3792	DNA-directed DNA polymerase				NC_022600.1	4007329	4008648	minus	0		
+59919	Prochlorococcus marinus subsp. pastoris str. CCMP1986	1725934	0	discontinued	umuC	PMM0937	UmuC protein				NC_005072.1	895182	896474	plus	0		
+1148	Synechocystis sp. PCC 6803	952216	0	discontinued	umuC	slr0790	UmuC protein				NC_000911.1	3048285	3048635	plus	0		
+74547	Prochlorococcus marinus str. MIT 9313	1727605	0	discontinued	umuC	PMT0638	UmuC protein				NC_005071.1	689823	691097	plus	0		
+84588	Synechococcus sp. WH 8102	1731917	0	discontinued	umuC	SYNW1043	UmuC protein				NC_005070.1	1038549	1039829	minus	0		
+64471	Synechococcus sp. CC9311	4258958	0	discontinued	umuC	sync_1607	UmuC protein				NC_008319.1	1477154	1478428	plus	0		
+59922	Prochlorococcus marinus str. MIT 9303	4776042	0	discontinued	umuC	P9303_15961	UmuC protein				NC_008820.1	1402082	1403356	minus	0		
+93060	Prochlorococcus marinus str. MIT 9215	5614612	0	discontinued	umuC	P9215_09531	putative UmuC protein				NC_009840.1	826426	827712	minus	0		
+93059	Prochlorococcus marinus str. MIT 9211	5730144	0	discontinued	umuC	P9211_07071	UmuC protein				NC_009976.1	620283	621551	minus	0		
+1080228	Synechocystis sp. PCC 6803 substr. GT-I	11975180	0	discontinued	umuC	SYNGTI_2732	UmuC protein				NC_017038.1	3046003	3046353	plus	0		
+1080230	Synechocystis sp. PCC 6803 substr. PCC-P	11978113	0	discontinued	umuC	SYNPCCP_2731	UmuC protein				NC_017039.1	3046113	3046463	plus	0		
+1148	Synechocystis sp. PCC 6803	12254800	0	discontinued	umuC	SYNGTS_2733	UmuC protein				NC_017277.1	3047102	3047452	plus	0		
+1080229	Synechocystis sp. PCC 6803 substr. PCC-N	12012453	0	discontinued	umuC	SYNPCCN_2731	UmuC protein				NC_017052.1	3046102	3046452	plus	0		
+1148	Synechocystis sp. PCC 6803	14618183	0	discontinued	umuC	MYO_127590	UmuC protein				NC_020286.1	3045553	3045903	plus	0		
+167542	Prochlorococcus marinus str. MIT 9515	4719168	0	discontinued	umuC	P9515_10201	UmuC protein				NC_008817.1	911430	912722	plus	0		
+167555	Prochlorococcus marinus str. NATL1A	4779451	0	discontinued	umuC	NATL1_09431	UmuC protein				NC_008819.1	870671	871948	minus	0		
+167542	Prochlorococcus marinus str. MIT 9515	60201783	0	live	umuD	P9515_RS04965, P9515_10191	translesion error-prone DNA polymerase V autoproteolytic subunit	translesion error-prone DNA polymerase V autoproteolytic subunit			NC_008817.1	911017	911433	plus	0		
+269084	Synechococcus elongatus PCC 6301	72430420	0	live	umuD	PCC6301pg_RS08060, PCC6301pg_1620	LexA family transcriptional regulator	LexA family transcriptional regulator									
+2108055	Cylindrospermopsis raciborskii Cr2010	92780053	0	live	lexA	C6N34_RS04495, C6N34_004520	transcriptional repressor LexA	transcriptional repressor LexA									
+2692891	Aphanizomenon flos-aquae FACHB-1287	78219793	0	live	lexA	H6G44_RS17530, H6G44_17455	transcriptional repressor LexA	transcriptional repressor LexA									
+2971778	Umezakia ovalisporum Ak1311	83683923	0	live	lexA	NWP25_RS03395, NWP25_03400	transcriptional repressor LexA	transcriptional repressor LexA									
+98439	Fischerella thermalis PCC 7521	35799414	0	live	lexA	UYK_RS0114795	transcriptional repressor LexA	transcriptional repressor LexA									
+423471	Crocosphaera watsonii WH 0003	88765527	0	live	lexA	CWATWH0003_RS08370, CWATWH0003_1775	transcriptional repressor LexA	transcriptional repressor LexA									
+1628744	Nostoc linckia z6	57094265	0	live	lexA	VF07_RS13625, VF07_13305	transcriptional repressor LexA	transcriptional repressor LexA									
+375899	Trichormus variabilis 0441	58724875	0	live	lexA	GSQ19_RS16295, GSQ19_16295	transcriptional repressor LexA	transcriptional repressor LexA									
+1914872	Nodularia spumigena UHCC 0039	78018418	0	live	lexA	BMF81_RS16000	transcriptional repressor LexA	transcriptional repressor LexA									
+398007	Dolichospermum circinale AWQC131C	78011784	0	live	lexA	ACIR131C_RS0103705	transcriptional repressor LexA	transcriptional repressor LexA									
+449441	Microcystis aeruginosa NIES-88	66706939	0	live	lexA	OA58_RS12070, OA58_12150	transcriptional repressor LexA	transcriptional repressor LexA									
+167542	Prochlorococcus marinus str. MIT 9515	60201867	0	live	lexA	P9515_RS06860, P9515_14231	transcriptional repressor LexA	transcriptional repressor LexA			NC_008817.1	1261473	1262090	minus	0		
+423471	Crocosphaera watsonii WH 0003	88769283	0	live	ssb	CWATWH0003_RS29230, CWATWH0003_B334	single-stranded DNA-binding protein	single-stranded DNA-binding protein									
+1628744	Nostoc linckia z6	57097552	0	live	ssb	VF07_RS31115, VF07_30450	single-stranded DNA-binding protein	single-stranded DNA-binding protein									
+375899	Trichormus variabilis 0441	58727326	0	live	ssb	GSQ19_RS28550, GSQ19_28550	single-stranded DNA-binding protein	single-stranded DNA-binding protein									
+2108055	Cylindrospermopsis raciborskii Cr2010	92779724	0	live	ssb	C6N34_RS02850, C6N34_002870	pseudo										
+423471	Crocosphaera watsonii WH 0003	88769025	0	live	ssb	CWATWH0003_RS27580, CWATWH0003_B089	single-stranded DNA-binding protein	single-stranded DNA-binding protein									
+423471	Crocosphaera watsonii WH 0003	88769176	0	live	ssb	CWATWH0003_RS28550, CWATWH0003_B231	single-stranded DNA-binding protein	single-stranded DNA-binding protein									
+423471	Crocosphaera watsonii WH 0003	88769232	0	live	ssb	CWATWH0003_RS28905, CWATWH0003_B285	single-stranded DNA-binding protein	single-stranded DNA-binding protein									
+1628744	Nostoc linckia z6	57098941	0	live	dinB	VF07_RS38545, VF07_37660	DNA polymerase IV	DNA polymerase IV									
+269084	Synechococcus elongatus PCC 6301	72429831	0	live	PCC6301pg_RS05115	PCC6301pg_RS05115, PCC6301pg_1025	DinB family protein	DinB family protein									
+1394889	Thermosynechococcus sp. NK55	17873535	0	discontinued	comA	NK55_08905	single stranded DNA uptake competence transporter ComA				NC_023033.1	1866927	1868624	plus	0		
+1148	Synechocystis sp. PCC 6803	12253626	0	discontinued	comA	SYNGTS_2453	competence protein ComA				NC_017277.1	2725864	2727525	plus	0		
+1080229	Synechocystis sp. PCC 6803 substr. PCC-N	12012168	0	discontinued	comA	SYNPCCN_2451	competence protein ComA				NC_017052.1	2724862	2726523	plus	0		
+1080230	Synechocystis sp. PCC 6803 substr. PCC-P	11977866	0	discontinued	comA	SYNPCCP_2451	competence protein ComA				NC_017039.1	2724874	2726535	plus	0		
+1080228	Synechocystis sp. PCC 6803 substr. GT-I	11974895	0	discontinued	comA	SYNGTI_2452	competence protein ComA				NC_017038.1	2724765	2726426	plus	0		
+251221	Gloeobacter violaceus PCC 7421	2601674	0	discontinued	comA	gvip450	hypothetical protein				NC_005125.1	3476473	3477897	minus	0		
+449441	Microcystis aeruginosa NIES-88	66706819	0	live	OA58_RS11420	OA58_RS11420, OA58_11495	ComEA family DNA-binding protein	ComEA family DNA-binding protein									
+1914872	Nodularia spumigena UHCC 0039	78018878	0	live	BMF81_RS18445	BMF81_RS18445	ComEA family DNA-binding protein	ComEA family DNA-binding protein									
+398007	Dolichospermum circinale AWQC131C	78014210	0	live	ACIR131C_RS0118105	ACIR131C_RS0118105	ComEA family DNA-binding protein	ComEA family DNA-binding protein									
+375899	Trichormus variabilis 0441	58723594	0	live	GSQ19_RS09890	GSQ19_RS09890, GSQ19_09890	ComEA family DNA-binding protein	ComEA family DNA-binding protein									
+1628744	Nostoc linckia z6	57091787	0	live	VF07_RS00590	VF07_RS00590, VF07_00575	ComEA family DNA-binding protein	ComEA family DNA-binding protein									
+269084	Synechococcus elongatus PCC 6301	72430797	0	live	PCC6301pg_RS09945	PCC6301pg_RS09945, PCC6301pg_2003	late competence development ComFB family protein	late competence development ComFB family protein									
+1160	Planktothrix agardhii	77288866	0	live	NMG88_RS13645	NMG88_RS13645, NO976_02736	late competence development ComFB family protein	late competence development ComFB family protein		I							
+423471	Crocosphaera watsonii WH 0003	88765793	0	live	CWATWH0003_RS09805	CWATWH0003_RS09805, CWATWH0003_2069	late competence development ComFB family protein	late competence development ComFB family protein									
+98439	Fischerella thermalis PCC 7521	35799022	0	live	UYK_RS0112565	UYK_RS0112565	late competence development ComFB family protein	late competence development ComFB family protein									
+423471	Crocosphaera watsonii WH 0003	88765660	0	live	CWATWH0003_RS09090	CWATWH0003_RS09090, CWATWH0003_1924	late competence development ComFB family protein	late competence development ComFB family protein									
+1628744	Nostoc linckia z6	57094602	0	live	VF07_RS15415	VF07_RS15415, VF07_15090	late competence development ComFB family protein	late competence development ComFB family protein									
+1160	Planktothrix agardhii	77287007	0	live	NMG88_RS04350	NMG88_RS04350, NO976_00867	late competence development ComFB family protein	late competence development ComFB family protein		I							
+375899	Trichormus variabilis 0441	58722503	0	live	GSQ19_RS04435	GSQ19_RS04435, GSQ19_04435	late competence development ComFB family protein	late competence development ComFB family protein									
+1914872	Nodularia spumigena UHCC 0039	78016172	0	live	BMF81_RS04020	BMF81_RS04020	late competence development ComFB family protein	late competence development ComFB family protein									
+1628744	Nostoc linckia z6	57097166	0	live	VF07_RS28995	VF07_RS28995, VF07_28370	ComF family protein	ComF family protein									
+375899	Trichormus variabilis 0441	58723640	0	live	GSQ19_RS10120	GSQ19_RS10120, GSQ19_10120	ComF family protein	ComF family protein									
+398007	Dolichospermum circinale AWQC131C	78014387	0	live	ACIR131C_RS0119245	ACIR131C_RS0119245	ComF family protein	ComF family protein									
+1160	Planktothrix agardhii	77287896	0	live	NMG88_RS08795	NMG88_RS08795, NO976_01770	ComF family protein	ComF family protein		I							
+1914872	Nodularia spumigena UHCC 0039	78017842	0	live	BMF81_RS12940	BMF81_RS12940, BMF81_02532	ComF family protein	ComF family protein									
+449441	Microcystis aeruginosa NIES-88	66708248	0	live	OA58_RS19090	OA58_RS19090, OA58_19230	ComF family protein	ComF family protein									
+1148	Synechocystis sp. PCC 6803	14616647	0	discontinued	phr	MYO_112250	deoxyribopyrimidine photolyase				NC_020286.1	1338126	1339592	plus	0		
+1148	Synechocystis sp. PCC 6803	14616622	0	discontinued	phr	MYO_112000	DNA photolyase				NC_020286.1	1311748	1313109	minus	0		
+1148	Synechocystis sp. PCC 6803	12255494	0	discontinued	phr	SYNGTS_1214	deoxyribopyrimidine photolyase				NC_017277.1	1338500	1339939	plus	0		
+1148	Synechocystis sp. PCC 6803	12255389	0	discontinued	phr	SYNGTS_1190	DNA photolyase				NC_017277.1	1312095	1313564	minus	0		
+1080229	Synechocystis sp. PCC 6803 substr. PCC-N	12011540	0	discontinued	phr	SYNPCCN_1213	deoxyribopyrimidine photolyase				NC_017052.1	1338698	1340137	plus	0		
+1080229	Synechocystis sp. PCC 6803 substr. PCC-N	12011515	0	discontinued	phr	SYNPCCN_1189	DNA photolyase				NC_017052.1	1312293	1313762	minus	0		
+1080230	Synechocystis sp. PCC 6803 substr. PCC-P	11976756	0	discontinued	phr	SYNPCCP_1213	deoxyribopyrimidine photolyase				NC_017039.1	1338710	1340149	plus	0		
+1080230	Synechocystis sp. PCC 6803 substr. PCC-P	11976734	0	discontinued	phr	SYNPCCP_1189	DNA photolyase				NC_017039.1	1312305	1313774	minus	0		
+1080228	Synechocystis sp. PCC 6803 substr. GT-I	11973635	0	discontinued	phr	SYNGTI_1214	deoxyribopyrimidine photolyase				NC_017038.1	1338602	1340041	plus	0		
+1080228	Synechocystis sp. PCC 6803 substr. GT-I	11973610	0	discontinued	phr	SYNGTI_1190	DNA photolyase				NC_017038.1	1312197	1313666	minus	0		
+32049	Synechococcus sp. PCC 7002	6056027	0	discontinued	phr	SYNPCC7002_A2796	deoxyribopyrimidine photolyase				NC_010475.1	2918298	2919731	minus	0		
+93060	Prochlorococcus marinus str. MIT 9215	5615249	0	discontinued	phr	P9215_03101	putative DNA photolyase				NC_009840.1	281440	282876	minus	0		
+316278	Synechococcus sp. RCC307	5157252	0	discontinued	phr	SynRCC307_0225	deoxyribodipyrimidine photolyase				NC_009482.1	225315	226718	plus	0		
+316278	Synechococcus sp. RCC307	5157176	0	discontinued	phr	SynRCC307_1185	deoxyribodipyrimidine photolyase				NC_009482.1	1043393	1044904	plus	0		
+32051	Synechococcus sp. WH 7803	5146934	0	discontinued	phr	SynWH7803_0636	deoxyribodipyrimidine photolyase				NC_009481.1	637663	639135	plus	0		
+32051	Synechococcus sp. WH 7803	5146740	0	discontinued	phr	SynWH7803_0262	deoxyribodipyrimidine photolyase				NC_009481.1	285994	287472	plus	0		
+59919	Prochlorococcus marinus subsp. pastoris str. CCMP1986	1727219	0	discontinued	phr	PMM0285	DNA photolyase				NC_005072.1	274511	275947	minus	0		
+1148	Synechocystis sp. PCC 6803	954424	0	discontinued	phr	slr0854	deoxyribopyrimidine photolyase				NC_000911.1	1339656	1341122	plus	0		
+1148	Synechocystis sp. PCC 6803	954400	0	discontinued	phr	sll1629	DNA photolyase				NC_000911.1	1313278	1314639	minus	0		
+398007	Dolichospermum circinale AWQC131C	78014103	0	live	ACIR131C_RS0117375	ACIR131C_RS0117375	alpha-ketoglutarate-dependent dioxygenase AlkB	alpha-ketoglutarate-dependent dioxygenase AlkB									
+375899	Trichormus variabilis 0441	58727235	0	live	GSQ19_RS28095	GSQ19_RS28095, GSQ19_28095	alpha-ketoglutarate-dependent dioxygenase AlkB	alpha-ketoglutarate-dependent dioxygenase AlkB									
+449441	Microcystis aeruginosa NIES-88	66705644	0	live	OA58_RS05020	OA58_RS05020, OA58_05020	alpha-ketoglutarate-dependent dioxygenase AlkB	alpha-ketoglutarate-dependent dioxygenase AlkB									
+449441	Microcystis aeruginosa NIES-88	98280510	0	live	OA58_RS32530	OA58_RS32530, OA58_24640	alpha-ketoglutarate-dependent dioxygenase AlkB	alpha-ketoglutarate-dependent dioxygenase AlkB									
+449441	Microcystis aeruginosa NIES-88	66709251	0	live	OA58_RS24500	OA58_RS24500, OA58_24635	alpha-ketoglutarate-dependent dioxygenase AlkB	alpha-ketoglutarate-dependent dioxygenase AlkB									
+2108055	Cylindrospermopsis raciborskii Cr2010	92781786	0	live	C6N34_RS13235	C6N34_RS13235, C6N34_013195	alpha-ketoglutarate-dependent dioxygenase AlkB	alpha-ketoglutarate-dependent dioxygenase AlkB									
+63737	Nostoc punctiforme PCC 73102	45131603	0	discontinued	ada	NPUN_RS26425, Npun_F5226	bifunctional DNA-binding transcriptional regulator/O6-methylguanine-DNA methyltransferase Ada	bifunctional DNA-binding transcriptional regulator/O6-methylguanine-DNA methyltransferase Ada			NC_010628.1	6467798	6468883	plus	0		
+269084	Synechococcus elongatus PCC 6301	3198157	0	discontinued	syc1356_d	syc1356_d	ADA regulatory protein				NC_006576.1	1470139	1470696	plus	0		
+179408	Oscillatoria nigro-viridis PCC 7112	14143451	0	discontinued	Osc7112_1485	Osc7112_1485	DNA-O6-methylguanine--protein-cysteine S-methyltransferase	Transcriptional regulator Ada			NC_019729.1	1727976	1728863	minus	0		
+63737	Nostoc punctiforme PCC 73102	6254574	0	discontinued	Npun_F5226	Npun_F5226	methylated-DNA--protein-cysteine methyltransferase				NC_010628.1	6467798	6468883	plus	0		
+251229	Chroococcidiopsis thermalis PCC 7203	14116730	0	discontinued	Chro_0475	Chro_0475	methylated-DNA--protein-cysteine methyltransferase				NC_019695.1	534522	535649	minus	0		
+1173026	Gloeocapsa sp. PCC 7428	14157971	0	discontinued	Glo7428_1703	Glo7428_1703	methylated-DNA/protein-cysteinemethyltransferase				NC_019745.1	1905245	1906345	minus	0		
+1173026	Gloeocapsa sp. PCC 7428	14156416	0	discontinued	Glo7428_4001	Glo7428_4001	Ada DNA repair protein and transcriptional regulator, AraC family				NC_019745.1	4462008	4463060	plus	0		
+272123	Anabaena cylindrica PCC 7122	14186626	0	discontinued	Anacy_1974	Anacy_1974	DNA-O6-methylguanine--protein-cysteine S-methyltransferase	Transcriptional regulator Ada			NC_019771.1	2262274	2263140	plus	0		
+1394889	Thermosynechococcus sp. NK55	17873186	0	discontinued	sulA	NK55_07160	cell division inhibitor SulA				NC_023033.1	1503365	1504303	minus	0		
+1148	Synechocystis sp. PCC 6803	12254890	0	discontinued	sulA	SYNGTS_0933	putative cell division inhibitor SulA				NC_017277.1	1025519	1026442	plus	0		
+1080229	Synechocystis sp. PCC 6803 substr. PCC-N	12013536	0	discontinued	sulA	SYNPCCN_0932	putative cell division inhibitor SulA				NC_017052.1	1025762	1026685	plus	0		
+1080230	Synechocystis sp. PCC 6803 substr. PCC-P	11976509	0	discontinued	sulA	SYNPCCP_0932	putative cell division inhibitor SulA				NC_017039.1	1025774	1026697	plus	0		
+1080228	Synechocystis sp. PCC 6803 substr. GT-I	11973351	0	discontinued	sulA	SYNGTI_0933	putative cell division inhibitor SulA				NC_017038.1	1025621	1026544	plus	0		
+1148	Synechocystis sp. PCC 6803	14616362	0	discontinued	sulA	MYO_19400	cell division inhibitor				NC_020286.1	1025078	1026097	plus	0		
+1148	Synechocystis sp. PCC 6803	954130	0	discontinued	sulA	slr1223	cell division inhibitor				NC_000911.1	1025423	1026442	plus	0		
+398007	Dolichospermum circinale AWQC131C	78014539	0	live	radA	ACIR131C_RS0120305	DNA repair protein RadA	DNA repair protein RadA									
+167542	Prochlorococcus marinus str. MIT 9515	60201098	0	live	radA	P9515_RS00785, P9515_01611	DNA repair protein RadA	DNA repair protein RadA			NC_008817.1	148021	149373	minus	0		
+1914872	Nodularia spumigena UHCC 0039	78017402	0	live	radA	BMF81_RS10560, BMF81_02077	DNA repair protein RadA	DNA repair protein RadA									
+449441	Microcystis aeruginosa NIES-88	66708815	0	live	radA	OA58_RS22120, OA58_22245	DNA repair protein RadA	DNA repair protein RadA									
+375899	Trichormus variabilis 0441	58724548	0	live	radA	GSQ19_RS14660, GSQ19_14660	DNA repair protein RadA	DNA repair protein RadA									
+1628744	Nostoc linckia z6	57092840	0	live	radA	VF07_RS06100, VF07_05950	DNA repair protein RadA	DNA repair protein RadA									
+423471	Crocosphaera watsonii WH 0003	88764873	0	live	radA	CWATWH0003_RS04765, CWATWH0003_1002	DNA repair protein RadA	DNA repair protein RadA									
+98439	Fischerella thermalis PCC 7521	35799024	0	live	radA	UYK_RS0112645	DNA repair protein RadA	DNA repair protein RadA									
+269084	Synechococcus elongatus PCC 6301	72430315	0	live	radA	PCC6301pg_RS07535, PCC6301pg_1518	DNA repair protein RadA	DNA repair protein RadA									
+2971778	Umezakia ovalisporum Ak1311	83683885	0	live	radA	NWP25_RS03205, NWP25_03210	DNA repair protein RadA	DNA repair protein RadA									
+2692891	Aphanizomenon flos-aquae FACHB-1287	78218662	0	live	radA	H6G44_RS11805, H6G44_11765	DNA repair protein RadA	DNA repair protein RadA									
+2108055	Cylindrospermopsis raciborskii Cr2010	92779397	0	live	radA	C6N34_RS01205, C6N34_001205	DNA repair protein RadA	DNA repair protein RadA									
+1160	Planktothrix agardhii	77289712	0	live	radA	NMG88_RS17875, NO976_03574	DNA repair protein RadA	DNA repair protein RadA		I							
+423471	Crocosphaera watsonii WH 0003	88768447	0	live	iscB	CWATWH0003_RS24260, CWATWH0003_5111	RNA-guided endonuclease IscB	RNA-guided endonuclease IscB									
+1914872	Nodularia spumigena UHCC 0039	78019764	0	live	iscB	BMF81_RS23115, BMF81_04561	RNA-guided endonuclease IscB	RNA-guided endonuclease IscB									
+1914872	Nodularia spumigena UHCC 0039	78019393	0	live	iscB	BMF81_RS21155, BMF81_04170	RNA-guided endonuclease IscB	RNA-guided endonuclease IscB									
+1914872	Nodularia spumigena UHCC 0039	78018937	0	live	iscB	BMF81_RS18750	RNA-guided endonuclease IscB	RNA-guided endonuclease IscB									
+1914872	Nodularia spumigena UHCC 0039	78018642	0	live	iscB	BMF81_RS17190, BMF81_03364	RNA-guided endonuclease IscB	RNA-guided endonuclease IscB									
+1914872	Nodularia spumigena UHCC 0039	78018472	0	live	iscB	BMF81_RS16275	RNA-guided endonuclease IscB	RNA-guided endonuclease IscB									
+1914872	Nodularia spumigena UHCC 0039	78018375	0	live	iscB	BMF81_RS15780	RNA-guided endonuclease IscB	RNA-guided endonuclease IscB									
+1914872	Nodularia spumigena UHCC 0039	78018295	0	live	iscB	BMF81_RS15330	RNA-guided endonuclease IscB	RNA-guided endonuclease IscB									
+1914872	Nodularia spumigena UHCC 0039	78017481	0	live	iscB	BMF81_RS10985	RNA-guided endonuclease IscB	RNA-guided endonuclease IscB									
+1914872	Nodularia spumigena UHCC 0039	78017412	0	live	iscB	BMF81_RS10625, BMF81_02087	RNA-guided endonuclease IscB	RNA-guided endonuclease IscB									
+1914872	Nodularia spumigena UHCC 0039	78017410	0	live	iscB	BMF81_RS10610, BMF81_02085	RNA-guided endonuclease IscB	RNA-guided endonuclease IscB									
+1914872	Nodularia spumigena UHCC 0039	78017394	0	live	iscB	BMF81_RS10510, BMF81_02068	RNA-guided endonuclease IscB	RNA-guided endonuclease IscB									
+1914872	Nodularia spumigena UHCC 0039	78016484	0	live	iscB	BMF81_RS05675, BMF81_01111	RNA-guided endonuclease IscB	RNA-guided endonuclease IscB									
+1914872	Nodularia spumigena UHCC 0039	78016468	0	live	iscB	BMF81_RS05590, BMF81_01094	RNA-guided endonuclease IscB	RNA-guided endonuclease IscB									
+1914872	Nodularia spumigena UHCC 0039	78016393	0	live	iscB	BMF81_RS05190, BMF81_01016	RNA-guided endonuclease IscB	RNA-guided endonuclease IscB									
+1914872	Nodularia spumigena UHCC 0039	78015887	0	live	iscB	BMF81_RS02520	RNA-guided endonuclease IscB	RNA-guided endonuclease IscB									
+1914872	Nodularia spumigena UHCC 0039	78015739	0	live	iscB	BMF81_RS01725, BMF81_00333	RNA-guided endonuclease IscB	RNA-guided endonuclease IscB									
+1914872	Nodularia spumigena UHCC 0039	78015711	0	live	iscB	BMF81_RS01580, BMF81_00305	RNA-guided endonuclease IscB	RNA-guided endonuclease IscB									
+375899	Trichormus variabilis 0441	58727323	0	live	iscB	GSQ19_RS28535, GSQ19_28535	RNA-guided endonuclease IscB	RNA-guided endonuclease IscB									
+398007	Dolichospermum circinale AWQC131C	78011336	0	live	iscB	ACIR131C_RS0100870	RNA-guided endonuclease IscB	RNA-guided endonuclease IscB									
+375899	Trichormus variabilis 0441	58726962	0	live	iscB	GSQ19_RS26730, GSQ19_26730	RNA-guided endonuclease IscB	RNA-guided endonuclease IscB									
+1628744	Nostoc linckia z6	57097555	0	live	iscB	VF07_RS31130, VF07_30465	RNA-guided endonuclease IscB	RNA-guided endonuclease IscB									
+423471	Crocosphaera watsonii WH 0003	88766060	0	live	iscB	CWATWH0003_RS11240	pseudo										
+1914872	Nodularia spumigena UHCC 0039	78018765	0	live	iscB	BMF81_RS17835, BMF81_03495	pseudo										
+1914872	Nodularia spumigena UHCC 0039	78019642	0	live	sigC	BMF81_RS22465, BMF81_04429	RNA polymerase sigma factor SigC	RNA polymerase sigma factor SigC									
+449441	Microcystis aeruginosa NIES-88	66705214	0	live	sigC	OA58_RS02660, OA58_02655	RNA polymerase sigma factor SigC	RNA polymerase sigma factor SigC									
+398007	Dolichospermum circinale AWQC131C	78013054	0	live	sigC	ACIR131C_RS0111110	RNA polymerase sigma factor SigC	RNA polymerase sigma factor SigC									
+1160	Planktothrix agardhii	77288313	0	live	sigC	NMG88_RS10880, NO976_02196	RNA polymerase sigma factor SigC	RNA polymerase sigma factor SigC		I							
+375899	Trichormus variabilis 0441	58723833	0	live	sigC	GSQ19_RS11085, GSQ19_11085	RNA polymerase sigma factor SigC	RNA polymerase sigma factor SigC									
+1628744	Nostoc linckia z6	57094167	0	live	sigC	VF07_RS13100, VF07_12795	RNA polymerase sigma factor SigC	RNA polymerase sigma factor SigC									
+269084	Synechococcus elongatus PCC 6301	72430720	0	live	sigC	PCC6301pg_RS09560, PCC6301pg_1925	RNA polymerase sigma factor SigC	RNA polymerase sigma factor SigC									
+423471	Crocosphaera watsonii WH 0003	88764112	0	live	sigC	CWATWH0003_RS00675, CWATWH0003_0144	RNA polymerase sigma factor SigC	RNA polymerase sigma factor SigC									
+98439	Fischerella thermalis PCC 7521	35797444	0	live	sigC	UYK_RS0106255	RNA polymerase sigma factor SigC	RNA polymerase sigma factor SigC									
+2971778	Umezakia ovalisporum Ak1311	83686312	0	live	sigC	NWP25_RS15340, NWP25_15365	RNA polymerase sigma factor SigC	RNA polymerase sigma factor SigC									
+2692891	Aphanizomenon flos-aquae FACHB-1287	78217623	0	live	sigC	H6G44_RS06505, H6G44_06485	RNA polymerase sigma factor SigC	RNA polymerase sigma factor SigC									
+2108055	Cylindrospermopsis raciborskii Cr2010	92781058	0	live	sigC	C6N34_RS09580, C6N34_009555	RNA polymerase sigma factor SigC	RNA polymerase sigma factor SigC									

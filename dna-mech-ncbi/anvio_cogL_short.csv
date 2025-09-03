@@ -1,0 +1,197 @@
+﻿function.y,gene_short
+Excinuclease UvrABC helicase subunit UvrB (UvrB) (PDB:1C4O),UvrB
+Bacterial nucleoid DNA-binding protein IHF-alpha (HimA) (PDB:1B8Z),HimA
+Replicative DNA helicase (DnaB) (PDB:1B79),DnaB
+Superfamily II DNA and RNA helicase (SrmB) (PDB:3RRM),SrmB
+DNA repair exonuclease SbcCD ATPase subunit (SbcC) (PDB:3QKR),SbrC
+DNA repair exonuclease SbcCD nuclease subunit (SbcD) (PDB:6S85),SbcC
+DNA-cytosine methylase (Dcm) (PDB:3LX6),SbcD
+Holliday junction resolvasome RuvABC endonuclease subunit RuvC (RuvC) (PDB:1HJR),RuvC
+"5'-3' exonuclease Xni/ExoIX (flap endonuclease) (ExoIX) (PDB:3ZDA) (PUBMED:19000038;23821668)!!!DNA polymerase I, 3'-5' exonuclease and polymerase domains (PolA) (PDB:1D8Y)",ExolX/PolA
+"DNA repair protein RadA/Sms, contains AAA+ ATPase domain (Sms) (PDB:5LKM) (PUBMED:30877841)",Sms
+"DNA polymerase III, delta subunit (HolA) (PDB:3ZH9)",HolA
+"DNA modification methylase (YhdJ) (PDB:1BOO)!!!Adenine-specific DNA methylase, contains a Zn-ribbon domain",YhdJ
+Deoxyribodipyrimidine photolyase (PhrB) (PDB:1TEZ),PhrB
+Recombination-promoting DNA endonuclease RpnC/YadD (RpnC) (PUBMED:28096446),RpnC
+Chromosomal replication initiation ATPase DnaA (DnaA) (PDB:1L8Q),DnaA
+"Archaeal DNA helicase HerA or a related bacterial ATPase, contains HAS-barrel and ATPase domains (HerA) (PDB:4D2I)",HerA
+Superfamily I DNA or RNA helicase (UvrD) (PDB:6PPR),UvrD
+Site-specific recombinase XerC (XerC),XerC
+Adenine specific DNA methylase Mod (Mod) (PDB:4ZCF),Mod
+Recombinational DNA repair protein RecO (RecF pathway) (RecO) (PDB:1U5K),RecF
+Intein/homing endonuclease (Hop) (PDB:1EF0),Hop
+Predicted Rossmann fold nucleotide-binding protein DprA/Smf involved in DNA uptake (Smf) (PDB:3MAJ),Smf
+"ssDNA-specific exonuclease RecJ, DHH superfamily, may be involved in archaeal DNA replication intiation (RecJ) (PDB:1IR6)",RecJ
+Phosphoenolpyruvate synthase/pyruvate phosphate dikinase (PpsA) (PDB:5HV6)!!!Intein/homing endonuclease (Hop) (PDB:1EF0),PpsA/Hop
+"Endonuclease NucS, RecB family (NucS) (PDB:2VLD)",NucS
+Transcription-repair coupling factor (superfamily II helicase) (Mfd) (PDB:2EYQ),Mfd
+Holliday junction resolvase RusA (prophage-encoded endonuclease) (RusA) (PDB:1Q8R),RusA
+Superfamily II RNA helicase (Dob10) (PDB:4A4Z),Dob10
+"Chromatin segregation and condensation protein Rec8/ScpA/Scc1, kleisin family (ScpA) (PDB:3W6J)",ScpA
+dsDNA-specific endonuclease/ATPase MutS2 (MutS2),MutS2
+Holliday junction resolvasome RuvABC DNA-binding subunit (RuvA) (PDB:1BDX),RuvA
+Uracil-DNA glycosylase (Udg4) (PDB:3IKB),Udg4
+DNA modification methylase (YhdJ) (PDB:1BOO),YhdJ
+"Predicted endonuclease distantly related to archaeal Holliday junction resolvase, YraN/UPF0102 family (YraN) (PDB:3FOV)",YraN
+RecA/RadA recombinase (RecA) (PDB:1B22),RecA
+NAD-dependent DNA ligase (Lig) (PDB:5TT5),Lig
+Exonuclease III (XthA) (PDB:1AKO),XthA
+Superfamily II DNA helicase RecQ (RecQ) (PDB:1OYW),RecQ
+RecG-like helicase (RecG) (PDB:1GM5),RecG
+"Cdc6-related protein, AAA superfamily ATPase (CDC6) (PDB:1FNN)",CDC6
+"DNA polymerase III sliding clamp (beta) subunit, PCNA homolog (DnaN) (PDB:1JQJ)",DnaN
+GTPase involved in cell partioning and DNA repair (Obg) (PDB:1LNZ),Obg
+Superfamily I DNA and/or RNA helicase (DNA2) (PDB:2GJK),DNA2
+"Endonuclease YncB, thermonuclease family (YncB)!!!ABC-type phosphate/phosphonate transport system, periplasmic component (PhnD) (PDB:3S4U)",YncB/PhnD
+Site-specific DNA recombinase SpoIVCA/DNA invertase PinE (SpoIVCA) (PDB:1GDT),SpolVCA
+"ATP-dependent helicase YprA,  contains C-terminal metal-binding DUF1998 domain (YprA)",YprA
+Rad3-related DNA helicase DinG (DinG) (PDB:5H8W),DinG
+DNA topoisomerase IA (TopA) (PDB:1CY0)!!!Uncharacterized C-terminal domain of topoisomerase IA,TopA
+"DNA gyrase/topoisomerase IV, subunit B (GyrB) (PDB:1EI1)",GyrB
+"YqgF/RuvX protein, pre-16S rRNA maturation RNase/Holliday junction resolvase/anti-termination factor (YqgF) (PDB:1IV0) (PUBMED:25545592;26817626)",YqgF
+ADP-ribose pyrophosphatase domain of DNA damage- and competence-inducible protein CinA (CinA) (PDB:4CT9) (PUBMED:25313401)!!!Nicotinamide mononucleotide (NMN) deamidase PncC (PncC) (PDB:2A9S),CinA/PncC
+Superfamily II DNA or RNA helicase (SSL2) (PDB:6JDE),SSL2
+Excinuclease UvrABC ATPase subunit (UvrA) (PDB:2R6F),UvrA
+DNA uptake protein ComE or related DNA-binding protein (ComEA) (PDB:2DUY),ComEA
+"Endonuclease YncB, thermonuclease family (YncB)",YncB
+Recombinational DNA repair protein (RAD52 pathway) (RAD52) (PDB:1H2I),RAD52
+DNA mismatch repair ATPase MutS (MutS) (PDB:1E3M),MutS2
+"DNA polymerase III, alpha subunit (DnaE) (PDB:2HNH)",DnaE
+DNA-adenine methylase (Dam) (PDB:4GOL),Dam
+"Excinuclease UvrABC, nuclease subunit (UvrC) (PDB:2NRT) (PUBMED:24513124)",UvrC
+Single-stranded DNA-binding protein (Ssb) (PDB:1EQQ),Ssb
+Recombinational DNA repair protein RecR (RecR) (PDB:2JGR) (PUBMED:26337406),RecR
+DNA polymerase B elongation subunit (PolB) (PDB:6P1H),PolB
+Broad specificity polyphosphatase and 5'/3'-nucleotidase SurE (SurE) (PDB:2V4N),SurE
+Superfamily II DNA/RNA helicase required for DNA uptake (late competence protein) (ComFA),ComFA
+3-5 helicase subunit RecB of the DNA repair enzyme RecBCD (exonuclease V) (RecB) (PDB:3U44) (PUBMED:29901759;30601118),RecB
+Replication fork clamp-binding protein CrfC (dynamin-like GTPase family) (CrfC) (PDB:1JWY),CrfC
+Formamidopyrimidine-DNA glycosylase (Nei) (PDB:1EE8),Nei
+Ribonuclease HI (RnhA) (PDB:1LAW),RnhA
+"Holliday junction resolvasome RuvABC, ATP-dependent DNA helicase subunit RuvB (RuvB) (PDB:1HQC)",RuvB
+Superfamily I DNA and RNA helicases,SF1
+"DNA gyrase/topoisomerase IV, subunit A (GyrA) (PDB:1SUU)",GyrA
+DNA repair ATPase RecN (RecN) (PDB:4AD8),RecN
+DNA mismatch repair ATPase MutL (MutL) (PDB:1B62),MutL
+DNA primase (bacterial type) (DnaG) (PDB:3B39) (PUBMED:28128549),DnaG
+"Predicted ATP-dependent endonuclease of the OLD family, contains P-loop ATPase and TOPRIM domains (YbjD)",YbjD
+DNA repair photolyase (SplB),SplB
+Ribonuclease HII (RnhB) (PDB:1EKE),RnhB
+"Intein/homing endonuclease (Hop) (PDB:1EF0)!!!DNA polymerase III, gamma/tau subunits (DnaX) (PDB:1A5T)",Hop/DnaX
+"DNA polymerase III, delta prime subunit (HolB) (PDB:1A5T)",HolB
+Recombinational DNA repair ATPase RecF (RecF) (PDB:5Z67),RecF
+Primosomal protein N' (replication factor Y) - superfamily II helicase (PriA) (PDB:6DCR),PriA
+Endonuclease III (Nth) (PDB:4UOB),Nth
+"Superfamily II DNA and RNA helicase (SrmB) (PDB:3RRM)!!!Superfamily II DNA or RNA helicase, SNF2 family (HepA) (PDB:6UXV)",SrmB/HepA
+"Superfamily II DNA or RNA helicase, SNF2 family (HepA) (PDB:6UXV)!!!Intein/homing endonuclease (Hop) (PDB:1EF0)",HepA/Hop
+"DNA repair protein RadC, contains a helix-hairpin-helix DNA-binding motif (RadC) (PDB:2QLC) (PUBMED:9695921)",RadC
+"Superfamily II DNA or RNA helicase, SNF2 family (HepA) (PDB:6UXV)",HepA/Hop
+Uracil-DNA glycosylase (Ung) (PDB:1AKZ) (PUBMED:16237021),Ung
+"DNA polymerase III, gamma/tau subunits (DnaX) (PDB:1A5T)",DnaX
+"Replicative DNA helicase (DnaB) (PDB:1B79)!!!Intein/homing endonuclease (Hop) (PDB:1EF0)!!!Archaeal ribosome-binding protein aMBF1, putative translation factor, contains Zn-ribbon and HTH domains (aMBF1) (PDB:2MEZ) (PUBMED:24825021)",DnaB/Hop/aMBF1
+Site-specific recombinase XerD (XerD) (PDB:1A0P),XerD
+Alkylated DNA repair dioxygenase AlkB (AlkB) (PDB:3KHC),AlkB
+"Superfamily II DNA or RNA helicase, SNF2 family (HepA) (PDB:6UXV)!!!ERCC4-related helicase (MPH1) (PDB:1WP9)",HepA/MPH1
+"Adenine-specific DNA methylase, contains a Zn-ribbon domain",COG1743
+Adenine specific DNA methylase Mod (Mod) (PDB:4ZCF)!!!Very-short-patch-repair endonuclease (YcjD) (PDB:3HRL),Mod/YcjD
+Phosphatidylserine/phosphatidylglycerophosphate/cardiolipin synthase (Cls) (PDB:1BYR)!!!DNA uptake protein ComE or related DNA-binding protein (ComEA) (PDB:2DUY),Cls/ComEA
+"Uncharacterized conserved protein YjbI, contains pentapeptide repeats (YjbI) (PDB:2BM4)!!!Superfamily I DNA and RNA helicases",Yjbl/SF1
+Very-short-patch-repair endonuclease (YcjD) (PDB:3HRL),YcjD
+RecB family exonuclease (Slr0479),Slr0479
+"DNA polymerase III, epsilon subunit or related 3'-5' exonuclease (DnaQ) (PDB:1J53)",DnaQ
+"DNA gyrase/topoisomerase IV, subunit B (GyrB) (PDB:1EI1)!!!Intein/homing endonuclease (Hop) (PDB:1EF0)!!!Transcriptional regulator, contains XRE-family HTH domain (HipB) (PDB:1ADR)",GyrB/Hop/HipB
+Replicative DNA helicase (DnaB) (PDB:1B79)!!!Intein/homing endonuclease (Hop) (PDB:1EF0),DnaB/Hop
+"ssDNA abasic site-binding protein YedK/HMCES, SRAP family (SRAP) (PDB:1ZN6) (PUBMED:30554877;31504793)",SRAP
+3-methyladenine DNA glycosylase Mpg (Mpg) (PDB:1BNK),Mpg
+"Integrase/recombinase, includes phage integrase (FimB)",FimB
+Deoxyinosine 3'-endonuclease (endonuclease V) (Nfi) (PDB:2W35),Nfi
+Endonuclease I (EndA) (PDB:1OUO),EndA
+"Superfamily II DNA helicase RecQ (RecQ) (PDB:1OYW)!!!DNA-binding transcriptional regulator, CsgD family (CsgD)",CsgD
+"Adenine-specific DNA glycosylase, acts on AG and A-oxoG pairs (MutY) (PDB:1KG2)",MutY
+"DNA primase (bacterial type) (DnaG) (PDB:3B39) (PUBMED:28128549)!!!DNA primase, phage- or plasmid-associated",DnaG
+"Exonuclease VII, large subunit (XseA)",XseA
+"Phosphatidylserine/phosphatidylglycerophosphate/cardiolipin synthase (Cls) (PDB:1BYR)!!!DNA polymerase III, alpha subunit (gram-positive type) (PolC)",Cls/PolC
+dCTP deaminase (Dcd) (PDB:1XS1)!!!Intein/homing endonuclease (Hop) (PDB:1EF0),Dcd/Hop
+"Predicted endonuclease, GIY-YIG superfamily (YhbQ) (PDB:1YWL)",YhbQ
+DNA topoisomerase IA (TopA) (PDB:1CY0),TopA
+"Superfamily I DNA or RNA helicase (UvrD) (PDB:6PPR)!!!mRNA-degrading endonuclease RelE, toxin component of the RelBE toxin-antitoxin system (RelE) (PDB:1WMI)",UvrD/RelE
+Lhr-like helicase (Lhr) (PDB:5V9X),Lhr
+"Superfamily I DNA or RNA helicase (UvrD) (PDB:6PPR)!!!DNA polymerase III, alpha subunit (gram-positive type) (PolC)",UvrD/PolC
+Exonuclease VII small subunit (XseB) (PDB:1VP7),XseB
+3-methylpurine DNA glycosylase AlkC (AlkC),AlkC
+ATPase/5-3 helicase helicase subunit RecD of the DNA repair enzyme RecBCD (exonuclease V) (RecD) (PDB:1W36) (PUBMED:29901759;30601118),RecD
+Scaffold subunit RecC of the DNA repair enzyme RecBCD (exonuclease V) (RecC) (PDB:1W36) (PUBMED:30601118),RecC
+Superfamily II DNA or RNA helicase (SSL2) (PDB:6JDE)!!!HKD family nuclease,SSL2
+Replication-associated recombination protein RarA (DNA-dependent ATPase) (RarA) (PDB:3PVS),RarA
+"Superfamily II DNA helicase RecQ (RecQ) (PDB:1OYW)!!!DNA utilization protein ComFC/GntX, contains phosphoribosyltransferase domain (ComFC) (PUBMED:28618091)",RecQ/ComFC
+Antirestriction protein ArdC (ArdC) (PUBMED:10686096),ArdC
+"Type I site-specific restriction-modification system, R (restriction) subunit and related helicases ... (PDB:2W00)!!!Very-short-patch-repair endonuclease (YcjD) (PDB:3HRL)!!!PPE-repeat protein (PPE) (PDB:1XIP)",YcjD/PPE
+Nucleotidyltransferase/DNA polymerase DinP involved in DNA repair (DinP) (PDB:4R8U) (PUBMED:16544291),DinP
+"Adenine-specific DNA methylase, contains a Zn-ribbon domain!!!REP element-mobilizing transposase RayT (RAYT) (PDB:4ER8)",COG1743/RAYT
+"Superfamily II DNA helicase RecQ (RecQ) (PDB:1OYW)!!!Superfamily II DNA or RNA helicase, SNF2 family (HepA) (PDB:6UXV)",RecQ/HepA
+Superfamily II DNA or RNA helicase (SSL2) (PDB:6JDE)!!!Uncharacterized conserved protein,SSL2
+ATP-dependent DNA ligase (CDC9) (PDB:1A0I),CDC9
+DNA replication protein DnaC (DnaC) (PDB:2QGZ),DnaC
+DNA mismatch repair ATPase MutL (MutL) (PDB:1B62)!!!Signal transduction histidine kinase (BaeS) (PDB:1JOY),MutL/BaeS
+Endonuclease I (EndA) (PDB:1OUO)!!!V8-like Glu-specific endopeptidase (eMpr),EndA/eMpr
+"Endonuclease IV (Nfo) (PDB:2NQH)!!!Sialic acid synthase SpsE, contains C-terminal SAF domain (SpsE) (PDB:1VLI)",Nfo/SpsE
+"Transposase and inactivated derivatives, IS30 family (Tra8)!!!Site-specific recombinase XerD (XerD) (PDB:1A0P)",Tra8/XerD
+RecA-family ATPase (RepA),RepA
+"ATP-dependent RNA circularization protein, DNA/RNA ligase (PAB1020)  family (PDB:2VUG) (PUBMED:18511537)",PAB1020
+"Superfamily I DNA and/or RNA helicase (DNA2) (PDB:2GJK)!!!Predicted nuclease, RecB family",DNA2/RecB
+"DNA-directed RNA polymerase, sigma subunit (sigma70/sigma32) (RpoD) (PDB:1SIG)!!!Superfamily II DNA or RNA helicase (SSL2) (PDB:6JDE)",RpoD/SSL2
+"G:T-mismatch repair DNA endonuclease Vsr, very short patch repair protein (Vsr) (PDB:1CW0)",Vsr
+"Thymidylate synthase ThyX, FAD-dependent family (ThyX) (PDB:1KQ4)!!!Intein/homing endonuclease (Hop) (PDB:1EF0)",ThyX/Hop
+"Transcription elongation factor, GreA/GreB family (GreA) (PDB:1GRJ)!!!Superfamily I DNA and/or RNA helicase (DNA2) (PDB:2GJK)!!!Very-short-patch-repair endonuclease (YcjD) (PDB:3HRL)",GreA/DNA2/YcjD
+ERCC4-related helicase (MPH1) (PDB:1WP9),MPH1
+Adenine-specific DNA methylase,COG3392
+"NAD-dependent DNA ligase (Lig) (PDB:5TT5)!!!DNA polymerase III, epsilon subunit or related 3'-5' exonuclease (DnaQ) (PDB:1J53)",Lig/DnaQ
+"DNA polymerase III, alpha subunit (gram-positive type) (PolC)",PolC
+"Type I site-specific restriction-modification system, R (restriction) subunit and related helicases ... (PDB:2W00)!!!Predicted endonuclease, GIY-YIG superfamily (YhbQ) (PDB:1YWL)",PDB:2W00/YhbQ
+RecA-family ATPase (RepA)!!!Uncharacterized domain associated with phage/plasmid primase,RepA
+3-5 helicase subunit RecB of the DNA repair enzyme RecBCD (exonuclease V) (RecB) (PDB:3U44) (PUBMED:29901759;30601118)!!!Superfamily I DNA and RNA helicases,RecB/SF1
+"Phosphoribosylformylglycinamidine (FGAM) synthase, synthetase domain (PurL1) (PDB:3VIU)!!!Intein/homing endonuclease (Hop) (PDB:1EF0)",FGAM/Hop
+"DNA gyrase/topoisomerase IV, subunit B (GyrB) (PDB:1EI1)!!!Intein/homing endonuclease (Hop) (PDB:1EF0)",GyrB/Hop
+Replicative superfamily II helicase (BRR2) (PDB:2VA8),BRR2
+"Superfamily I DNA or RNA helicase (UvrD) (PDB:6PPR)!!!DNA polymerase III, epsilon subunit or related 3'-5' exonuclease (DnaQ) (PDB:1J53)",UvrD/DnaQ
+NAD-dependent DNA ligase (Lig) (PDB:5TT5)!!!Chromosome segregation ATPase Smc (Smc) (PDB:5XG3),Lig/Smc
+"Ribonuclease HI (RnhA) (PDB:1LAW)!!!ACT domain, ACT-3 family (ACT-3) (PDB:1ZVP)",RnhA/ACT-3
+ATP-dependent helicase/DNAse subunit B (AddB) (PDB:3U44),AddB
+DNA repair enzyme Ada (O6-methylguanine-DNA--protein-cysteine methyltransferase) (AdaB) (PDB:6RLA) (PUBMED:29061663),AdaB
+DNA-cytosine methylase (Dcm) (PDB:3LX6)!!!Transposase InsA (InsA),Dcm/InsA
+"3-5 helicase subunit RecB of the DNA repair enzyme RecBCD (exonuclease V) (RecB) (PDB:3U44) (PUBMED:29901759;30601118)!!!CRISPR/Cas system-associated exonuclease Cas4, RecB family (Cas4) (PDB:4R5Q)",RecB/Cas4
+Very-short-patch-repair endonuclease (YcjD) (PDB:3HRL)!!!Predicted helicase (PDB:5FFJ),YcjD/PDB:5FFJ
+"Superfamily II DNA or RNA helicase, SNF2 family (HepA) (PDB:6UXV)!!!Phosphatidylserine/phosphatidylglycerophosphate/cardiolipin synthase (Cls) (PDB:1BYR)",HepA/Cls
+NAD-dependent DNA ligase (Lig) (PDB:5TT5)!!!DNA repair exonuclease SbcCD ATPase subunit (SbcC) (PDB:3QKR),Lig/SbcC
+DNA modification methylase (YhdJ) (PDB:1BOO)!!!Adenine specific DNA methylase Mod (Mod) (PDB:4ZCF),YhdJ/Mod
+Superfamily II DNA and RNA helicase (SrmB) (PDB:3RRM)!!!Superfamily II DNA or RNA helicase (SSL2) (PDB:6JDE),SrmB/SSL2
+3-methyladenine DNA glycosylase Tag (Tag) (PDB:1LMZ),Tag
+3-methyladenine DNA glycosylase AlkD (AlkD) (PDB:3JX7),AlkD
+DNA anti-recombination protein (rearrangement mutator) RmuC (RmuC),RmuC
+3-methyladenine DNA glycosylase/8-oxoguanine DNA glycosylase (AlkA) (PDB:1DIZ),AlkA
+"DNA repair enzyme Ada (O6-methylguanine-DNA--protein-cysteine methyltransferase) (AdaB) (PDB:6RLA) (PUBMED:29061663)!!!Methylphosphotriester-DNA--protein-cysteine methyltransferase (N-terminal fragment of Ada), contains Zn-binding and two AraC-type DNA-binding domains (AdaA) (PDB:1ADN)",AdaAB
+"Predicted 5' DNA nuclease, flap endonuclease-1-like, helix-3-turn-helix (H3TH) domain (H3TH)",H3TH
+Adenine-specific DNA N6-methylase (YtxK) (PDB:2F8L),YtxK
+Superfamily I DNA and/or RNA helicase (DNA2) (PDB:2GJK)!!!Superfamily I DNA and RNA helicases,DNA2/SF1
+"Adenine-specific DNA methylase, N12 class",COG4646
+"Type I restriction-modification system, DNA methylase subunit (HsdM) (PDB:2AR0) (PUBMED:26872910)!!!Adenine-specific DNA methylase, N12 class",HsdM/COG4646
+Recombinational DNA repair ATPase RecF (RecF) (PDB:5Z67)!!!Chromosome segregation ATPase Smc (Smc) (PDB:5XG3),RecF/Smc
+DNA repair enzyme Ada (O6-methylguanine-DNA--protein-cysteine methyltransferase) (AdaB) (PDB:6RLA) (PUBMED:29061663)!!!AraC-type DNA-binding domain and AraC-containing proteins (AraC) (PDB:1BL0),AdaB/AraC
+AraC-type DNA-binding domain and AraC-containing proteins (AraC) (PDB:1BL0)!!!DNA gyrase inhibitor GyrI/SbmC (SbmC) (PDB:1JYH),AraC/SbmC
+Predicted Rossmann fold nucleotide-binding protein DprA/Smf involved in DNA uptake (Smf) (PDB:3MAJ)!!!3-methylpurine DNA glycosylase AlkC (AlkC),Smf/AlkC
+Superfamily II DNA or RNA helicase (SSL2) (PDB:6JDE)!!!5-methylcytosine-specific restriction endonuclease McrA (McrA),SSL2/McrA
+Superfamily I DNA or RNA helicase (UvrD) (PDB:6PPR)!!!Superfamily II DNA helicase RecQ (RecQ) (PDB:1OYW),UvrD/RecQ
+"DNA topoisomerase I, ssDNA-binding Zn-finger and Zn-ribbon domains (YrdD) (PDB:1YUA)",YrdD
+"Superfamily II DNA or RNA helicase, SNF2 family (HepA) (PDB:6UXV)!!!Uncharacterized protein, contains SWIM-type Zn finger domain (SWIM)",HepA/SWIM
+"Excinuclease UvrABC, nuclease subunit (UvrC) (PDB:2NRT) (PUBMED:24513124)!!!DNA polymerase III, alpha subunit (gram-positive type) (PolC)",UvrC/PolC
+Deoxyribodipyrimidine photolyase (PhrB) (PDB:1TEZ)!!!Predicted NAD/FAD-dependent oxidoreductase (PDB:4ZCC),PhrB/PDB:4ZCC
+"DNA topoisomerase I, ssDNA-binding Zn-finger and Zn-ribbon domains (YrdD) (PDB:1YUA)!!!Superfamily I DNA and/or RNA helicase (DNA2) (PDB:2GJK)",YrdD/DNA2
+5'-3' exonuclease Xni/ExoIX (flap endonuclease) (ExoIX) (PDB:3ZDA) (PUBMED:19000038;23821668),ExolX
+"DNA topoisomerase IA (TopA) (PDB:1CY0)!!!DNA topoisomerase I, ssDNA-binding Zn-finger and Zn-ribbon domains (YrdD) (PDB:1YUA)",TopA/YrdD
+3-methyladenine DNA glycosylase/8-oxoguanine DNA glycosylase (AlkA) (PDB:1DIZ)!!!DNA repair enzyme Ada (O6-methylguanine-DNA--protein-cysteine methyltransferase) (AdaB) (PDB:6RLA) (PUBMED:29061663),AlkA/AdaB
+"DNA polymerase III, alpha subunit (gram-positive type) (PolC)!!!Predicted DNA-binding transcriptional regulator YobV, contains HTH and WYL domains (YobV)",PolC/YobV
+DNA gyrase inhibitor GyrI/SbmC (SbmC) (PDB:1JYH),SbmC
+Ribonuclease D (Rnd) (PDB:5C0Y) (PUBMED:18821773)!!!Lhr-like helicase (Lhr) (PDB:5V9X),Rnd/Lhr
+"3-methyladenine DNA glycosylase/8-oxoguanine DNA glycosylase (AlkA) (PDB:1DIZ)!!!Methylphosphotriester-DNA--protein-cysteine methyltransferase (N-terminal fragment of Ada), contains Zn-binding and two AraC-type DNA-binding domains (AdaA) (PDB:1ADN)",AlkA/AdaA
+Ribonuclease HI (RnhA) (PDB:1LAW)!!!Broad specificity phosphatase PhoE (PhoE) (PDB:1EBB),RnhA/PhoE
+0,

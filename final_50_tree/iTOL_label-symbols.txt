@@ -1,0 +1,102 @@
+DATASET_SYMBOL
+#Symbol datasets allow the display of various symbols on the branches of the tree. For each node, one or more symbols can be defined.
+#Each symbol's color, size and position along the branch can be specified.
+
+#lines starting with a hash are comments and ignored during parsing
+#=================================================================#
+#                    MANDATORY SETTINGS                           #
+#=================================================================#
+#select the separator which is used to delimit the data below (TAB,SPACE or COMMA).This separator must be used throughout this file (except in the SEPARATOR line, which uses space).
+#SEPARATOR TAB
+#SEPARATOR SPACE
+SEPARATOR COMMA
+
+#label is used in the legend table (can be changed later)
+DATASET_LABEL,example_symbols
+
+#dataset color (can be changed later)
+COLOR,#ffff00
+
+#=================================================================#
+#                    OPTIONAL SETTINGS                            #
+#=================================================================#
+
+#=================================================================#
+#     all other optional settings can be set or changed later     #
+#           in the web interface (under 'Datasets' tab)           #
+#=================================================================#
+
+
+#largest symbol will be displayed with this size, others will be proportionally smaller.
+MAXIMUM_SIZE,10
+
+
+#Internal tree nodes can be specified using IDs directly, or using the 'last common ancestor' method described in iTOL help pages
+#=================================================================#
+#       Actual data follows after the "DATA" keyword              #
+#=================================================================#
+#the following fields are required for each node:
+#ID,symbol,size,color,fill,position
+#symbol should be a number between 1 and 5:
+#1: rectangle
+#2: circle
+#3: star
+#4: left pointing triangle
+#5: right pointing triangle
+
+#size can be any number. Maximum size in the dataset will be displayed using MAXIMUM_SIZE, while others will be proportionally smaller
+#color can be in hexadecimal, RGB or RGBA notation. If RGB or RGBA are used, dataset SEPARATOR cannot be comma.
+#fill can be 1 or 0. If set to 0, only the outline of the symbol will be displayed.
+#position is a number between 0 and 1 and defines the position of the symbol on the branch (for example, position 0 is exactly at the start of node branch, position 0.5 is in the middle, and position 1 is at the end)
+
+DATA
+CYBIM_31,2,10,#7660f6,1,1
+CYBIM_89,2,10,#7660f6,1,1
+CYBIM_93,2,10,#7660f6,1,1
+PSEUDA_157,1,10,#0ab053,1,1
+CYBIM_119,2,10,#7660f6,1,1
+VULCA_20,2,10,#7660f6,1,1
+CYBIM_52,2,10,#7660f6,1,1
+CYANO_45,1,10,#0ab053,1,1
+CYBIM_73,2,10,#7660f6,1,1
+CYBIM_160,2,10,#7660f6,1,1
+CYBIM_15,2,10,#7660f6,1,1
+CYBIM_190,2,10,#7660f6,1,1
+CYBIM_101,2,10,#7660f6,1,1
+DOLIS_105,1,10,#0ab053,1,1
+MCYST_31,3,10,#e39f0c,1,1
+CYBIM_94,2,10,#7660f6,1,1
+CYBIM_104,2,10,#7660f6,1,1
+CYBIM_157,2,10,#7660f6,1,1
+CYBIM_119_1,2,10,#7660f6,1,1
+CYBIM_77,2,10,#7660f6,1,1
+PSEUDA_281,1,10,#0ab053,1,1
+PSEUDA_13,1,10,#0ab053,1,1
+APHAN_134,1,10,#0ab053,1,1
+MCYST_56,4,10,#f4659d,1,1
+CYBIM_63,2,10,#7660f6,1,1
+CYBIM_76,2,10,#7660f6,1,1
+CYBIM_73_1,2,10,#7660f6,1,1
+DOLIS_187,1,10,#0ab053,1,1
+CYBIM_22,2,10,#7660f6,1,1
+CYBIM_60_1,2,10,#7660f6,1,1
+CYBIM_80,2,10,#7660f6,1,1
+CYBIM_39,2,10,#7660f6,1,1
+MCYST_62,3,10,#e39f0c,1,1
+MCYST_2,3,10,#e39f0c,1,1
+VULCA_28,2,10,#7660f6,1,1
+CYBIM_51,2,10,#7660f6,1,1
+CYBIM_200,2,10,#7660f6,1,1
+VULCA_96,2,10,#7660f6,1,1
+CYBIM_28,2,10,#7660f6,1,1
+CYANO_106,1,10,#0ab053,1,1
+CYBIM_90,2,10,#7660f6,1,1
+VULCA_120,2,10,#7660f6,1,1
+NODOS_103,1,10,#0ab053,1,1
+NODOS_105,1,10,#0ab053,1,1
+CYANO_51_1,1,10,#0ab053,1,1
+PSEUDA_70,1,10,#0ab053,1,1
+CYBIM_136_1,2,10,#7660f6,1,1
+CYBIM_130_1,2,10,#7660f6,1,1
+CYANO_84,1,10,#0ab053,1,1
+PSEUDA_31,1,10,#0ab053,1,1

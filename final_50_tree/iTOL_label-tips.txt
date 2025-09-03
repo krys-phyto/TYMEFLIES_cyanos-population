@@ -1,0 +1,72 @@
+LABELS
+#use this template to change the leaf labels, or define/change the internal node names (displayed in mouseover popups)
+
+#lines starting with a hash are comments and ignored during parsing
+
+#=================================================================#
+#                    MANDATORY SETTINGS                           #
+#=================================================================#
+#select the separator which is used to delimit the data below (TAB,SPACE or COMMA).This separator must be used throughout this file (except in the SEPARATOR line, which uses space).
+
+SEPARATOR TAB
+#SEPARATOR SPACE
+#SEPARATOR COMMA
+
+#Internal tree nodes can be specified using IDs directly, or using the 'last common ancestor' method described in iTOL help pages
+#=================================================================#
+#       Actual data follows after the "DATA" keyword              #
+#=================================================================#
+DATA
+#NODE_ID,LABEL
+CYBIM_31	UBA5018 (CYBIM_31)
+CYBIM_89	Cyanobium (CYBIM_89)
+CYBIM_93	Cyanobium (CYBIM_93)
+PSEUDA_157	Pseudanabaena (PSEUDA_157)
+CYBIM_119	NIES-981 (CYBIM_119)
+VULCA_20	Vulcanococcus (VULCA_20)
+CYBIM_52	NIES-981 (CYBIM_52)
+CYANO_45	Planktothrix agardhii (CYANO_45)
+CYBIM_73	NIES-981 (CYBIM_73)
+CYBIM_160	NIES-981 (CYBIM_160)
+CYBIM_15	Cyanobium (CYBIM_15)
+CYBIM_190	Cyanobium (CYBIM_190)
+CYBIM_101	Cyanobium (CYBIM_101)
+DOLIS_105	Dolichospermum sp001277295 (DOLIS_105)
+MCYST_31	Microcystis aeruginosa (MCYST_31)
+CYBIM_94	NIES-981 (CYBIM_94)
+CYBIM_104	Cyanobium (CYBIM_104)
+CYBIM_157	Cyanobium sp014191755 (CYBIM_157)
+CYBIM_119_1	RGUW01 (CYBIM_119_1)
+CYBIM_77	Cyanobium (CYBIM_77)
+PSEUDA_281	Pseudanabaena (PSEUDA_281)
+PSEUDA_13	Pseudanabaena (PSEUDA_13)
+APHAN_134	Aphanizomenon flos-aquae (APHAN_134)
+MCYST_56	Snowella (MCYST_56)
+CYBIM_63	Cyanobium (CYBIM_63)
+CYBIM_76	Cyanobium (CYBIM_76)
+CYBIM_73_1	Cyanobium (CYBIM_73_1)
+DOLIS_187	Dolichospermum sp000312705 (DOLIS_187)
+VAMPV_261	Ga0077546 (VAMPV_261)
+CYBIM_22	Cyanobium sp014191755 (CYBIM_22)
+CYBIM_60_1	Cyanobium (CYBIM_60_1)
+CYBIM_80	Cyanobium_A (CYBIM_80)
+VAMPV_156	Ga0077546 (VAMPV_156)
+CYBIM_39	Cyanobium sp014191755 (CYBIM_39)
+MCYST_62	Microcystis panniformis (MCYST_62)
+MCYST_2	Microcystis panniformis (MCYST_2)
+VULCA_28	Vulcanococcus (VULCA_28)
+CYBIM_51	UBA5018 (CYBIM_51)
+CYBIM_200	UBA5018 (CYBIM_200)
+VULCA_96	Vulcanococcus (VULCA_96)
+CYBIM_28	NIES-981 (CYBIM_28)
+CYANO_106	Raphidiopsis brookii (CYANO_106)
+CYBIM_90	Cyanobium sp014191755 (CYBIM_90)
+VULCA_120	Vulcanococcus (VULCA_120)
+NODOS_103	Nodosilinea (NODOS_103)
+NODOS_105	Nodosilinea (NODOS_105)
+CYANO_51_1	Limnoraphis robusta (CYANO_51_1)
+PSEUDA_70	Pseudanabaena sp014696925 (PSEUDA_70)
+CYBIM_136_1	NIES-981 (CYBIM_136_1)
+CYBIM_130_1	Cyanobium_A (CYBIM_130_1)
+CYANO_84	Cuspidothrix issatschenkoi (CYANO_84)
+PSEUDA_31	Pseudanabaena (PSEUDA_31)

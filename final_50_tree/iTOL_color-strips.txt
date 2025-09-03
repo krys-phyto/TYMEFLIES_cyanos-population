@@ -1,0 +1,58 @@
+DATASET_COLORSTRIP
+#lines starting with a hash are comments and ignored during parsing
+#select the separator which is used to delimit the data below (TAB,SPACE or COMMA).This separator must be used throught this file (except in the SEPARATOR line, which uses space).
+
+#SEPARATOR TAB
+SEPARATOR SPACE
+#SEPARATOR COMMA
+
+#label is used in the legend table (can be changed later)
+DATASET_LABEL color_strip2
+
+#dataset color (can be changed later)
+COLOR #ff0000
+
+#optional settings
+
+#all other optional settings can be set or changed later in the web interface (under 'Datasets' tab)
+
+#maximum width
+STRIP_WIDTH 25
+
+#left margin, used to increase/decrease the spacing to the next dataset. Can be negative, causing datasets to overlap.
+MARGIN 0
+
+#border width; if set above 0, a black border of specified width (in pixels) will be drawn around the color strip
+BORDER_WIDTH 1
+BORDER_COLOR #000
+
+#show internal values; if set, values associated to internal nodes will be displayed even if these nodes are not collapsed. It could cause overlapping in the dataset display.
+SHOW_INTERNAL 0
+
+#In colored strip charts, each ID is associated to a color. Color can be specified in hexadecimal, RGB or RGBA notation
+#Internal tree nodes can be specified using IDs directly, or using the 'last common ancestor' method described in iTOL help pages
+#Actual data follows after the "DATA" keyword
+DATA
+#ID1 value1
+#ID2 value2
+
+I43 #4cd505 COL#4cd505
+I64 #236a00 COL#236a00
+MCYST_56 #f4659d COL#f4659d
+I59 #e39f0c COL#e39f0c
+I53 #3cb306 COL#3cb306
+I8 #00dede COL#00dede
+I1 #008bff COL#008bff
+I77 #7a05c6 COL#7a05c6
+
+
+
+#I43 #52f000 COL#52f000
+#I53 #52f000 COL#52f000
+#I74 #308e00 COL#308e00
+#I65 #308e00 COL#308e00
+#MCYST_56 #f4659d COL#f4659d
+#I59 #e39f0c COL#e39f0c
+#I77 #7a05c6 COL#7a05c6
+#I1 #00dede COL#00dede
+#I8 #008bff COL#008bff

@@ -1,0 +1,53 @@
+Tree node ID	Tree node label	Position	Color	Style	Factor	Rotation	Text label
+CYBIM_31	g__UBA5018;s__						
+CYBIM_89	g__Cyanobium;s__						
+CYBIM_93	g__Cyanobium;s__						
+PSEUDA_157	g__Pseudanabaena;s__						
+CYBIM_119	g__NIES-981;s__						
+VULCA_20	g__Vulcanococcus;s__						
+CYBIM_52	g__NIES-981;s__						
+CYANO_45	g__Planktothrix;s__Planktothrix agardhii						
+CYBIM_73	g__NIES-981;s__						
+CYBIM_160	g__NIES-981;s__						
+CYBIM_15	g__Cyanobium;s__						
+CYBIM_190	g__Cyanobium;s__						
+CYBIM_101	g__Cyanobium;s__						
+DOLIS_105	g__Dolichospermum;s__Dolichospermum sp001277295						
+MCYST_31	g__Microcystis;s__Microcystis aeruginosa						
+CYBIM_94	g__NIES-981;s__						
+CYBIM_104	g__Cyanobium;s__						
+CYBIM_157	g__Cyanobium;s__Cyanobium sp014191755						
+CYBIM_119_1	g__RGUW01;s__						
+CYBIM_77	g__Cyanobium;s__						
+PSEUDA_281	g__Pseudanabaena;s__						
+PSEUDA_13	g__Pseudanabaena;s__						
+APHAN_134	g__Aphanizomenon;s__Aphanizomenon flos-aquae						
+MCYST_56	g__Snowella;s__						
+CYBIM_63	g__Cyanobium;s__						
+CYBIM_76	g__Cyanobium;s__						
+CYBIM_73_1	g__Cyanobium;s__						
+DOLIS_187	g__Dolichospermum;s__Dolichospermum sp000312705						
+VAMPV_261	g__Ga0077546;s__						
+CYBIM_22	g__Cyanobium;s__Cyanobium sp014191755						
+CYBIM_60_1	g__Cyanobium;s__						
+CYBIM_80	g__Cyanobium_A;s__						
+VAMPV_156	g__Ga0077546;s__						
+CYBIM_39	g__Cyanobium;s__Cyanobium sp014191755						
+MCYST_62	g__Microcystis;s__Microcystis panniformis						
+MCYST_2	g__Microcystis;s__Microcystis panniformis						
+VULCA_28	g__Vulcanococcus;s__						
+CYBIM_51	g__UBA5018;s__						
+CYBIM_200	g__UBA5018;s__						
+VULCA_96	g__Vulcanococcus;s__						
+CYBIM_28	g__NIES-981;s__						
+CYANO_106	g__Raphidiopsis;s__Raphidiopsis brookii						
+CYBIM_90	g__Cyanobium;s__Cyanobium sp014191755						
+VULCA_120	g__Vulcanococcus;s__						
+NODOS_103	g__Nodosilinea;s__						
+NODOS_105	g__Nodosilinea;s__						
+CYANO_51_1	g__Lyngbya;s__Lyngbya robusta						
+PSEUDA_70	g__Pseudanabaena;s__Pseudanabaena sp014696925						
+CYBIM_136_1	g__NIES-981;s__						
+CYBIM_130_1	g__Cyanobium_A;s__						
+CYANO_84	g__Cuspidothrix;s__Cuspidothrix issatschenkoi						
+PSEUDA_31	g__Pseudanabaena;s__						

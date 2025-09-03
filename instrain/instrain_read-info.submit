@@ -1,0 +1,21 @@
+########################################################################
+### Krys Kibler 2025-05-29
+### Condor submit file for running instrain read-info
+### Purpose: iding reads that passed instrain filtering process... i hope
+########################################################################
+
+executable = /home/glbrc.org/kjkibler/cyanoSTRONG/krys/analysis/instrain/instrain-read-info_condor.sh
+
+
+request_cpus = 8
+request_memory = 250GB
+arguments = $(maps)
+
+
+
+output = /home/glbrc.org/kjkibler/cyanoSTRONG/krys/analysis/condor/outs/$(Cluster)_instrain_read-info.out
+error = /home/glbrc.org/kjkibler/cyanoSTRONG/krys/analysis/condor/errs/$(Cluster)_instrain_read-info.err
+log = /home/glbrc.org/kjkibler/cyanoSTRONG/krys/analysis/condor/logs/$(Cluster)_instrain_read-info.log
+
+
+queue maps from /home/glbrc.org/kjkibler/cyanoSTRONG/krys/analysis/bowtie2/comp85_50_cyano-motu_map/bt2/bam.files

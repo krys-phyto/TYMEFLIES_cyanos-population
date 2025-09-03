@@ -1,0 +1,20 @@
+########################################################################
+### Krys Kibler 2024-07-09
+### Condor submit file for running instrain
+### Purpose: microdiversity
+########################################################################
+
+executable = /home/glbrc.org/kjkibler/cyanoSTRONG/krys/analysis/instrain/cyano_diamond_50/instrain_condor2.sh
+
+
+request_cpus = 12
+request_memory = 400GB
+arguments = $(map) $(sampleID)
+
+
+output = /home/glbrc.org/kjkibler/cyanoSTRONG/krys/analysis/condor/outs/$(Cluster)_instrain.out
+error = /home/glbrc.org/kjkibler/cyanoSTRONG/krys/analysis/condor/errs/$(Cluster)_instrain.err
+log = /home/glbrc.org/kjkibler/cyanoSTRONG/krys/analysis/condor/logs/$(Cluster)_instrain.log
+
+
+queue map,sampleID from /home/glbrc.org/kjkibler/cyanoSTRONG/krys/analysis/instrain/cyano_diamond_50/mapping.files.tsv

@@ -1,0 +1,21 @@
+########################################################################
+### Krys Kibler 2024-07-29
+### Condor submit file for running instrain compare on genomes
+### Purpose: running population analyses
+########################################################################
+
+executable = /home/glbrc.org/kjkibler/cyanoSTRONG/krys/analysis/instrain/instrain-compare_condor.sh
+
+
+request_cpus = 8
+request_memory = 500GB
+arguments = $(genome) $(file)
+
+
+
+output = /home/glbrc.org/kjkibler/cyanoSTRONG/krys/analysis/condor/outs/$(Cluster)_instraincompare.out
+error = /home/glbrc.org/kjkibler/cyanoSTRONG/krys/analysis/condor/errs/$(Cluster)_instraincompare.err
+log = /home/glbrc.org/kjkibler/cyanoSTRONG/krys/analysis/condor/logs/$(Cluster)_instraincompare.log
+
+
+queue genome,file from /home/glbrc.org/kjkibler/cyanoSTRONG/krys/analysis/instrain/genomes.tsv
